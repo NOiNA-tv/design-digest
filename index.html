@@ -1,0 +1,312 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#EEF0F4" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0F1014" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Digest">
+<title>Design Digest</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Rubik:wght@400;500;600&family=Secular+One&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: a light table. One column of "sheets" (cards) on a cool board,
+   sticky header with an exposure-sheet style issue strip and a scrollable tab rail. */
+:root{
+  --paper:#EEF0F4; --sheet:#FFFFFF; --ink:#14151B; --muted:#5E6272; --line:#D7DAE2;
+  --accent:#2F3BFF; --accent-soft:#E3E5FF; --hot:#F2541B; --hot-soft:#FFE6DC;
+  --display:"Bricolage Grotesque","Secular One",system-ui,sans-serif;
+  --body:"Rubik",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+  --r:14px;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root{
+  --paper:#0F1014; --sheet:#181A21; --ink:#ECEDF2; --muted:#9A9EAD; --line:#2A2D37;
+  --accent:#8F97FF; --accent-soft:#23264A; --hot:#FF7A4D; --hot-soft:#3A2018; color-scheme:dark}}
+:root[dir="rtl"]{--display:"Secular One","Bricolage Grotesque",system-ui,sans-serif}
+
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--paper);color:var(--ink);font:16px/1.55 var(--body);-webkit-font-smoothing:antialiased;
+  padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+img,video{max-width:100%;display:block}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
+
+/* Header */
+.top{position:sticky;top:0;z-index:10;background:color-mix(in srgb,var(--paper) 88%,transparent);
+  backdrop-filter:saturate(1.4) blur(14px);-webkit-backdrop-filter:saturate(1.4) blur(14px);
+  border-bottom:1px solid var(--line);padding-top:env(safe-area-inset-top,0px)}
+.bar{max-width:760px;margin:0 auto;padding:12px 16px 8px;display:flex;align-items:center;gap:12px}
+.brand{font:800 20px/1 var(--display);white-space:nowrap;letter-spacing:-.02em;margin:0;flex:1;min-width:0;display:flex;align-items:baseline;gap:8px}
+.brand small{font:500 11px/1 var(--mono);color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+.issue{appearance:none;border:1px solid var(--line);background:var(--sheet);border-radius:999px;padding:6px 12px;font:500 12px var(--mono);color:var(--ink)}
+.lang{display:flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--sheet)}
+.lang button{border:0;background:none;padding:6px 11px;font:600 13px var(--body);cursor:pointer;color:var(--muted)}
+.lang button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+
+.tabs{max-width:760px;margin:0 auto;display:flex;gap:6px;overflow-x:auto;padding:4px 16px 12px;scrollbar-width:none;scroll-snap-type:x proximity}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex:none;scroll-snap-align:start;border:1px solid var(--line);background:var(--sheet);border-radius:999px;padding:7px 14px;
+  font:500 14px var(--body);cursor:pointer;display:flex;align-items:center;gap:7px;color:var(--ink);white-space:nowrap}
+.tab .n{font:500 11px var(--mono);color:var(--muted)}
+.tab[aria-selected="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.tab[aria-selected="true"] .n{color:rgba(255,255,255,.75)}
+
+/* Main */
+main{max-width:760px;margin:0 auto;padding:20px 16px 64px;display:grid;gap:22px}
+.lede{display:grid;gap:10px;padding:4px 2px 6px}
+.lede h2{font:800 clamp(30px,8vw,46px)/1.02 var(--display);letter-spacing:-.03em;margin:0;text-wrap:balance}
+.lede p{margin:0;color:var(--muted);max-width:62ch}
+.sheetmeta{display:flex;flex-wrap:wrap;gap:6px 14px;font:500 12px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.sheetmeta b{color:var(--ink);font-weight:500}
+
+/* Card */
+.card{background:var(--sheet);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;display:grid}
+.media{position:relative;aspect-ratio:16/10;background:var(--accent-soft);overflow:hidden}
+.media img,.media video{width:100%;height:100%;object-fit:cover}
+.rank{position:absolute;inset-inline-start:12px;top:10px;font:800 56px/1 var(--display);color:#fff;
+  text-shadow:0 2px 18px rgba(0,0,0,.45);letter-spacing:-.04em}
+.kind{position:absolute;inset-inline-end:10px;bottom:10px;font:500 11px var(--mono);text-transform:uppercase;letter-spacing:.06em;
+  background:rgba(10,11,15,.72);color:#fff;padding:5px 9px;border-radius:999px}
+.cover{width:100%;height:100%;display:grid;place-items:center;padding:24px;text-align:center;
+  background:
+    radial-gradient(circle at 18px 18px,var(--line) 2px,transparent 2.5px) 0 0/36px 36px,
+    linear-gradient(135deg,var(--accent-soft),var(--sheet));}
+.cover span{font:800 clamp(24px,6.5vw,38px)/1.05 var(--display);letter-spacing:-.03em;color:var(--accent);text-wrap:balance;max-width:16ch}
+
+.thumbs{display:flex;gap:6px;padding:8px 12px 0;overflow-x:auto;scrollbar-width:none}
+.thumbs::-webkit-scrollbar{display:none}
+.thumbs button{flex:none;border:2px solid transparent;border-radius:8px;padding:0;background:none;cursor:pointer;overflow:hidden;width:68px;aspect-ratio:4/3}
+.thumbs button[aria-current="true"]{border-color:var(--accent)}
+.thumbs img,.thumbs video{width:100%;height:100%;object-fit:cover}
+
+.body{padding:14px 16px 16px;display:grid;gap:12px;min-width:0}
+.row{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.src{font:500 12px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.he-src{font:600 11px var(--body);border:1px solid var(--line);border-radius:999px;padding:1px 8px;color:var(--muted)}
+.card h3{font:700 clamp(20px,5.2vw,25px)/1.15 var(--display);letter-spacing:-.02em;margin:0;text-wrap:balance}
+.why{margin:0;color:var(--muted);font-size:15px}
+
+.viral{display:inline-flex;flex-wrap:wrap;align-items:center;gap:8px;background:var(--hot-soft);color:var(--hot);border-radius:999px;padding:4px 11px 4px 8px;font:600 13px var(--body)}
+.viral .x{font:800 15px/1 var(--display)}
+.bars{display:inline-flex;gap:2px;align-items:flex-end;height:14px}
+.bars i{width:3px;border-radius:2px;background:currentColor;opacity:.25}
+.bars i.on{opacity:1}
+.bars i:nth-child(1){height:5px}.bars i:nth-child(2){height:9px}.bars i:nth-child(3){height:14px}
+
+.tldr{margin:0;padding:0;list-style:none;display:grid;gap:8px}
+.tldr li{position:relative;padding-inline-start:20px;max-width:65ch}
+.tldr li::before{content:"";position:absolute;inset-inline-start:2px;top:.62em;width:8px;height:8px;border-radius:2px;background:var(--accent);transform:rotate(45deg)}
+.label{font:500 11px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+
+.ents{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+.ents::-webkit-scrollbar{display:none}
+.ent{flex:none;display:flex;align-items:center;gap:9px;border:1px solid var(--line);border-radius:999px;padding:4px 14px 4px 4px;max-width:260px}
+.ent .av{width:38px;height:38px;border-radius:50%;flex:none;overflow:hidden;background:var(--accent-soft);color:var(--accent);
+  display:grid;place-items:center;font:700 14px var(--display)}
+.ent .av img{width:100%;height:100%;object-fit:cover}
+.ent div{min-width:0}
+.ent b{display:block;font:600 13px/1.2 var(--body);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ent small{display:block;font-size:12px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+.open{display:flex;align-items:center;justify-content:space-between;gap:10px;border-top:1px dashed var(--line);padding-top:12px}
+.open a{font:600 15px var(--body);color:var(--accent);text-decoration:none;display:inline-flex;align-items:center;gap:6px}
+.open a:hover{text-decoration:underline}
+.arrow{display:inline-block}
+[dir="rtl"] .arrow{transform:scaleX(-1)}
+
+.foot{color:var(--muted);font-size:13px;border-top:1px solid var(--line);padding-top:16px}
+.empty{padding:40px 0;text-align:center;color:var(--muted)}
+.legend{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--muted)}
+
+@media (min-width:720px){
+  .card.wide{grid-template-columns:1fr}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="bar">
+    <h1 class="brand"><span data-t="brand">Design Digest</span><small id="issueNo"></small></h1>
+    <select class="issue" id="issue" aria-label="Issue"></select>
+    <div class="lang" role="group" aria-label="Language">
+      <button id="lang-en" type="button" aria-pressed="true">EN</button>
+      <button id="lang-he" type="button" aria-pressed="false" lang="he">עב</button>
+    </div>
+  </div>
+  <nav class="tabs" id="tabs" role="tablist"></nav>
+</header>
+<main id="main"><p class="empty">Loading this week's digest…</p></main>
+
+<script>
+const UI = {
+  en:{brand:"Design Digest",week:"Week of",nl:"newsletters",src:"sources",kept:"picks",tldr:"TL;DR",who:"In this story",open:"Open original",
+      mentioned:n=>`${n} mentions`,in:"in",legend:"Picked up by several newsletters this week",hebrew:"Hebrew source",
+      filtered:"Filtered out this week:",loadErr:"Couldn't load this issue. Check your connection and refresh.",issue:"Issue"},
+  he:{brand:"הלקט",week:"שבוע",nl:"ניוזלטרים",src:"מקורות",kept:"פריטים",tldr:"בקצרה",who:"מופיעים בכתבה",open:"למקור",
+      mentioned:n=>`${n} אזכורים`,in:"ב־",legend:"תוכן שהופיע בכמה ניוזלטרים השבוע",hebrew:"מקור בעברית",
+      filtered:"מה סיננו השבוע:",loadErr:"לא הצלחנו לטעון את הגיליון. בדקו את החיבור ורעננו.",issue:"גיליון"}
+};
+const KIND_HE = {"news":"חדשות","deep dive":"לעומק","behind the scenes":"מאחורי הקלעים","case study":"מקרה בוחן","showcase":"תצוגה",
+  "short film":"סרט קצר","trailer":"טריילר","series":"סדרה","industry":"תעשייה","box office":"קופות","production":"הפקה",
+  "studio profile":"פרופיל סטודיו","type design":"עיצוב פונטים","illustration":"איור","editorial":"עריכה","design history":"היסטוריה של עיצוב",
+  "process":"תהליך","micro-interactions":"מיקרו־אינטראקציות","tool":"כלי","concept":"קונספט","trend":"טרנד","character design":"עיצוב דמויות",
+  "analysis":"ניתוח","interview":"ראיון","essay":"מאמר","podcast":"פודקאסט","first person":"גוף ראשון","advice":"עצות","contest":"תחרות",
+  "event":"אירוע","comics":"קומיקס","film criticism":"ביקורת קולנוע"};
+
+const store = {get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+let lang = store.get("dd-lang")==="he" ? "he" : "en";
+let issues = [], data = null, tab = null;
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const t = obj => obj ? (obj[lang] ?? obj.en ?? "") : "";
+const total = it => (it.mentions||[]).reduce((a,m)=>a+m.count,0);
+const sourcesLabel = it => [...new Set((it.mentions||[]).map(m=>m.source))].join(" · ");
+const initials = s => s.replace(/[^\p{L}\p{N} ]/gu,"").split(/\s+/).filter(Boolean).slice(0,2).map(w=>w[0]).join("").toUpperCase();
+
+function applyLang(){
+  document.documentElement.lang = lang;
+  document.documentElement.dir = lang==="he" ? "rtl" : "ltr";
+  $("#lang-en").setAttribute("aria-pressed", lang==="en");
+  $("#lang-he").setAttribute("aria-pressed", lang==="he");
+  document.querySelectorAll("[data-t]").forEach(el=>el.textContent = UI[lang][el.dataset.t]);
+  $("#issue").setAttribute("aria-label", UI[lang].issue);
+  document.title = UI[lang].brand;
+}
+
+function coverHTML(it){ return `<div class="cover"><span>${esc(t(it.title))}</span></div>`; }
+
+function mediaHTML(it, rank){
+  let main;
+  if (it.video) main = `<video src="${esc(it.video)}" poster="${esc(it.image||"")}" autoplay muted loop playsinline preload="metadata"></video>`;
+  else if (it.image) main = `<img src="${esc(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'cover',innerHTML:'<span>'+this.dataset.title+'</span>'}))" data-title="${esc(t(it.title))}">`;
+  else main = coverHTML(it);
+  const kind = lang==="he" ? (KIND_HE[it.kind]||it.kind) : it.kind;
+  return `<div class="media" data-media>${main}${rank?`<span class="rank">${rank}</span>`:""}<span class="kind">${esc(kind)}</span></div>`;
+}
+
+function thumbsHTML(it){
+  const list = [];
+  if (it.video) { list.push({type:"video",src:it.video,poster:it.image}); (it.videos||[]).forEach(v=>list.push({type:"video",src:v.src})); }
+  else if (it.image && it.gallery?.length) { list.push({type:"img",src:it.image}); it.gallery.forEach(g=>list.push({type:"img",src:g})); }
+  if (list.length < 2) return "";
+  return `<div class="thumbs">${list.map((m,i)=>`<button type="button" data-type="${m.type}" data-src="${esc(m.src)}" aria-current="${i===0}" aria-label="${i+1}">${
+    m.type==="video" ? `<video src="${esc(m.src)}#t=0.5" muted playsinline preload="metadata"></video>` :
+    `<img src="${esc(m.src)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()">`}</button>`).join("")}</div>`;
+}
+
+function viralHTML(it){
+  const n = total(it); if (n < 2) return "";
+  const on = Math.min(3, n);
+  return `<span class="viral" title="${esc(sourcesLabel(it))}"><span class="bars">${[1,2,3].map(i=>`<i class="${i<=on?"on":""}"></i>`).join("")}</span>
+    <span class="x">×${n}</span><span>${esc(UI[lang].mentioned(n))} · ${esc(sourcesLabel(it))}</span></span>`;
+}
+
+function entHTML(e){
+  const name = t(e.name);
+  const av = e.img ? `<img src="${esc(e.img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.textContent='${esc(initials(name))}'">` : esc(initials(name));
+  return `<div class="ent"><span class="av">${av}</span><div><b>${esc(name)}</b><small>${esc(t(e.role))}</small></div></div>`;
+}
+
+function cardHTML(it, rank){
+  const ents = (it.entities||[]);
+  return `<article class="card" id="item-${esc(it.id)}">
+    ${mediaHTML(it, rank)}
+    ${thumbsHTML(it)}
+    <div class="body">
+      <div class="row"><span class="src">${esc(sourcesLabel(it))}</span>${it.lang==="he"&&lang==="en"?`<span class="he-src">${UI.en.hebrew}</span>`:""}</div>
+      <h3>${esc(t(it.title))}</h3>
+      ${viralHTML(it) ? `<div>${viralHTML(it)}</div>` : ""}
+      <p class="why">${esc(t(it.why))}</p>
+      <div class="label">${UI[lang].tldr}</div>
+      <ul class="tldr">${(it.tldr?.[lang]||it.tldr?.en||[]).map(b=>`<li>${esc(b)}</li>`).join("")}</ul>
+      ${ents.length?`<div class="label">${UI[lang].who}</div><div class="ents">${ents.map(entHTML).join("")}</div>`:""}
+      <div class="open"><a href="${esc(it.url)}" target="_blank" rel="noopener">${UI[lang].open} <span class="arrow">→</span></a></div>
+    </div>
+  </article>`;
+}
+
+function itemsFor(id){
+  if (id==="top") return data.items.filter(i=>i.top).sort((a,b)=>a.top-b.top);
+  return data.items.filter(i=>i.tab===id).sort((a,b)=> total(b)-total(a) || (a.top||99)-(b.top||99));
+}
+
+function renderTabs(){
+  $("#tabs").innerHTML = data.tabs.map(tb=>`<button class="tab" role="tab" type="button" data-tab="${tb.id}" aria-selected="${tb.id===tab}">
+    ${esc(t(tb))}<span class="n">${itemsFor(tb.id).length}</span></button>`).join("");
+}
+
+function render(){
+  applyLang();
+  if (!data) return;
+  $("#issueNo").textContent = "#" + (issues.length - issues.findIndex(i=>i.id===data.id));
+  $("#issue").innerHTML = issues.map(i=>`<option value="${i.id}" ${i.id===data.id?"selected":""}>${esc(t(i))}</option>`).join("");
+  renderTabs();
+  const list = itemsFor(tab);
+  let html = "";
+  if (tab==="top"){
+    html += `<section class="lede">
+      <div class="sheetmeta"><span>${UI[lang].week} <b>${esc(t(data.range))}</b></span>
+      <span><b>${data.stats.newsletters}</b> ${UI[lang].nl}</span><span><b>${data.stats.sources}</b> ${UI[lang].src}</span><span><b>${data.stats.kept}</b> ${UI[lang].kept}</span></div>
+      <h2>${esc(t(data.tabs.find(x=>x.id==="top")))}</h2>
+      <p>${esc(t(data.intro))}</p>
+      <div class="legend"><span class="viral"><span class="bars"><i class="on"></i><i class="on"></i><i class="on"></i></span><span class="x">×3</span></span>${UI[lang].legend}</div>
+    </section>`;
+  }
+  html += list.map((it,i)=>cardHTML(it, tab==="top"?it.top:null)).join("") || `<p class="empty">—</p>`;
+  html += `<p class="foot"><b>${UI[lang].filtered}</b> ${esc(t(data.filtered))}</p>`;
+  $("#main").innerHTML = html;
+}
+
+function setTab(id, push=true){
+  if (!data.tabs.some(x=>x.id===id)) id = "top";
+  tab = id;
+  if (push) history.replaceState(null,"","#"+id);
+  render();
+  window.scrollTo({top:0});
+  document.querySelector(`.tab[data-tab="${id}"]`)?.scrollIntoView({inline:"center",block:"nearest"});
+}
+
+async function loadIssue(id){
+  const r = await fetch(`data/${id}.json`, {cache:"no-cache"});
+  if (!r.ok) throw new Error(r.status);
+  data = await r.json();
+  setTab((location.hash||"#top").slice(1), false);
+}
+
+document.addEventListener("click", e=>{
+  const tb = e.target.closest(".tab"); if (tb) return setTab(tb.dataset.tab);
+  const th = e.target.closest(".thumbs button");
+  if (th){
+    const card = th.closest(".card"), media = card.querySelector("[data-media]");
+    card.querySelectorAll(".thumbs button").forEach(b=>b.setAttribute("aria-current", b===th));
+    const old = media.querySelector("img,video,.cover");
+    const el = th.dataset.type==="video"
+      ? Object.assign(document.createElement("video"),{src:th.dataset.src,autoplay:true,muted:true,loop:true,playsInline:true})
+      : Object.assign(document.createElement("img"),{src:th.dataset.src,alt:"",referrerPolicy:"no-referrer"});
+    old.replaceWith(el);
+  }
+});
+$("#lang-en").onclick = ()=>{ lang="en"; store.set("dd-lang",lang); render(); };
+$("#lang-he").onclick = ()=>{ lang="he"; store.set("dd-lang",lang); render(); };
+$("#issue").onchange = e=>loadIssue(e.target.value).catch(()=>{$("#main").innerHTML=`<p class="empty">${UI[lang].loadErr}</p>`});
+addEventListener("hashchange", ()=>data && setTab(location.hash.slice(1), false));
+
+(async()=>{
+  applyLang();
+  try{
+    const r = await fetch("data/index.json",{cache:"no-cache"});
+    issues = (await r.json()).issues;
+    await loadIssue(issues[0].id);
+  }catch(e){ $("#main").innerHTML = `<p class="empty">${UI[lang].loadErr}</p>`; }
+})();
+</script>
+</body>
+</html>
