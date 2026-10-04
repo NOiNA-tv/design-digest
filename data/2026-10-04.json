@@ -101,7 +101,48 @@
       "en": "Feature Grand Prize",
       "he": "הפרס הגדול – פיצ׳ר"
      },
-     "img": "https://www.cartoonbrew.com/wp-content/uploads/2026/06/We-Are-Aliens-Head-288x216.jpg"
+     "img": "https://www.cartoonbrew.com/wp-content/uploads/2026/06/We-Are-Aliens-Head-288x216.jpg",
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=VPgD78eqyyQ",
+      "label": {
+       "en": "Watch trailer",
+       "he": "לצפייה בטריילר"
+      }
+     }
+    },
+    {
+     "name": {
+      "en": "Praying Mantis",
+      "he": "Praying Mantis"
+     },
+     "role": {
+      "en": "Short Grand Prize",
+      "he": "הפרס הגדול – סרט קצר"
+     },
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=DuOmZv1w8Tk",
+      "label": {
+       "en": "Watch trailer",
+       "he": "לצפייה בטריילר"
+      }
+     }
+    },
+    {
+     "name": {
+      "en": "Ball Face",
+      "he": "Ball Face"
+     },
+     "role": {
+      "en": "4 awards, student film",
+      "he": "4 פרסים, סרט סטודנטים"
+     },
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=RsbDI2MIGKI",
+      "label": {
+       "en": "Watch trailer",
+       "he": "לצפייה בטריילר"
+      }
+     }
     },
     {
      "name": {
@@ -133,6 +174,13 @@
      "role": {
       "en": "Best sound design",
       "he": "עיצוב סאונד"
+     },
+     "watch": {
+      "url": "https://vimeo.com/ondemand/papertrail2026",
+      "label": {
+       "en": "Watch on Vimeo",
+       "he": "לצפייה ב־Vimeo"
+      }
      }
     }
    ]
@@ -295,8 +343,34 @@
       "en": "Animation studio",
       "he": "אולפן האנימציה"
      }
+    },
+    {
+     "name": {
+      "en": "Ray Gunn trailer",
+      "he": "הטריילר של ריי גאן"
+     },
+     "role": {
+      "en": "Netflix, Dec 18",
+      "he": "נטפליקס, 18 בדצמבר"
+     },
+     "img": "https://www.cartoonbrew.com/wp-content/uploads/2026/09/Ray-Gunn-Chase-1-scaled.jpg",
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=IDQB6kaKWpM",
+      "label": {
+       "en": "Watch trailer",
+       "he": "לצפייה בטריילר"
+      }
+     }
     }
-   ]
+   ],
+   "embed": {
+    "provider": "youtube",
+    "id": "IDQB6kaKWpM",
+    "label": {
+     "en": "Official trailer",
+     "he": "טריילר רשמי"
+    }
+   }
   },
   {
    "id": "mox-formula-e",
@@ -341,6 +415,23 @@
    "entities": [
     {
      "name": {
+      "en": "Formula E identity film",
+      "he": "סרט הזהות של פורמולה E"
+     },
+     "role": {
+      "en": "Launch video",
+      "he": "סרטון ההשקה"
+     },
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=nz0iZ5ev014",
+      "label": {
+       "en": "Watch",
+       "he": "לצפייה"
+      }
+     }
+    },
+    {
+     "name": {
       "en": "Matt Bolton",
       "he": "מאט בולטון"
      },
@@ -360,7 +451,15 @@
      },
      "img": "https://m.itsnicethat.com/original_images/mox-foruma-e-graphic-design-itsnicethat-2.jpg"
     }
-   ]
+   ],
+   "embed": {
+    "provider": "youtube",
+    "id": "nz0iZ5ev014",
+    "label": {
+     "en": "Identity launch film",
+     "he": "סרט ההשקה של הזהות"
+    }
+   }
   },
   {
    "id": "ones-to-watch",
@@ -474,7 +573,14 @@
       "en": "Director",
       "he": "במאית"
      },
-     "img": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Cuerpo-de-Christo.jpg"
+     "img": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Cuerpo-de-Christo.jpg",
+     "watch": {
+      "url": "https://www.youtube.com/results?search_query=El+Cuerpo+de+Cristo+Bea+Lema+trailer",
+      "label": {
+       "en": "Find the trailer",
+       "he": "חיפוש הטריילר"
+      }
+     }
     },
     {
      "name": {
@@ -542,6 +648,23 @@
       "en": "Directors",
       "he": "במאים"
      }
+    },
+    {
+     "name": {
+      "en": "Neon Zoo",
+      "he": "Neon Zoo"
+     },
+     "role": {
+      "en": "Production studio",
+      "he": "אולפן ההפקה"
+     },
+     "watch": {
+      "url": "https://www.youtube.com/@weareneonzoo",
+      "label": {
+       "en": "Studio channel",
+       "he": "ערוץ האולפן"
+      }
+     }
     }
    ]
   },
@@ -599,8 +722,33 @@
       "en": "Research partner",
       "he": "שותף מחקר"
      }
+    },
+    {
+     "name": {
+      "en": "Behind the scenes",
+      "he": "מאחורי הקלעים"
+     },
+     "role": {
+      "en": "How the AI pipeline worked",
+      "he": "איך עבד הפייפליין"
+     },
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=60_WPBkuqyA",
+      "label": {
+       "en": "Watch BTS",
+       "he": "לצפייה"
+      }
+     }
     }
-   ]
+   ],
+   "embed": {
+    "provider": "youtube",
+    "id": "eCk5VFKKz08",
+    "label": {
+     "en": "Trailer",
+     "he": "טריילר"
+    }
+   }
   },
   {
    "id": "gobelins",
@@ -642,7 +790,32 @@
      "role": {
       "en": "First release",
       "he": "הסרט הראשון"
+     },
+     "watch": {
+      "url": "https://www.youtube.com/@gobelins",
+      "label": {
+       "en": "Gobelins channel",
+       "he": "ערוץ גובלן"
+      }
      }
+    },
+    {
+     "name": {
+      "en": "Gobelins on Vimeo",
+      "he": "גובלן ב־Vimeo"
+     },
+     "role": {
+      "en": "Graduation film archive",
+      "he": "ארכיון סרטי גמר"
+     },
+     "watch": {
+      "url": "https://vimeo.com/channels/lesgobelins",
+      "label": {
+       "en": "Browse films",
+       "he": "לכל הסרטים"
+      }
+     },
+     "q": "Gobelins school of images"
     }
    ]
   },
@@ -650,7 +823,7 @@
    "id": "pixar-fruit-nut",
    "tab": "watch",
    "kind": "short film",
-   "url": "https://www.youtube.com/@Pixar/videos",
+   "url": "https://www.youtube.com/watch?v=1an6_gb03zQ",
    "mentions": [
     {
      "source": "Short of the Week",
@@ -677,7 +850,34 @@
      "זמין לצפייה חינם בערוץ היוטיוב של פיקסאר."
     ]
    },
-   "entities": []
+   "entities": [
+    {
+     "name": {
+      "en": "Fruit & Nut",
+      "he": "Fruit & Nut"
+     },
+     "role": {
+      "en": "Pixar Artist Short Film",
+      "he": "סרט אמן של פיקסאר"
+     },
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=1an6_gb03zQ",
+      "label": {
+       "en": "Watch full short",
+       "he": "לצפייה בסרט המלא"
+      }
+     },
+     "q": "Pixar Fruit & Nut short"
+    }
+   ],
+   "embed": {
+    "provider": "youtube",
+    "id": "1an6_gb03zQ",
+    "label": {
+     "en": "Full short film",
+     "he": "הסרט המלא"
+    }
+   }
   },
   {
    "id": "skydance",
@@ -794,8 +994,33 @@
       "en": "Studio",
       "he": "אולפן"
      }
+    },
+    {
+     "name": {
+      "en": "Puss in Boots: The Last Wish",
+      "he": "החתול במגפיים: המשאלה האחרונה"
+     },
+     "role": {
+      "en": "Same directors, $480M",
+      "he": "אותם במאים, 480 מיליון דולר"
+     },
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=FGmewdW4sm0",
+      "label": {
+       "en": "Watch trailer",
+       "he": "לצפייה בטריילר"
+      }
+     }
     }
-   ]
+   ],
+   "embed": {
+    "provider": "youtube",
+    "id": "aCvQc6Mt7gE",
+    "label": {
+     "en": "Official trailer",
+     "he": "טריילר רשמי"
+    }
+   }
   },
   {
    "id": "adventure-time",
@@ -851,6 +1076,25 @@
       "en": "Showrunner",
       "he": "שואוראנר"
      }
+    },
+    {
+     "name": {
+      "en": "Side Quests S2",
+      "he": "Side Quests עונה 2"
+     },
+     "role": {
+      "en": "Trailer",
+      "he": "טריילר"
+     },
+     "img": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Side-Quests-S2.jpg",
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=DX-B5Nb-3_s",
+      "label": {
+       "en": "Watch trailer",
+       "he": "לצפייה בטריילר"
+      }
+     },
+     "q": "Adventure Time: Side Quests"
     }
    ]
   },
@@ -887,6 +1131,25 @@
     ]
    },
    "entities": [
+    {
+     "name": {
+      "en": "KPop Demon Hunters (2025)",
+      "he": "ציידות השדים של הקיי־פופ (2025)"
+     },
+     "role": {
+      "en": "The original film",
+      "he": "הסרט הראשון"
+     },
+     "img": "https://www.cartoonbrew.com/wp-content/uploads/2025/12/KPop-Demon-Hunters-Bucheon.jpg",
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=pgygJC0Drek",
+      "label": {
+       "en": "Watch trailer",
+       "he": "לצפייה בטריילר"
+      }
+     },
+     "q": "KPop Demon Hunters"
+    },
     {
      "name": {
       "en": "Ted Sarandos",
@@ -1209,6 +1472,17 @@
       "en": "Studio, 1963",
       "he": "סטודיו, 1963"
      }
+    },
+    {
+     "name": {
+      "en": "New Alphabet (1967)",
+      "he": "New Alphabet (1967)"
+     },
+     "role": {
+      "en": "Typeface for early screens",
+      "he": "פונט למסכי מחשב מוקדמים"
+     },
+     "q": "Wim Crouwel New Alphabet"
     }
    ]
   },
@@ -1255,6 +1529,13 @@
      "role": {
       "en": "Open-source set",
       "he": "סט קוד פתוח"
+     },
+     "watch": {
+      "url": "https://github.com/googlefonts/noto-emoji",
+      "label": {
+       "en": "Get the files (GitHub)",
+       "he": "להורדת הקבצים (GitHub)"
+      }
      }
     }
    ]
@@ -1643,6 +1924,23 @@
       "he": "ממייסדי דרימוורקס"
      },
      "img": "https://www.thewrap.com/wp-content/uploads/2026/07/Jeff-Katzenberg.jpg"
+    },
+    {
+     "name": {
+      "en": "The Town podcast",
+      "he": "הפודקאסט The Town"
+     },
+     "role": {
+      "en": "Katzenberg on AI",
+      "he": "קצנברג על AI"
+     },
+     "watch": {
+      "url": "https://www.theringer.com/podcasts/the-town-with-matthew-belloni/2026/09/23/jeffrey-katzenberg-on-why-hollywood-must-embrace-ai",
+      "label": {
+       "en": "Listen",
+       "he": "להאזנה"
+      }
+     }
     }
    ]
   },
@@ -1854,6 +2152,23 @@
       "he": "במאי בפיקסאר"
      },
      "img": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Daniel-Chong.jpg"
+    },
+    {
+     "name": {
+      "en": "24 Hours Contest",
+      "he": "תחרות 24 השעות"
+     },
+     "role": {
+      "en": "Register & rules",
+      "he": "הרשמה וחוקים"
+     },
+     "watch": {
+      "url": "https://24hourscontest.com",
+      "label": {
+       "en": "Contest site",
+       "he": "אתר התחרות"
+      }
+     }
     }
    ]
   },
