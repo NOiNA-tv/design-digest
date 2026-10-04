@@ -8,8 +8,8 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Digest">
-<title>Design Digest</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%233CC4DC'/%3E%3Cpath d='M18 18h14a14 14 0 0 1 0 28H18z' fill='%23052A31'/%3E%3Ccircle cx='46' cy='18' r='5' fill='%23FF5A3C'/%3E%3C/svg%3E">
+<title>the digest</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 64 64%27%3E%3Ctext x=%2732%27 y=%2754%27 font-size=%2760%27 font-weight=%27900%27 text-anchor=%27middle%27 fill=%27%233CC4DC%27 font-family=%27Georgia,serif%27%3E%C2%B6%3C/text%3E%3C/svg%3E">
 <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%233CC4DC'/%3E%3Cpath d='M18 18h14a14 14 0 0 1 0 28H18z' fill='%23052A31'/%3E%3Ccircle cx='46' cy='18' r='5' fill='%23FF5A3C'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -46,25 +46,26 @@ button{font:inherit;color:inherit}
 .top{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--paper) 90%,transparent);
   backdrop-filter:saturate(1.5) blur(14px);-webkit-backdrop-filter:saturate(1.5) blur(14px);
   border-bottom:1px solid var(--line);padding-top:env(safe-area-inset-top,0px)}
-.progress{position:relative;height:5px;background:var(--brand-soft);overflow:hidden}
-.progress i{position:absolute;inset-block:0;inset-inline-start:0;width:0;background:var(--brand);border-radius:0 4px 4px 0;
+.prow{max-width:780px;margin:0 auto;padding:2px 16px 8px;display:flex;align-items:center;gap:10px}
+.progress{position:relative;flex:1;height:8px;border-radius:999px;background:var(--brand-soft);overflow:hidden}
+.progress i{position:absolute;inset-block:0;inset-inline-start:0;width:0;background:var(--brand);border-radius:999px;
   transition:width .5s cubic-bezier(.2,.8,.2,1)}
-[dir="rtl"] .progress i{border-radius:4px 0 0 4px}
 .progress.done i{width:100%!important;background:linear-gradient(90deg,var(--brand),#7BE0B5,#FFD15C,var(--hot),var(--brand));
   background-size:300% 100%;animation:shimmer 2.4s linear infinite}
 @keyframes shimmer{to{background-position:300% 0}}
 
 .bar{max-width:780px;margin:0 auto;padding:10px 16px 6px;display:flex;align-items:center;gap:10px}
-.brand{font:800 21px/1 var(--display);letter-spacing:-.02em;margin:0;flex:1;min-width:0;display:flex;align-items:center;gap:9px;white-space:nowrap}
+.brand{font:800 23px/1 var(--display);letter-spacing:-.02em;margin:0;flex:1;min-width:0;display:flex;align-items:baseline;gap:7px;white-space:nowrap}
+.no{font:600 13px var(--mono);color:var(--muted);letter-spacing:0}
 .bt{overflow:hidden;text-overflow:ellipsis;min-width:0}
-.logo{width:28px;height:28px;border-radius:9px;background:var(--brand);display:grid;place-items:center;flex:none;font-size:15px}
-.count{font:600 13px var(--body);color:var(--brand-ink);background:var(--brand-soft);border-radius:999px;padding:5px 10px;white-space:nowrap;font-variant-numeric:tabular-nums}
-.count.done{background:var(--good);color:#fff}
-.issue{appearance:none;-webkit-appearance:none;border:1px solid var(--line);background:var(--sheet);border-radius:999px;padding:5px 30px 5px 12px;font:600 14px var(--body);color:var(--ink);cursor:pointer;
-  background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);background-position:calc(100% - 15px) 52%,calc(100% - 10px) 52%;background-size:5px 5px;background-repeat:no-repeat}
-[dir="rtl"] .issue{padding:5px 12px 5px 30px;background-position:15px 52%,10px 52%}
+.logo{font:800 30px/.8 var(--display);color:var(--brand);flex:none;transform:translateY(2px)}
+.count{font:600 13.5px var(--body);color:var(--brand-ink);white-space:nowrap;font-variant-numeric:tabular-nums;flex:none}
+.count.done{color:var(--good)}
+.issue{appearance:none;-webkit-appearance:none;border:1px solid var(--line);background:var(--sheet);border-radius:999px;padding:6px 26px 6px 10px;font:600 13px var(--body);color:var(--ink);cursor:pointer;flex:none;
+  background-image:linear-gradient(45deg,transparent 50%,var(--muted) 50%),linear-gradient(135deg,var(--muted) 50%,transparent 50%);background-position:calc(100% - 13px) 52%,calc(100% - 8px) 52%;background-size:5px 5px;background-repeat:no-repeat}
+[dir="rtl"] .issue{padding:6px 10px 6px 26px;background-position:13px 52%,8px 52%}
 .lang{display:flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--sheet);flex:none}
-.lang button{border:0;background:none;padding:6px 11px;font:600 14px var(--body);cursor:pointer;color:var(--muted)}
+.lang button{border:0;background:none;padding:6px 9px;font:600 13px var(--body);cursor:pointer;color:var(--muted)}
 .lang button[aria-pressed="true"]{background:var(--brand);color:var(--on-brand)}
 
 .tabs{max-width:780px;margin:0 auto;display:flex;gap:7px;overflow-x:auto;padding:4px 16px 12px;scrollbar-width:none;scroll-snap-type:x proximity}
@@ -72,11 +73,11 @@ button{font:inherit;color:inherit}
 .tab{flex:none;scroll-snap-align:start;border:1px solid var(--line);background:var(--sheet);border-radius:999px;padding:8px 14px 8px 12px;
   font:500 15px var(--body);cursor:pointer;display:flex;align-items:center;gap:7px;color:var(--ink);white-space:nowrap}
 .tab .em{font-size:17px;line-height:1}
-.tab .n{font:600 12px var(--mono);color:var(--muted);background:var(--paper);border-radius:999px;padding:1px 7px;font-variant-numeric:tabular-nums}
-.tab.complete .n{background:var(--good);color:#fff}
+.tab .n{font:600 12px var(--mono);color:#fff;background:var(--good);border-radius:999px;padding:1px 7px;font-variant-numeric:tabular-nums}
+.tab.complete .n{background:var(--ink);color:var(--paper)}
 .tab[aria-selected="true"]{background:var(--brand);border-color:var(--brand);color:var(--on-brand);font-weight:600}
-.tab[aria-selected="true"] .n{background:rgba(5,42,49,.15);color:var(--on-brand)}
-.tab[aria-selected="true"].complete .n{background:var(--good);color:#fff}
+.tab[aria-selected="true"] .n{background:var(--good);color:#fff}
+.tab[aria-selected="true"].complete .n{background:var(--on-brand);color:var(--brand)}
 
 /* ── Main ───────────────────────────────── */
 main{max-width:780px;margin:0 auto;padding:22px 16px 72px;display:grid;gap:26px;touch-action:pan-y}
@@ -117,8 +118,7 @@ main.in-l{animation:inL .26s ease-out} main.in-r{animation:inR .26s ease-out}
 .play span{width:76px;height:76px;border-radius:50%;background:var(--brand);color:var(--on-brand);display:grid;place-items:center;
   box-shadow:0 8px 30px rgba(0,0,0,.35);transition:transform .2s}
 .play:hover span{transform:scale(1.08)}
-.play svg{width:30px;height:30px;margin-inline-start:4px}
-[dir="rtl"] .play svg{transform:scaleX(-1);margin-inline-start:0;margin-inline-end:4px}
+.play svg{width:30px;height:30px;margin-left:4px}
 .play em{position:absolute;bottom:12px;inset-inline-end:12px;font:600 13px var(--body);font-style:normal;color:#fff;background:rgba(5,20,23,.78);padding:5px 11px;border-radius:999px}
 .cover{width:100%;height:100%;display:grid;place-items:center;padding:24px;text-align:center;
   background:radial-gradient(circle at 18px 18px,color-mix(in srgb,var(--brand) 35%,transparent) 2px,transparent 2.6px) 0 0/36px 36px,
@@ -216,15 +216,15 @@ main.in-l{animation:inL .26s ease-out} main.in-r{animation:inR .26s ease-out}
 </head>
 <body>
 <header class="top">
-  <div class="progress" id="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i></i></div>
   <div class="bar">
-    <h1 class="brand"><span class="logo" aria-hidden="true">📰</span><span class="bt" data-t="brand">Design Digest</span></h1>
-    <span class="count" id="count">0/0</span>
+    <h1 class="brand"><span class="logo" aria-hidden="true">¶</span><span class="bt" data-t="brand">the digest</span><span class="no" id="issueNo"></span></h1>
+    <select class="issue" id="issue" aria-label="Issue"></select>
     <div class="lang" role="group" aria-label="Language">
       <button id="lang-en" type="button" aria-pressed="true">EN</button>
       <button id="lang-he" type="button" aria-pressed="false" lang="he">עב</button>
     </div>
   </div>
+  <div class="prow"><div class="progress" id="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i></i></div><span class="count" id="count">0/0</span></div>
   <nav class="tabs" id="tabs" role="tablist"></nav>
 </header>
 <main id="main"><p class="empty">Loading this week's digest…</p></main>
@@ -238,20 +238,20 @@ main.in-l{animation:inL .26s ease-out} main.in-r{animation:inR .26s ease-out}
 
 <script>
 const UI = {
-  en:{brand:"Design Digest",week:"Week of",nl:"newsletters",src:"sources",kept:"picks",tldr:"TL;DR",who:"In this story",open:"Read the original",
+  en:{brand:"the digest",week:"Week of",nl:"newsletters",src:"sources",kept:"picks",tldr:"TL;DR",who:"In this story",open:"Read the original",
       yt:"Open on YouTube",mentions:n=>`${n} mentions`,hebrew:"Hebrew source",read:"✓ Read",
       filtered:"Filtered out this week:",loadErr:"Couldn't load this issue. Check your connection and refresh.",issue:"Issue",
       swipe:"Swipe left or right to switch tabs",next:"Next up",legend:"= picked up by several newsletters",
       wiki:"Wikipedia",images:"Images",google:"Search",from:"From",
       doneTitle:"You read it all!",doneText:n=>`All ${n} picks this week. See you next Sunday.`,doneBtn:"Yay! 🎉",
-      lastTab:"That's the whole issue",back:"Back to Top 5"},
-  he:{brand:"הלקט",week:"שבוע",nl:"ניוזלטרים",src:"מקורות",kept:"פריטים",tldr:"בקצרה",who:"מופיעים בכתבה",open:"לכתבה המקורית",
+      lastTab:"That's the whole issue",back:"Back to Top 5",top5:"Top 5"},
+  he:{brand:"התלקיט",week:"שבוע",nl:"ניוזלטרים",src:"מקורות",kept:"פריטים",tldr:"בקצרה",who:"מופיעים בכתבה",open:"לכתבה המקורית",
       yt:"לצפייה ביוטיוב",mentions:n=>`${n} אזכורים`,hebrew:"מקור בעברית",read:"✓ נקרא",
       filtered:"מה סיננו השבוע:",loadErr:"לא הצלחנו לטעון את הגיליון. בדקו את החיבור ורעננו.",issue:"גיליון",
       swipe:"החליקו ימינה או שמאלה כדי לעבור בין לשוניות",next:"הבא בתור",legend:"= הופיע בכמה ניוזלטרים",
       wiki:"ויקיפדיה",images:"תמונות",google:"חיפוש",from:"מתוך",
       doneTitle:"קראת הכול!",doneText:n=>`כל ${n} הפריטים של השבוע. נתראה ביום ראשון הבא.`,doneBtn:"יש! 🎉",
-      lastTab:"זה כל הגיליון",back:"חזרה לטופ 5"}
+      lastTab:"זה כל הגיליון",back:"חזרה לטופ 5",top5:"הטופ 5"}
 };
 const TAB_EMOJI = {top:"⭐",watch:"🍿",animation:"🎞️",design:"🎨",motion:"✨",ai:"🤖",career:"💼",israel:"🇮🇱"};
 const KIND = {
@@ -280,6 +280,7 @@ const embedPage=e=>e.provider==="vimeo"?`https://vimeo.com/${e.id}`:`https://www
 const kindLabel=k=>{const m=KIND[k];return `${m?m[0]+" ":""}${lang==="he"&&m?m[1]:k}`};
 const tabOrder=()=>data.tabs.map(x=>x.id);
 const isRTL=()=>lang==="he";
+const shortDate=id=>{const [y,m,d]=id.split("-").map(Number); return lang==="he"?`${d}.${m}`:new Date(y,m-1,d).toLocaleDateString("en",{month:"short",day:"numeric"})};
 
 /* ── Read progress ── */
 const readKey=()=>`dd-read-${data.id}`;
@@ -289,7 +290,7 @@ function updateProgress(){
   const n=data.items.length, r=data.items.filter(i=>readSet.has(i.id)).length, pct=n?Math.round(r/n*100):0;
   const bar=$("#progress"); bar.querySelector("i").style.width=pct+"%"; bar.setAttribute("aria-valuenow",pct);
   bar.classList.toggle("done", r===n && n>0);
-  const c=$("#count"); c.textContent=(r===n&&n?"🏆 ":"📖 ")+r+"/"+n; c.classList.toggle("done", r===n&&n>0);
+  const c=$("#count"); c.textContent=(r===n&&n?"🏆 ":"")+r+"/"+n; c.classList.toggle("done", r===n&&n>0);
   document.querySelectorAll(".tab").forEach(b=>{const ids=itemsFor(b.dataset.tab).map(i=>i.id);
     b.classList.toggle("complete", ids.length>0 && ids.every(id=>readSet.has(id)))});
   if (r===n && n>0 && store.get(`dd-party-${data.id}`)!=="1"){ store.set(`dd-party-${data.id}`,"1"); celebrate(n); }
@@ -392,14 +393,17 @@ function renderTabs(){
 }
 function render(){
   applyLang(); if(!data) return;
+  const sel=$("#issue"); sel.setAttribute("aria-label",UI[lang].issue);
+  sel.innerHTML=issues.map(i=>`<option value="${i.id}" ${i.id===data.id?"selected":""}>🗓 ${esc(shortDate(i.id))}</option>`).join("");
+  $("#issueNo").textContent="#"+(issues.length-issues.findIndex(i=>i.id===data.id));
   renderTabs();
   const ord=tabOrder(), idx=ord.indexOf(tab), cur=data.tabs[idx], nxt=data.tabs[idx+1];
   let html="";
   if(tab==="top"){
     html+=`<section class="lede">
-      <div class="chips"><select class="issue" id="issue" aria-label="${UI[lang].issue}">${issues.map(i=>`<option value="${i.id}" ${i.id===data.id?"selected":""}>🗓 ${esc(t(i))}</option>`).join("")}</select><span class="chip">${UI[lang].week} <b>${esc(t(data.range))}</b></span>
+      <div class="chips"><span class="chip">🗓 ${UI[lang].week} <b>${esc(t(data.range))}</b></span>
         <span class="chip">📬 <b>${data.stats.newsletters}</b> ${UI[lang].nl}</span><span class="chip">🗞 <b>${data.stats.sources}</b> ${UI[lang].src}</span><span class="chip">✅ <b>${data.stats.kept}</b> ${UI[lang].kept}</span></div>
-      <h2>⭐ ${esc(t(cur))}</h2>
+      <h2>⭐ ${UI[lang].top5}</h2>
       <p>${esc(t(data.intro))}</p>
       <div class="chips"><span class="viral"><span class="fl">🔥</span>${heat(3)}<span class="x">×3</span></span><span class="chip" style="border:0;background:none;padding:0">${UI[lang].legend}</span></div>
       ${store.get("dd-swiped")?"":`<div class="hint"><span class="wave">👆</span>${UI[lang].swipe}</div>`}
