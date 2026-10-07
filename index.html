@@ -498,7 +498,7 @@ async function loadIssue(id){
   const h=(location.hash||"#top").slice(1); tab=data.tabs.some(x=>x.id===h)?h:"top"; render();
 }
 (async()=>{ applyLang();
-  try{ const r=await fetch("data/index.json",{cache:"no-cache"}); issues=(await r.json()).issues; await loadIssue(issues[0].id) }
+  try{ const r=await fetch("data/index.json",{cache:"no-cache"}); issues=(await r.json()).issues; const want=new URLSearchParams(location.search).get("issue"); await loadIssue(issues.some(i=>i.id===want)?want:issues[0].id) }
   catch(e){ $("#main").innerHTML=`<p class="empty">${UI[lang].loadErr}</p>` } })();
 </script>
 </body>
