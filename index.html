@@ -470,7 +470,7 @@ document.addEventListener("click",e=>{
   const pl=e.target.closest("[data-play]");
   if(pl){ const card=pl.closest(".card"), it=data.items.find(i=>i.id===card.dataset.id), media=card.querySelector("[data-media]");
     media.classList.add("playing");
-    media.innerHTML=`<iframe src="${embedURL(it.embed)}" title="${esc(t(it.title))}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>`; return }
+    media.innerHTML=`<iframe src="${embedURL(it.embed)}" title="${esc(t(it.title))}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen; screen-wake-lock" allowfullscreen></iframe>`; return }
   const th=e.target.closest(".thumbs button");
   if(th){ const card=th.closest(".card"), media=card.querySelector("[data-media]");
     card.querySelectorAll(".thumbs button").forEach(b=>b.setAttribute("aria-current",b===th));
@@ -484,6 +484,16 @@ document.addEventListener("click",e=>{
 $("#lang-en").onclick=()=>{ lang="en"; store.set("dd-lang",lang); render() };
 $("#lang-he").onclick=()=>{ lang="he"; store.set("dd-lang",lang); render() };
 document.addEventListener("change",e=>{ if(e.target.id==="issue") loadIssue(e.target.value).catch(()=>{$("#main").innerHTML=`<p class="empty">${UI[lang].loadErr}</p>`}) });
+
+/* fullscreen video: turn to landscape (Android ignores device rotation for web video when auto-rotate is off) */
+function onFs(){
+  const el=document.fullscreenElement||document.webkitFullscreenElement, so=screen.orientation;
+  if(!so||!so.lock) return;
+  if(el && el.matches("iframe,video")) so.lock("landscape").catch(()=>{});
+  else if(!el) try{ so.unlock() }catch(e){}
+}
+document.addEventListener("fullscreenchange",onFs);
+document.addEventListener("webkitfullscreenchange",onFs);
 
 /* swipe between tabs */
 let sx=0,sy=0,st=0,skip=false;
