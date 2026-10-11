@@ -1,0 +1,2937 @@
+{
+ "id": "2026-10-11",
+ "range": {
+  "en": "Oct 3 – Oct 10, 2026",
+  "he": "3–10 באוק׳ 2026"
+ },
+ "stats": {
+  "newsletters": 28,
+  "sources": 11,
+  "kept": 40
+ },
+ "intro": {
+  "en": "The week the Hollywood map was redrawn: Skydance closed its Warner Bros. deal, putting seven animation studios under one owner. Meanwhile the craft side kept getting more tactile – thumbprints in CG, crochet in stop-motion, jelly physics in UI – while new data showed how deeply AI is already woven into creative work.",
+  "he": "השבוע שבו מפת הוליווד שורטטה מחדש: Skydance סגרה את העסקה עם וורנר ברדרס, ושבעה אולפני אנימציה עברו לבעלות אחת. במקביל, בצד של המלאכה הכול נהיה מוחשי יותר – טביעות אצבע ב־CG, סרוגה באנימציית סטופ־מושן ופיזיקה של ג׳לי בממשק – ונתונים חדשים הראו עד כמה ה־AI כבר שזור בעבודה היצירתית."
+ },
+ "tabs": [
+  {
+   "id": "top",
+   "en": "Top",
+   "he": "הטופ"
+  },
+  {
+   "id": "watch",
+   "en": "Watch",
+   "he": "לצפייה"
+  },
+  {
+   "id": "animation",
+   "en": "Animation",
+   "he": "אנימציה"
+  },
+  {
+   "id": "design",
+   "en": "Design",
+   "he": "עיצוב"
+  },
+  {
+   "id": "motion",
+   "en": "Motion & UI",
+   "he": "מושן ו־UI"
+  },
+  {
+   "id": "ai",
+   "en": "AI & Craft",
+   "he": "AI ויצירה"
+  },
+  {
+   "id": "career",
+   "en": "Career",
+   "he": "קריירה"
+  },
+  {
+   "id": "israel",
+   "en": "Israel",
+   "he": "בארץ"
+  }
+ ],
+ "items": [
+  {
+   "id": "skydance-merger",
+   "tab": "animation",
+   "top": 1,
+   "kind": "industry",
+   "url": "https://www.cartoonbrew.com/business/skydance-completes-warner-bros-paramount-merger-267550.html",
+   "image": "https://www.cartoonbrew.com/wp-content/uploads/2025/03/whatoperadoc_wbstudio.jpg",
+   "mentions": [
+    {
+     "source": "Cartoon Brew",
+     "count": 2
+    }
+   ],
+   "title": {
+    "en": "Skydance closes the deal: Warner Bros. and Paramount under one roof",
+    "he": "Skydance סוגרת את העסקה: וורנר ברדרס ופרמאונט תחת קורת גג אחת"
+   },
+   "why": {
+    "en": "Looney Tunes, SpongeBob, Cartoon Network and Adult Swim now answer to the same parent company.",
+    "he": "לוני טונס, בובספוג, קרטון נטוורק ואדאלט סווים עונים עכשיו לאותה חברת אם."
+   },
+   "tldr": {
+    "en": [
+     "Skydance completed its takeover of Warner Bros. Discovery on Oct 6, 2026, ending more than a century of the two studios as separate Hollywood institutions.",
+     "Seven animation units now sit under one roof: Warner Bros. Animation, Warner Bros. Pictures Animation, Cartoon Network, Adult Swim, Nickelodeon, Paramount Animation and Skydance Animation.",
+     "The combined company promises 30+ theatrical films and 180+ TV shows a year, while carrying an 11-figure debt load.",
+     "Companion story: outgoing CEO David Zaslav sent staff a farewell video shot on the Burbank lot, closing a 4.5-year run marked by layoffs, the Cartoon Network Studios–WB Animation consolidation and shelved titles like Coyote vs. Acme."
+    ],
+    "he": [
+     "Skydance השלימה ב־6 באוקטובר 2026 את רכישת Warner Bros. Discovery – וכך הסתיימו יותר ממאה שנים שבהן שני האולפנים פעלו כמוסדות נפרדים בהוליווד.",
+     "שבע יחידות אנימציה נמצאות עכשיו תחת אותה קורת גג: Warner Bros. Animation, Warner Bros. Pictures Animation, קרטון נטוורק, אדאלט סווים, ניקלודיאון, Paramount Animation ו־Skydance Animation.",
+     "החברה המאוחדת מבטיחה יותר מ־30 סרטים לקולנוע ויותר מ־180 סדרות בשנה – ובמקביל סוחבת חוב בהיקף של עשרות מיליארדים.",
+     "בכתבה נלווית: המנכ״ל היוצא דייוויד זסלב שלח לעובדים סרטון פרידה שצולם במגרש בברבנק, בסיום כהונה של ארבע שנים וחצי שכללה פיטורים, איחוד Cartoon Network Studios עם WB Animation וגניזת סרטים כמו Coyote vs. Acme."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "David Zaslav",
+      "he": "דייוויד זסלב"
+     },
+     "role": {
+      "en": "Outgoing WBD CEO – “That’s All Folks!”",
+      "he": "המנכ״ל היוצא של WBD – ״That’s All Folks!״"
+     },
+     "img": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Zaslav-Thats-All.jpg",
+     "q": "David Zaslav farewell video Warner Bros. Discovery"
+    },
+    {
+     "name": {
+      "en": "Skydance",
+      "he": "Skydance"
+     },
+     "role": {
+      "en": "New parent of Warner Bros. and Paramount",
+      "he": "חברת האם החדשה של וורנר ופרמאונט"
+     }
+    },
+    {
+     "name": {
+      "en": "Warner Bros. Pictures Animation",
+      "he": "Warner Bros. Pictures Animation"
+     },
+     "role": {
+      "en": "Feature arm rebuilt under Bill Damaschke",
+      "he": "זרוע הפיצ׳רים שנבנתה מחדש תחת ביל דמאשקה"
+     }
+    },
+    {
+     "name": {
+      "en": "Coyote vs. Acme",
+      "he": "Coyote vs. Acme"
+     },
+     "role": {
+      "en": "Shelved by WBD, released in 2026 by Ketchup",
+      "he": "נגנז ב־WBD, יצא ב־2026 דרך Ketchup"
+     },
+     "watch": {
+      "url": "https://www.youtube.com/results?search_query=Coyote+vs.+Acme+official+trailer",
+      "label": {
+       "en": "Find the trailer",
+       "he": "חיפוש הטריילר"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "tales-from-outer-suburbia",
+   "tab": "animation",
+   "top": 2,
+   "kind": "behind the scenes",
+   "url": "https://www.cartoonbrew.com/animators/tales-from-outer-suburbia-flying-bark-australia-267434.html",
+   "image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Tales-From-Outer-Suburbia.jpg",
+   "gallery": [
+    "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Tales-From-Outer-Suburbia-2.jpg",
+    "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Tales-From-Outer-Suburbia-1.jpg",
+    "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Tales-From-Outer-Suburbia-3-scaled.jpg"
+   ],
+   "embed": {
+    "provider": "youtube",
+    "id": "ylMRYVvHN_I",
+    "label": {
+     "en": "Official trailer",
+     "he": "טריילר רשמי"
+    }
+   },
+   "mentions": [
+    {
+     "source": "Cartoon Brew",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Thumbprints and dried glue: faking stop-motion in CG for ‘Tales From Outer Suburbia’",
+    "he": "טביעות אצבע ודבק יבש: לזייף סטופ־מושן בתלת־ממד ב״Tales From Outer Suburbia״"
+   },
+   "why": {
+    "en": "A full CG pipeline built to lie convincingly – 12fps, puppet-scale lenses and deliberate imperfections.",
+    "he": "פייפליין תלת־ממדי שלם שנבנה כדי לשקר באופן משכנע – 12 פריימים לשנייה, עדשות בקנה מידה של בובה ופגמים מכוונים."
+   },
+   "tldr": {
+    "en": [
+     "Director Noel Cleary's 10-episode ABC series adapts Shaun Tan's illustrated anthology, with Tan as creative director; Flying Bark and Highly Spirited produce.",
+     "The team studied Laika and Red Nose Studio puppets: hair was sculpted, not groomed, and Substance Painter built clay skin, cloth bodies and leather-strap hair.",
+     "The virtual camera mimics lenses for a 15 cm puppet, shooting at 12fps with flickering light and colour-temperature drift; thumbprints and glue smears were added on purpose, with clay texture kept off the mouth so it wouldn't look rubbery.",
+     "Animation was done at Digitoonz in India; the show is selected for Annecy, won at the Japan Prize and Venice TV Awards, and streams free on BYUtv in the U.S."
+    ],
+    "he": [
+     "הסדרה של הבמאי נואל קלירי, 10 פרקים ל־ABC האוסטרלי, מעבדת את האנתולוגיה המאוירת של שון טאן, שמשמש גם מנהל קריאייטיב. ההפקה של Flying Bark ו־Highly Spirited.",
+     "הצוות למד את הבובות של לייקה ו־Red Nose Studio: השיער פוסל ולא ״גודל״ דיגיטלית, וב־Substance Painter נבנו עור של פלסטלינה, גופי בד ושיער מרצועות עור.",
+     "המצלמה הווירטואלית מחקה עדשות לבובה בגובה 15 ס״מ, ״מצלמת״ ב־12 פריימים לשנייה עם הבהובי אור ושינויי טמפרטורת צבע. טביעות האצבע ומריחות הדבק נוספו בכוונה, ומרקם הפלסטלינה הורחק מאזור הפה כדי שלא ייראה גומי.",
+     "האנימציה נעשתה ב־Digitoonz בהודו. הסדרה נבחרה לאנסי, זכתה בפרסים ב־Japan Prize ובפרסי הטלוויזיה של ונציה, ומשודרת בחינם בארה״ב ב־BYUtv."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Noel Cleary",
+      "he": "נואל קלירי"
+     },
+     "role": {
+      "en": "Director",
+      "he": "במאי"
+     }
+    },
+    {
+     "name": {
+      "en": "Shaun Tan",
+      "he": "שון טאן"
+     },
+     "role": {
+      "en": "Author, creative director",
+      "he": "סופר ומנהל קריאייטיב"
+     },
+     "q": "Shaun Tan Tales from Outer Suburbia book"
+    },
+    {
+     "name": {
+      "en": "Flying Bark Productions",
+      "he": "Flying Bark Productions"
+     },
+     "role": {
+      "en": "Studio, Sydney",
+      "he": "אולפן, סידני"
+     }
+    },
+    {
+     "name": {
+      "en": "Character progressions",
+      "he": "התפתחות הדמויות"
+     },
+     "role": {
+      "en": "From sculpt to final look",
+      "he": "מהפיסול ועד המראה הסופי"
+     },
+     "img": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Tales-From-Outer-Suburbia-4.jpg",
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=RSMKAOG8LvA",
+      "label": {
+       "en": "Watch",
+       "he": "לצפייה"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "orchid-love-and-money",
+   "tab": "design",
+   "top": 3,
+   "kind": "case study",
+   "url": "https://www.itsnicethat.com/articles/love-and-money-telepathic-instruments-orchid-graphic-design-project-061026",
+   "image": "https://m.itsnicethat.com/original_images/love-and-money-graphic-design-itsnicethat-1.jpg?class=w1080",
+   "gallery": [
+    "https://m.itsnicethat.com/original_images/love-and-money-graphic-design-itsnicethat-2-ezgif.com-optimize.gif?class=w1080",
+    "https://m.itsnicethat.com/original_images/love-and-money-graphic-design-itsnicethat-7.jpg?class=w1080",
+    "https://m.itsnicethat.com/original_images/love-and-money-graphic-design-itsnicethat-11.jpg?class=w1080"
+   ],
+   "embed": {
+    "provider": "youtube",
+    "id": "hbO1z13WP8o",
+    "label": {
+     "en": "“How to Orchid”, starring Matt Berry",
+     "he": "״How to Orchid״ בכיכוב מאט ברי"
+    }
+   },
+   "mentions": [
+    {
+     "source": "It's Nice That",
+     "count": 2
+    }
+   ],
+   "title": {
+    "en": "Love And Money's honey-slow identity for Kevin Parker's Orchid synth",
+    "he": "Love And Money מעצבים זהות ״דבשית״ לסינתיסייזר Orchid של קווין פרקר"
+   },
+   "why": {
+    "en": "A logotype that decays like a synth note, plus a pixel typeface built for a 128×128 screen.",
+    "he": "לוגוטייפ שדועך כמו צליל של סינת׳, ופונט פיקסלים שנבנה למסך של 128×128."
+   },
+   "tldr": {
+    "en": [
+     "Orchid (ORC-1) is a mini synth Tame Impala's Kevin Parker dreamed up over a decade ago as a songwriting aid; its chord logic splits chord type, voicing and root note into a tactile grid.",
+     "The wordmark starts from Pangram Pangram's PP Editorial Neue, with hand-drawn ligatures and letters that bleed together. It flips Evan Gendell's trending Superbloom: instead of blooming, it decays.",
+     "On the device, a custom pixel face called Chunky Roll shows the note being played on a 128×128 screen, with glyphs 14–18px tall and 2px/1px strokes.",
+     "An early reference: Parker programmed a 1970s analogue oscilloscope to draw a flower from an audio signal. Motion assets lean on lakes and flower fields, and Matt Berry fronts a half-parody tutorial."
+    ],
+    "he": [
+     "Orchid (ORC-1) הוא מיני־סינת׳ שקווין פרקר מ־Tame Impala הגה לפני יותר מעשור ככלי לכתיבת שירים; מערכת האקורדים שלו מפרקת סוג אקורד, וויסינג ותו בסיס לגריד מוחשי.",
+     "הלוגוטייפ יוצא מ־PP Editorial Neue של Pangram Pangram, עם ליגטורות מצוירות ביד ואותיות שנמסות זו לתוך זו. הוא הופך את Superbloom הטרנדי של Evan Gendell: במקום לפרוח, הוא דועך.",
+     "במכשיר עצמו פונט פיקסלים ייעודי בשם Chunky Roll מציג את התו המתנגן על מסך 128×128, עם גליפים בגובה 14–18 פיקסלים וקווים של 2/1 פיקסלים.",
+     "רפרנס מוקדם: פרקר תכנת אוסצילוסקופ אנלוגי משנות ה־70 לצייר פרח מאות אודיו. חומרי המושן נשענים על אגמים ושדות פרחים, ומאט ברי מככב בסרטון הדרכה חצי־פרודי."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Orchid (ORC-1)",
+      "he": "Orchid (ORC-1)"
+     },
+     "role": {
+      "en": "Synth by Telepathic Instruments",
+      "he": "סינתיסייזר של Telepathic Instruments"
+     },
+     "q": "Telepathic Instruments Orchid synthesizer",
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=hbO1z13WP8o",
+      "label": {
+       "en": "Watch “How to Orchid”",
+       "he": "לצפייה ב־״How to Orchid״"
+      }
+     }
+    },
+    {
+     "name": {
+      "en": "Kevin Parker",
+      "he": "קווין פרקר"
+     },
+     "role": {
+      "en": "Tame Impala; co-founder",
+      "he": "Tame Impala; שותף מייסד"
+     }
+    },
+    {
+     "name": {
+      "en": "Love And Money",
+      "he": "Love And Money"
+     },
+     "role": {
+      "en": "Brand studio (Charl Laubscher, Danny Pemberton)",
+      "he": "סטודיו למיתוג (צ׳ארל לאובשר, דני פמברטון)"
+     }
+    },
+    {
+     "name": {
+      "en": "Chunky Roll",
+      "he": "Chunky Roll"
+     },
+     "role": {
+      "en": "Custom on-screen pixel typeface",
+      "he": "פונט פיקסלים ייעודי למסך"
+     }
+    }
+   ]
+  },
+  {
+   "id": "contra-creative-intelligence",
+   "tab": "ai",
+   "top": 4,
+   "kind": "analysis",
+   "url": "https://contralabs.com/creative-intelligence-report-2026",
+   "image": "https://framerusercontent.com/assets/oSI7dUGVE1UGkUJshFGUoOjBVvI.png",
+   "gallery": [
+    "https://framerusercontent.com/images/TYE2VY1NcFnyIrTb9ng1sYaM3Y.png?width=2880&height=1760",
+    "https://framerusercontent.com/images/M9XPFaG8IgAhBq7ubE5YIEywz8.jpg?width=1920&height=1080"
+   ],
+   "mentions": [
+    {
+     "source": "Sidebar (UX Collective)",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Contra's Creative Intelligence Report: how 150k creatives actually use AI",
+    "he": "דו״ח Creative Intelligence של Contra: איך 150 אלף יוצרים באמת עובדים עם AI"
+   },
+   "why": {
+    "en": "Hard numbers instead of vibes: who uses AI, at which stage, and what clients now pay for.",
+    "he": "מספרים במקום תחושות: מי משתמש ב־AI, באיזה שלב, ועל מה לקוחות משלמים עכשיו."
+   },
+   "tldr": {
+    "en": [
+     "Survey of 150k+ working creatives plus Contra marketplace data. Adoption barely differs by seniority: juniors 71.1%, seniors 69.8%.",
+     "AI is used most at ideation (87%), then refinement (79%) and mockups (69%). For brand design, Photoshop (69%) and ChatGPT (68%) are nearly tied.",
+     "Top LLMs: ChatGPT 78.6%, Claude 59%, Gemini 37.8%. Cost is the main barrier (70.1%), ahead of quality (44.6%) and privacy (43.5%).",
+     "New services: 60% offer or plan AI workflow design and 50% AI creative direction; Claude mentions in job specs grew about 32× from H1 2025 to H1 2026."
+    ],
+    "he": [
+     "סקר של יותר מ־150 אלף יוצרים פעילים, יחד עם נתוני המרקטפלייס של Contra. כמעט אין הבדל לפי ותק: 71.1% מהג׳וניורים מול 69.8% מהסניורים.",
+     "הכי הרבה AI בשלב הרעיונות (87%), אחר כך בליטוש (79%) ובמוקאפים (69%). בעיצוב מותגים Photoshop (69%) ו־ChatGPT (68%) כמעט צמודים.",
+     "המודלים המובילים: ChatGPT 78.6%, Claude 59%, Gemini 37.8%. העלות היא החסם המרכזי (70.1%), לפני איכות (44.6%) ופרטיות (43.5%).",
+     "שירותים חדשים: 60% מציעים או מתכננים עיצוב תהליכי עבודה עם AI, ו־50% – קריאייטיב דיירקשן ל־AI. אזכורי Claude בהגדרות משרה גדלו בערך פי 32 בין המחצית הראשונה של 2025 לזו של 2026."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Contra Labs",
+      "he": "Contra Labs"
+     },
+     "role": {
+      "en": "Publisher, creative-AI research arm of Contra",
+      "he": "המפרסם, זרוע המחקר של Contra"
+     }
+    }
+   ]
+  },
+  {
+   "id": "masyanya-kuvaev-sentence",
+   "tab": "israel",
+   "top": 5,
+   "kind": "news",
+   "lang": "he",
+   "url": "https://www.ynet.co.il/entertainment/article/bkjmeg11sgl",
+   "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/08/03/rJsivThwlg/rJsivThwlg_561_8_1040_586_0_large.jpg",
+   "mentions": [
+    {
+     "source": "Google Alerts",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Russia sentences Israeli animator, creator of ‘Masyanya’, to four years in absentia",
+    "he": "בגלל סדרת אנימציה: רוסיה גזרה ארבע שנות מאסר על יוצר ״מסיאניה״ הישראלי"
+   },
+   "why": {
+    "en": "An anti-war cartoon episode became a criminal case against an animator living in Israel.",
+    "he": "פרק אנימציה נגד המלחמה הפך לתיק פלילי נגד אנימטור שחי בישראל."
+   },
+   "tldr": {
+    "en": [
+     "St. Petersburg's Nevsky District Court convicted Oleg Kuvaev in absentia on Oct 5, 2026 and sentenced him to 4 years and 1 month in a general-regime colony; prosecutors had asked for nearly 6.",
+     "Kuvaev, born in St. Petersburg and living in Israel since 2006, created the long-running animated series ‘Masyanya’, which has addressed the war in Ukraine since it began.",
+     "Charges, per TASS: public calls against state security via the internet (Art. 280.4) and breaking ‘foreign agent’ rules (Art. 330.1); the case centres on episode 169, where Masyanya urges Russian soldiers to surrender.",
+     "He was listed as a foreign agent in Dec 2023; he told ynet he sees the verdict ‘more as a prize than a punishment’."
+    ],
+    "he": [
+     "בית המשפט המחוזי נבסקי בסנט פטרבורג הרשיע את אולג קובייב בהיעדרו ב־5 באוקטובר 2026, וגזר עליו 4 שנים וחודש במושבת עונשין. התביעה ביקשה כמעט שש שנים.",
+     "קובייב, יליד סנט פטרבורג שחי בישראל מאז 2006, הוא היוצר של סדרת האנימציה הוותיקה ״מסיאניה״, שעוסקת במלחמה באוקראינה מאז פרוצה.",
+     "לפי סוכנות TASS, האישומים: קריאה פומבית לפעולה נגד ביטחון המדינה באמצעות האינטרנט (סעיף 280.4) והפרת חובות ״סוכן זר״ (סעיף 330.1). התיק נסוב סביב פרק 169, שבו מסיאניה קוראת לחיילים רוסים להיכנע.",
+     "בדצמבר 2023 הוכרז כ״סוכן זר״. ל־ynet אמר שהוא רואה בגזר הדין ״יותר פרס מאשר עונש״."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Oleg Kuvaev",
+      "he": "אולג קובייב"
+     },
+     "role": {
+      "en": "Animator, creator of Masyanya",
+      "he": "אנימטור, היוצר של ״מסיאניה״"
+     },
+     "q": "Oleg Kuvaev Masyanya"
+    },
+    {
+     "name": {
+      "en": "Masyanya",
+      "he": "מסיאניה"
+     },
+     "role": {
+      "en": "Animated web series",
+      "he": "סדרת אנימציה ברשת"
+     },
+     "watch": {
+      "url": "https://www.youtube.com/results?search_query=Masyanya+Kuvaev",
+      "label": {
+       "en": "Find episodes",
+       "he": "חיפוש פרקים"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "gazelle-gazette",
+   "tab": "watch",
+   "kind": "trailer",
+   "url": "https://www.cartoonbrew.com/shorts/gazelle-gazette-trailer-simon-bucher-cote-ramirez-267564.html",
+   "image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/The-Gazelle-Gazette.jpg",
+   "embed": {
+    "provider": "youtube",
+    "id": "qQcCLFV1EWU",
+    "label": {
+     "en": "Official trailer",
+     "he": "טריילר רשמי"
+    }
+   },
+   "mentions": [
+    {
+     "source": "Cartoon Brew",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "‘The Gazelle Gazette’: a runner swallowed by newsprint",
+    "he": "״The Gazelle Gazette״: אצנית שנבלעת בנייר עיתון"
+   },
+   "why": {
+    "en": "Pixilation inside a world made of newspaper – the media literally eats its star.",
+    "he": "פיקסילציה בתוך עולם עשוי עיתונים – התקשורת ממש אוכלת את הכוכבת שלה."
+   },
+   "tldr": {
+    "en": [
+     "Chilean experimental short by Simón Bucher and Cote Ramírez, co-produced with Cristóbal León (Diluvio) and Francisco Cortés.",
+     "Runner Gisella Cortés (Macarena Barros) is crowned ‘The Gazelle’ by the press, and fades behind her public image as coverage invades her life.",
+     "A live performer is gradually absorbed into a newsprint set; frames were printed on different papers, physically altered and mixed with stop-motion.",
+     "Began as a 48 Hour Film Project entry in Santiago (2025), took about another year, and world-premieres at Chile's 33rd Valdivia festival, Oct 12–18."
+    ],
+    "he": [
+     "סרט קצר ניסיוני מצ׳ילה של סימון בוצ׳ר וקוטה רמירס, בהפקה משותפת עם כריסטובל לאון (Diluvio) ופרנסיסקו קורטס.",
+     "העיתונות מכתירה את האצנית חיסלה קורטס (מקרנה בארוס) בתור ״הגזלה״, והיא נעלמת מאחורי הדימוי הציבורי ככל שהסיקור חודר לחייה.",
+     "שחקנית אמיתית נבלעת בהדרגה בתפאורה של נייר עיתון; פריימים הודפסו על סוגי נייר שונים, עברו מניפולציה ידנית ושולבו עם סטופ־מושן.",
+     "התחיל כסרט לתחרות 48 Hour Film Project בסנטיאגו (2025), המשיך להתפתח עוד כשנה, והבכורה העולמית בפסטיבל ולדיביה ה־33 בצ׳ילה, 12–18 באוקטובר."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Simón Bucher & Cote Ramírez",
+      "he": "סימון בוצ׳ר וקוטה רמירס"
+     },
+     "role": {
+      "en": "Directors, Chile",
+      "he": "במאים, צ׳ילה"
+     }
+    },
+    {
+     "name": {
+      "en": "Macarena Barros",
+      "he": "מקרנה בארוס"
+     },
+     "role": {
+      "en": "The Gazelle",
+      "he": "״הגזלה״"
+     }
+    },
+    {
+     "name": {
+      "en": "Valdivia International Film Festival",
+      "he": "פסטיבל ולדיביה"
+     },
+     "role": {
+      "en": "World premiere, Oct 12–18",
+      "he": "בכורה עולמית, 12–18 באוקטובר"
+     }
+    }
+   ]
+  },
+  {
+   "id": "acid-city",
+   "tab": "watch",
+   "kind": "short film",
+   "url": "https://www.cartoonbrew.com/shorts/acid-city-jack-wedge-will-freudenheim-oscar-qualified-267488.html",
+   "image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Acid-City.jpg",
+   "gallery": [
+    "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Acid-City-1.jpg",
+    "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Acid-City-2.jpg",
+    "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Acid-City-4-scaled.jpg"
+   ],
+   "embed": {
+    "provider": "youtube",
+    "id": "ptanIOdvMS0",
+    "label": {
+     "en": "Trailer",
+     "he": "טריילר"
+    }
+   },
+   "mentions": [
+    {
+     "source": "Cartoon Brew",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "‘Acid City’: a climate documentary from a city that doesn't exist",
+    "he": "״Acid City״: סרט תיעודי על משבר האקלים מעיר שלא קיימת"
+   },
+   "why": {
+    "en": "Real New York voices dropped into a procedurally generated sci-fi city – game engine meets field recorder.",
+    "he": "קולות אמיתיים מניו יורק בתוך עיר מדע בדיוני שנוצרה פרוצדורלית – מנוע משחק פוגש מקליט שטח."
+   },
+   "tldr": {
+    "en": [
+     "Jack Wedge and Will Freudenheim's 12.5-minute U.S. short (Laser Days Studio) qualified for the 2027 Oscars by winning the Golden Dragon at Krakow.",
+     "A documentary crew spends a day in a city adrift on an acidic ocean, shaped by extreme heat and rising water.",
+     "Wedge hand-built characters, signs and buildings; Freudenheim wrote procedural systems that scatter and recombine them, and the pair ‘location-scouted’ the results.",
+     "They scrapped months of work on a single-hero version and switched to a documentary structure built from real interviews Wedge recorded around NYC."
+    ],
+    "he": [
+     "הסרט הקצר של ג׳ק וודג׳ וויל פרוידנהיים (12.5 דקות, Laser Days Studio, ארה״ב) עלה לשלב האוסקר 2027 אחרי שזכה בדרקון הזהב בפסטיבל קרקוב.",
+     "צוות תיעודי מבלה יום אחד בעיר שנסחפת על אוקיינוס חומצי, בעולם שמעוצב על ידי חום קיצוני ומים עולים.",
+     "וודג׳ בנה ידנית דמויות, שלטים ומבנים; פרוידנהיים כתב מערכות פרוצדורליות שמפזרות ומרכיבות אותם מחדש – והשניים ״סיירו בלוקיישנים״ שנוצרו.",
+     "הם זנחו חודשים של עבודה על גרסה עם גיבור יחיד, ועברו למבנה תיעודי שנשען על ראיונות אמיתיים שוודג׳ הקליט ברחבי ניו יורק."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Jack Wedge & Will Freudenheim",
+      "he": "ג׳ק וודג׳ וויל פרוידנהיים"
+     },
+     "role": {
+      "en": "Directors",
+      "he": "במאים"
+     }
+    },
+    {
+     "name": {
+      "en": "Laser Days Studio",
+      "he": "Laser Days Studio"
+     },
+     "role": {
+      "en": "Producer",
+      "he": "הפקה"
+     }
+    },
+    {
+     "name": {
+      "en": "Acid City trailer",
+      "he": "הטריילר של Acid City"
+     },
+     "role": {
+      "en": "Golden Dragon, Krakow",
+      "he": "דרקון הזהב, קרקוב"
+     },
+     "img": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Acid-City-3.jpg",
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=ptanIOdvMS0",
+      "label": {
+       "en": "Watch trailer",
+       "he": "לצפייה בטריילר"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "spirited-away-25",
+   "tab": "watch",
+   "kind": "news",
+   "url": "https://www.cartoonbrew.com/feature-film/spirited-away-25-anniversary-theatrical-rerelease-267504.html",
+   "image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Spirited-Away.jpg",
+   "embed": {
+    "provider": "youtube",
+    "id": "nhxb3quG9Qc",
+    "label": {
+     "en": "Ghibli Fest 2026 trailer",
+     "he": "הטריילר של Ghibli Fest 2026"
+    }
+   },
+   "mentions": [
+    {
+     "source": "Cartoon Brew",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "‘Spirited Away’ is back in U.S. theaters for its 25th",
+    "he": "״המסע המופלא״ חוזר לבתי הקולנוע בארה״ב לרגל 25 שנה"
+   },
+   "why": {
+    "en": "Five days only to see Miyazaki's bathhouse on a big screen again.",
+    "he": "חמישה ימים בלבד לראות שוב את בית המרחץ של מיאזאקי על מסך גדול."
+   },
+   "tldr": {
+    "en": [
+     "GKIDS and Fathom bring the film back nationwide Oct 17–21 as the closing title of Studio Ghibli Fest 2026.",
+     "Screenings come in both the original Japanese with subtitles and the English dub.",
+     "Each show ends with a clip from the bonus featurette ‘Nippon Television Special’.",
+     "Released in Japan in 2001, it won the 2003 Oscar for animated feature – the first for a Japanese filmmaker."
+    ],
+    "he": [
+     "GKIDS ו־Fathom מחזירות את הסרט להקרנות בכל ארה״ב ב־17–21 באוקטובר, כסרט הסיום של Studio Ghibli Fest 2026.",
+     "ההקרנות יהיו גם ביפנית עם כתוביות וגם בדיבוב לאנגלית.",
+     "בסוף כל הקרנה יוצג קטע מסרטון הבונוס ״Nippon Television Special״.",
+     "הסרט יצא ביפן ב־2001 וזכה ב־2003 באוסקר לסרט האנימציה הטוב ביותר – הראשון לקולנוען יפני."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Hayao Miyazaki",
+      "he": "האיאו מיאזאקי"
+     },
+     "role": {
+      "en": "Director",
+      "he": "במאי"
+     }
+    },
+    {
+     "name": {
+      "en": "GKIDS",
+      "he": "GKIDS"
+     },
+     "role": {
+      "en": "U.S. distributor",
+      "he": "המפיצה בארה״ב"
+     }
+    },
+    {
+     "name": {
+      "en": "Spirited Away – Ghibli Fest 2026",
+      "he": "״המסע המופלא״ – Ghibli Fest 2026"
+     },
+     "role": {
+      "en": "Oct 17–21",
+      "he": "17–21 באוקטובר"
+     },
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=nhxb3quG9Qc",
+      "label": {
+       "en": "Watch trailer",
+       "he": "לצפייה בטריילר"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "busy-bodies",
+   "tab": "watch",
+   "kind": "short film",
+   "url": "https://motionographer.com/news/busy-bodies-hand-drawn-printmaking-vimeo/",
+   "image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/BusyBodies_02.jpg?fit=1200%2C900&quality=89&ssl=1",
+   "embed": {
+    "provider": "vimeo",
+    "id": "1224458759",
+    "label": {
+     "en": "Watch the film",
+     "he": "לצפייה בסרט"
+    }
+   },
+   "mentions": [
+    {
+     "source": "Motionographer",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "‘Busy Bodies’: hand-drawn animation run through a print shop",
+    "he": "״Busy Bodies״: אנימציה מצוירת ביד שעברה דרך בית דפוס"
+   },
+   "why": {
+    "en": "Screen printing and inkjet as animation texture – and the whole film is now free on Vimeo.",
+    "he": "הדפס משי והזרקת דיו כמרקם אנימציה – והסרט כולו זמין עכשיו בחינם בווימאו."
+   },
+   "tldr": {
+    "en": [
+     "Kate Renshaw-Lewis's independent 2D short combines hand drawing with screen printing and inkjet printing.",
+     "Inspired by Rube Goldberg machines: tiny workers run a domestic factory beneath giant hands, exposing how disposable objects get made.",
+     "Official selection at Sundance 2026 and winner of the Animated Shorts Grand Jury Prize at Slamdance 2026.",
+     "Runs 5 minutes 45 seconds; released online in full on Oct 2."
+    ],
+    "he": [
+     "הסרט הקצר והעצמאי של קייט רנשו־לואיס משלב ציור ידני עם הדפס משי והדפסת הזרקת דיו.",
+     "בהשראת מכונות רוב גולדברג: פועלים זעירים מפעילים מפעל ביתי מתחת לידיים ענקיות, וחושפים איך נוצרים חפצים חד־פעמיים.",
+     "נבחר רשמית לסאנדנס 2026 וזכה בפרס חבר השופטים לסרטי אנימציה קצרים בסלאמדנס 2026.",
+     "אורכו 5:45 דקות, והוא עלה לרשת במלואו ב־2 באוקטובר."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Kate Renshaw-Lewis",
+      "he": "קייט רנשו־לואיס"
+     },
+     "role": {
+      "en": "Director, animator, printmaker",
+      "he": "במאית, אנימטורית ואמנית הדפס"
+     }
+    },
+    {
+     "name": {
+      "en": "Busy Bodies",
+      "he": "Busy Bodies"
+     },
+     "role": {
+      "en": "Short film, 5:45",
+      "he": "סרט קצר, 5:45"
+     },
+     "watch": {
+      "url": "https://vimeo.com/1224458759",
+      "label": {
+       "en": "Watch the film",
+       "he": "לצפייה בסרט"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "get-jiro-oner",
+   "tab": "animation",
+   "kind": "behind the scenes",
+   "url": "https://www.cartoonbrew.com/series/get-jiro-creators-action-sequence-267554.html",
+   "image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Get-Jiro.jpg",
+   "gallery": [
+    "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Get-Jiro-4.jpg",
+    "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Get-Jiro-5.jpg",
+    "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Get-Jiro-6.jpg"
+   ],
+   "embed": {
+    "provider": "youtube",
+    "id": "i8WDv3J7das",
+    "label": {
+     "en": "Official red band trailer",
+     "he": "טריילר רשמי (למבוגרים)"
+    }
+   },
+   "mentions": [
+    {
+     "source": "Cartoon Brew",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "How ‘Get Jiro!’ pulled off an animated one-take",
+    "he": "איך ״Get Jiro!״ הצליחו לעשות שוט אחד רציף באנימציה"
+   },
+   "why": {
+    "en": "A prison-break oner with no visible cuts, mapped on a whiteboard before the script existed.",
+    "he": "בריחה מהכלא בשוט רציף אחד בלי חיתוכים – שתוכנן על לוח מחיק עוד לפני שהתסריט נכתב."
+   },
+   "tldr": {
+    "en": [
+     "Get Jiro! adapts Anthony Bourdain's 2012 graphic novel (with Joel Rose) about a near-future LA where food drives the economy; it premiered Oct 3 on Adult Swim, then HBO Max.",
+     "EP Jordan Blum pitched the continuous action shot to director Rick Morales at their very first lunch, and Morales took it on.",
+     "Blum drew the camera path on a whiteboard first, then wrote the prison-break episode around it.",
+     "Showrunners Alessandro Tanaka and Brian Gatewood say it was every bit as hard as an animated oner sounds; WB Animation and DC Studios produce."
+    ],
+    "he": [
+     "Get Jiro! מעובדת מהרומן הגרפי של אנתוני בורדיין ויואל רוז מ־2012, על לוס אנג׳לס של העתיד הקרוב שבה האוכל מניע את הכלכלה. הבכורה הייתה ב־3 באוקטובר באדאלט סווים, ולמחרת ב־HBO Max.",
+     "המפיק ג׳ורדן בלום הציע את רצף האקשן הרציף לבמאי ריק מוראלס כבר בארוחת הצהריים הראשונה שלהם – ומוראלס נענה לאתגר.",
+     "בלום שרטט קודם את מסלול המצלמה על לוח מחיק, ורק אחר כך כתב סביבו את פרק הבריחה מהכלא.",
+     "השואורנרים אלסנדרו טנאקה ובריאן גייטווד מספרים שזה היה קשה בדיוק כמו שזה נשמע; ההפקה של WB Animation ו־DC Studios."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Rick Morales",
+      "he": "ריק מוראלס"
+     },
+     "role": {
+      "en": "Director",
+      "he": "במאי"
+     }
+    },
+    {
+     "name": {
+      "en": "Jordan Blum",
+      "he": "ג׳ורדן בלום"
+     },
+     "role": {
+      "en": "EP, wrote the oner episode",
+      "he": "מפיק בפועל, כתב את פרק השוט הרציף"
+     }
+    },
+    {
+     "name": {
+      "en": "Alessandro Tanaka & Brian Gatewood",
+      "he": "אלסנדרו טנאקה ובריאן גייטווד"
+     },
+     "role": {
+      "en": "Showrunners",
+      "he": "שואורנרים"
+     }
+    },
+    {
+     "name": {
+      "en": "Get Jiro! red band trailer",
+      "he": "הטריילר של Get Jiro!"
+     },
+     "role": {
+      "en": "Adult Swim",
+      "he": "אדאלט סווים"
+     },
+     "watch": {
+      "url": "https://www.youtube.com/watch?v=i8WDv3J7das",
+      "label": {
+       "en": "Watch trailer",
+       "he": "לצפייה בטריילר"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "tonic-dna-forty",
+   "tab": "animation",
+   "kind": "studio profile",
+   "url": "https://motionographer.com/2026/09/29/the-studio-that-refused-to-be-one-thing/",
+   "image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/TrimTONICDNADEMOREEL20261-ezgif.com-optimize.gif?fit=600%2C337&ssl=1",
+   "gallery": [
+    "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Lobby.jpg?resize=850%2C638&quality=89&ssl=1",
+    "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/tonicdna_c.jpg?w=850&quality=89&ssl=1",
+    "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/The-Anta-Claus-Cordell-Barker-BTS.jpg?w=850&quality=89&ssl=1"
+   ],
+   "embed": {
+    "provider": "vimeo",
+    "id": "1198823008",
+    "label": {
+     "en": "Demo reel 2026",
+     "he": "שואוריל 2026"
+    }
+   },
+   "mentions": [
+    {
+     "source": "Motionographer",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Tonic DNA at forty: the studio that refused to be one thing",
+    "he": "Tonic DNA בת ארבעים: האולפן שסירב להיות דבר אחד"
+   },
+   "why": {
+    "en": "A Montreal 2D house betting that its own AI tools can stretch hand-drawn animation into long form.",
+    "he": "אולפן דו־ממד ממונטריאול שמהמר שכלי AI שפיתח בעצמו יאפשרו למתוח אנימציה מצוירת ביד לפורמט ארוך."
+   },
+   "tldr": {
+    "en": [
+     "Roughly 40 years in downtown Montreal; the studio behind the Oscar-winning ‘The Old Man and the Sea’ (2000) took the Tonic DNA name in 2017 – ‘directors and animators’, now also designers, developers and AI.",
+     "Partner and EP Stefanie Bitton joined in 2005 to develop Latin America; partners today are Bitton, Howard Huxham and founder Bernard Lajoie.",
+     "A refresh, not a rebrand: a wide-caps ‘TONIC’ wordmark over lowercase ‘dna’, cream on near-black with a sage accent.",
+     "New: ‘The Anta Claus of the South Pole’, a 24-minute 2D special by Cordell Barker – its first NFB co-production, with Crave – plus two years building in-house AI tools with its artists, with consent and authorship as ground rules."
+    ],
+    "he": [
+     "כ־40 שנה במרכז מונטריאול. האולפן שמאחורי ״הזקן והים״ זוכה האוסקר (2000) אימץ ב־2017 את השם Tonic DNA – ״במאים ואנימטורים״, וכיום גם מעצבים, מפתחים ו־AI.",
+     "השותפה והמפיקה סטפני ביטון הצטרפה ב־2005 כדי לפתח את שוק אמריקה הלטינית. השותפים כיום: ביטון, האוורד האקסהם והמייסד ברנאר לז׳ואה.",
+     "רענון ולא מיתוג מחדש: הלוגוטייפ ״TONIC״ באותיות רחבות מעל ״dna״ באותיות קטנות, בקרם על רקע כמעט שחור עם נגיעה של ירוק מרווה.",
+     "חדש: ״The Anta Claus of the South Pole״, ספיישל דו־ממדי של 24 דקות בבימוי קורדל בארקר – ההפקה המשותפת הראשונה עם ה־NFB, יחד עם Crave. במקביל, שנתיים של פיתוח כלי AI פנימיים עם האמנים, כשהסכמה וזכויות יוצרים הם כללי יסוד."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Stefanie Bitton",
+      "he": "סטפני ביטון"
+     },
+     "role": {
+      "en": "Partner & executive producer",
+      "he": "שותפה ומפיקה בפועל"
+     },
+     "img": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/Stef_pic-scaled.jpg?w=850&quality=89&ssl=1"
+    },
+    {
+     "name": {
+      "en": "The Anta Claus of the South Pole",
+      "he": "The Anta Claus of the South Pole"
+     },
+     "role": {
+      "en": "2D holiday special, dir. Cordell Barker",
+      "he": "ספיישל חג דו־ממדי, בימוי קורדל בארקר"
+     },
+     "img": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/09/The-Anta-Claus-Cordell-Barker-BTS.jpg?w=850&quality=89&ssl=1",
+     "watch": {
+      "url": "https://www.youtube.com/results?search_query=The+Anta+Claus+of+the+South+Pole+Cordell+Barker+trailer",
+      "label": {
+       "en": "Find the trailer",
+       "he": "חיפוש הטריילר"
+      }
+     }
+    },
+    {
+     "name": {
+      "en": "Tonic DNA demo reel 2026",
+      "he": "השואוריל של Tonic DNA ל־2026"
+     },
+     "role": {
+      "en": "88 seconds",
+      "he": "88 שניות"
+     },
+     "watch": {
+      "url": "https://vimeo.com/1198823008",
+      "label": {
+       "en": "Watch",
+       "he": "לצפייה"
+      }
+     }
+    },
+    {
+     "name": {
+      "en": "Mr. Beaver's Yule Log",
+      "he": "Mr. Beaver's Yule Log"
+     },
+     "role": {
+      "en": "IGA holiday film, 2022",
+      "he": "סרט חג ל־IGA, 2022"
+     },
+     "watch": {
+      "url": "https://vimeo.com/880603979",
+      "label": {
+       "en": "Watch the film",
+       "he": "לצפייה בסרט"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "tobie-tse-crochet",
+   "tab": "animation",
+   "kind": "showcase",
+   "url": "https://www.itsnicethat.com/articles/tobie-tse-animation-discover-051026",
+   "image": "https://m.itsnicethat.com/original_images/meanttobe.png?class=w1440",
+   "gallery": [
+    "https://m.itsnicethat.com/original_images/tobietse_piece1.jpg?class=w1080",
+    "https://m.itsnicethat.com/original_images/change2.png?class=w1080",
+    "https://m.itsnicethat.com/original_images/star.gif?class=w640"
+   ],
+   "mentions": [
+    {
+     "source": "It's Nice That",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Tobie Tse animates crochet and lace",
+    "he": "Tobie Tse מנפישה סרוגים ותחרה"
+   },
+   "why": {
+    "en": "Hand-stitched frames, scanned and animated: zoetrope logic in thread.",
+    "he": "פריימים תפורים ביד, סרוקים ומונפשים: ההיגיון של הזואטרופ, בחוטים."
+   },
+   "tldr": {
+    "en": [
+     "Hong Kong multimedia artist Tobie Tse came to It's Nice That's attention through lyric teasers she made for Olivia Rodrigo.",
+     "Each piece starts as a sketch, then gets stitched by hand into grids and borders, scanned or photographed, and animated digitally.",
+     "She draws on early animation: zoetropes, Muybridge's The Horse in Motion, and a phenakistoscope piece; star creatures circle in a nod to Matisse's La Danse.",
+     "Song lyrics often find their way into the work, and she's now testing cyanotype and cross-stitch for mixed-media motion."
+    ],
+    "he": [
+     "אמנית המולטימדיה מהונג קונג Tobie Tse הגיעה ל־It's Nice That בזכות טיזרים למילות שירים שיצרה עבור אוליביה רודריגו.",
+     "כל עבודה מתחילה בסקיצה, נתפרת ביד לגרידים ולמסגרות, נסרקת או מצולמת, ומונפשת דיגיטלית.",
+     "היא שואבת מראשית האנימציה: זואטרופים, ״הסוס בתנועה״ של מייברידג׳ ועבודה בפורמט פנקיסטוסקופ; יצורי כוכבים מסתובבים במחווה ל״הריקוד״ של מאטיס.",
+     "מילות שירים נכנסות לעבודות לעיתים קרובות, ועכשיו היא מתנסה בציאנוטייפ ובתפר צלבים לפרויקטי מושן במדיה מעורבת."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Tobie Tse",
+      "he": "Tobie Tse"
+     },
+     "role": {
+      "en": "Multimedia artist, Hong Kong",
+      "he": "אמנית מולטימדיה, הונג קונג"
+     },
+     "q": "Tobie Tse crochet animation",
+     "watch": {
+      "url": "https://www.tobietse.com/",
+      "label": {
+       "en": "See her animations",
+       "he": "לאנימציות שלה"
+      }
+     }
+    },
+    {
+     "name": {
+      "en": "Olivia Rodrigo lyric teasers",
+      "he": "טיזרים לאוליביה רודריגו"
+     },
+     "role": {
+      "en": "Commission, 2026",
+      "he": "הזמנה, 2026"
+     },
+     "watch": {
+      "url": "https://www.tobietse.com/oliviarodrigolyrics",
+      "label": {
+       "en": "Watch",
+       "he": "לצפייה"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "vee-laura-pappa",
+   "tab": "design",
+   "kind": "type design",
+   "url": "https://www.itsnicethat.com/articles/t%C3%BCpokompanii-laura-pappa-vee-type-graphic-design-project-071026",
+   "image": "https://m.itsnicethat.com/original_images/Typokompanii-Vee-02.jpg?class=w1440",
+   "gallery": [
+    "https://m.itsnicethat.com/original_images/Typokompanii-Vee-13.jpg?class=w1080",
+    "https://m.itsnicethat.com/original_images/Typokompanii-Vee-05.jpg?class=w1080",
+    "https://m.itsnicethat.com/original_images/Typokompanii-Vee-08.jpg?class=w1080"
+   ],
+   "mentions": [
+    {
+     "source": "It's Nice That",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Vee: a typeface that lets itself be bad at things",
+    "he": "Vee: פונט שמרשה לעצמו להיות גרוע בדברים"
+   },
+   "why": {
+    "en": "A 1907 sans revived from screenshots, with every mistake kept on purpose.",
+    "he": "סאנס מ־1907 שהוחייה מצילומי מסך, וכל טעות נשארה בכוונה."
+   },
+   "tldr": {
+    "en": [
+     "Laura Pappa started Vee in a four-month type course Tüpokompanii (Aimur Takk and Andree Paat) taught at the Estonian Academy of Arts in 2022.",
+     "It revives Bauer's 1907 Venus, drawn loosely from screenshots of the digital version. The foundry leaned into what got lost in translation instead of correcting it.",
+     "It keeps Venus's high-waisted capitals, oddly angled terminals and slightly condensed lowercase; Takk calls it Venus's ‘younger, more mischievous sister’.",
+     "The specimen is a book, Let yourself be bad at things, showing all five cuts alongside about 25 of Pappa's naive drawings, a crooked horse among them."
+    ],
+    "he": [
+     "לורה פאפה התחילה את Vee בקורס טיפוגרפיה בן ארבעה חודשים ש־Tüpokompanii (אימור טאק ואנדרה פאט) לימדו באקדמיה לאמנויות של אסטוניה ב־2022.",
+     "הפונט מחייה את Venus של בית היציקה Bauer משנת 1907, וצויר באופן חופשי מצילומי מסך של הגרסה הדיגיטלית. בבית היציקה בחרו לאמץ את מה שאבד בדרך במקום לתקן אותו.",
+     "נשארו בו הקפיטלים ה״גבוהי־מותן״ של Venus, הסיומות בזוויות משונות והאותיות הקטנות הצרות מעט; טאק קורא לו ״האחות הצעירה והשובבה יותר״ של Venus.",
+     "הספסימן הוא ספר, Let yourself be bad at things, שמציג את חמשת המשקלים לצד כ־25 רישומים נאיביים של פאפה, ביניהם סוס עקום."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Laura Pappa",
+      "he": "לורה פאפה"
+     },
+     "role": {
+      "en": "Designer of Vee",
+      "he": "מעצבת הפונט Vee"
+     }
+    },
+    {
+     "name": {
+      "en": "Tüpokompanii",
+      "he": "Tüpokompanii"
+     },
+     "role": {
+      "en": "Estonian type foundry",
+      "he": "בית יציקה אסטוני לפונטים"
+     },
+     "q": "Tüpokompanii type foundry"
+    },
+    {
+     "name": {
+      "en": "Venus (Bauer, 1907)",
+      "he": "Venus (Bauer, 1907)"
+     },
+     "role": {
+      "en": "The sans serif being revived",
+      "he": "הסאנס שעליו מבוסס הפונט"
+     }
+    }
+   ]
+  },
+  {
+   "id": "xsolla-pentagram",
+   "tab": "design",
+   "kind": "case study",
+   "url": "https://www.itsnicethat.com/articles/luke-powell-judy-hudson-powell-xsolla-pentagram-graphic-design-project-051026",
+   "image": "https://m.itsnicethat.com/original_images/pentagram-xsolla-graphic-design-itsnicethat-8.png?class=w1440",
+   "gallery": [
+    "https://m.itsnicethat.com/original_images/penta-gram-xsolla-graphic-design-itsnicethat-1.png?class=w1080",
+    "https://m.itsnicethat.com/original_images/pentagram-xsolla-graphic-design-itsnicethat-33.png?class=w1080",
+    "https://m.itsnicethat.com/original_images/pentagram-xsolla-graphic-design-itsnicethat-22.png?class=w1080"
+   ],
+   "mentions": [
+    {
+     "source": "It's Nice That",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Pentagram gives Xsolla a glassy, retro-futuristic archive",
+    "he": "פנטגרם בונים לאקסולה ארכיון רטרו־פוטוריסטי מזכוכית"
+   },
+   "why": {
+    "en": "Frutiger Aero nostalgia, a bubbly star mascot and 3D glass boxes, all for a gaming payments company.",
+    "he": "נוסטלגיית Frutiger Aero, קמע כוכב מבעבע וקופסאות זכוכית בתלת־ממד, הכול בשביל חברת תשלומים לגיימינג."
+   },
+   "tldr": {
+    "en": [
+     "Pentagram partners Luke Powell and Jody Hudson-Powell rebranded Xsolla, a B2B payments and storefront company for games, with the line ‘All the things’ (narrative by Saundra Marcel).",
+     "The core idea is the Xsolla Archive, a liminal space where gaming artefacts sit in glass boxes; flat UI grids echo those boxes, and most assets are 3D.",
+     "Mascot Sol is a glassy star inspired by Wii/PS3-era Frutiger Aero menus, animated like a helpful assistant rather than an annoying one.",
+     "Collaborators: Obelisk on sound, Variable on programmatic tools, Daniel Kozma and POV on web/UI. References run from 2001: A Space Odyssey to THX 1138."
+    ],
+    "he": [
+     "השותפים בפנטגרם לוק פאוול וג׳ודי הדסון־פאוול מיתגו מחדש את Xsolla, חברת תשלומים וחנויות דיגיטליות לתעשיית המשחקים, תחת הסלוגן ״All the things״ (נרטיב: סונדרה מרסל).",
+     "הרעיון המרכזי הוא ״הארכיון של Xsolla״, מרחב לימינלי שבו חפצי גיימינג מוצגים בקופסאות זכוכית; גרידים שטוחים בממשק מהדהדים את הקופסאות, ורוב הנכסים בתלת־ממד.",
+     "הקמע Sol הוא כוכב זכוכיתי בהשראת תפריטי Frutiger Aero מתקופת ה־Wii וה־PS3, ומונפש כמו עוזר מועיל ולא מציק.",
+     "שותפים: Obelisk בסאונד, Variable בכלים פרוגרמטיים, דניאל קוזמה ו־POV בווב וב־UI. הרפרנסים נעים מ־״2001: אודיסיאה בחלל״ ועד THX 1138."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Luke Powell & Jody Hudson-Powell",
+      "he": "לוק פאוול וג׳ודי הדסון־פאוול"
+     },
+     "role": {
+      "en": "Partners, Pentagram",
+      "he": "שותפים בפנטגרם"
+     }
+    },
+    {
+     "name": {
+      "en": "Xsolla",
+      "he": "Xsolla"
+     },
+     "role": {
+      "en": "Gaming payments company",
+      "he": "חברת תשלומים לגיימינג"
+     }
+    },
+    {
+     "name": {
+      "en": "Sol",
+      "he": "Sol"
+     },
+     "role": {
+      "en": "Glassy star mascot",
+      "he": "קמע הכוכב הזכוכיתי"
+     }
+    }
+   ]
+  },
+  {
+   "id": "william-goldsmith-comics",
+   "tab": "design",
+   "kind": "comics",
+   "url": "https://www.itsnicethat.com/articles/william-goldsmith-illustration-discover-081026",
+   "image": "https://m.itsnicethat.com/original_images/WilliamGoldsmith_The_Suitcase2.jpg?class=w1440",
+   "gallery": [
+    "https://m.itsnicethat.com/original_images/WilliamGoldsmith_The_Suitcase1.jpg?class=w1080",
+    "https://m.itsnicethat.com/original_images/WilliamGoldsmith_Orselina_1.jpg?class=w1080",
+    "https://m.itsnicethat.com/original_images/WilliamGoldsmith_E_is_for_Eccentrics.jpg?class=w1080"
+   ],
+   "mentions": [
+    {
+     "source": "It's Nice That",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "William Goldsmith draws how memory misbehaves",
+    "he": "ויליאם גולדסמית׳ מצייר את התעתועים של הזיכרון"
+   },
+   "why": {
+    "en": "Layered, riso-printed comics where repetition and overlay stand in for unreliable recall.",
+    "he": "קומיקס שכבתי בהדפסת ריזו, שבו חזרות ושכבות על גבי שכבות מגלמות זיכרון לא אמין."
+   },
+   "tldr": {
+    "en": [
+     "London writer-illustrator William Goldsmith catalogues memories from specific periods and uses repetition, overlay and abstraction to show how slippery they are.",
+     "His recent comic The Suitcase opens with a boy climbing onto an airport baggage carousel and merges memories of Athens, Glasgow and Moscow.",
+     "It was riso-printed in four colour layers, in an edition of 100, at the London Centre for Book Arts.",
+     "In summer 2026 he began a new book during a residency at the Šašek Foundation in Czechia, inspired by the winding streets of Tábor."
+    ],
+    "he": [
+     "הכותב והמאייר הלונדוני ויליאם גולדסמית׳ מתעד זיכרונות מתקופות מסוימות ומשתמש בחזרות, בשכבות ובהפשטה כדי להראות כמה הם חמקמקים.",
+     "הקומיקס האחרון שלו, The Suitcase, נפתח בילד שמטפס על מסוע מזוודות בשדה תעופה, ומערבב זיכרונות מאתונה, מגלזגו וממוסקבה.",
+     "הוא הודפס בריזו בארבע שכבות צבע, במהדורה של 100 עותקים, ב־London Centre for Book Arts.",
+     "בקיץ 2026 התחיל ספר חדש במהלך רזידנסי בקרן Šašek בצ׳כיה, בהשראת הרחובות המתפתלים של העיירה טאבור."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "William Goldsmith",
+      "he": "ויליאם גולדסמית׳"
+     },
+     "role": {
+      "en": "Writer & illustrator, London",
+      "he": "כותב ומאייר, לונדון"
+     }
+    },
+    {
+     "name": {
+      "en": "The Suitcase",
+      "he": "The Suitcase"
+     },
+     "role": {
+      "en": "Riso comic, edition of 100",
+      "he": "קומיקס בריזו, 100 עותקים"
+     },
+     "img": "https://m.itsnicethat.com/original_images/WilliamGoldsmith_The_Suitcase4_photo_by_Rowan_Corr.jpg?class=w1080"
+    }
+   ]
+  },
+  {
+   "id": "neville-brody-designer-friday",
+   "tab": "design",
+   "kind": "design history",
+   "url": "https://designreviewed.com/designer/neville-brody/",
+   "image": "https://designreviewed.com/wp-content/uploads/2026/04/Neville_Studio_square.original.2e16d0ba.fill-1200x1200-1.webp",
+   "gallery": [
+    "https://designreviewed.com/wp-content/uploads/2026/10/The-Face-Electro-No-49-May-1984.-Designed-by-Neville-Brody--1600x1050.webp",
+    "https://designreviewed.com/wp-content/uploads/2026/04/The-Face-No-50-June-1984.-Designed-by-Neville-Brody.webp",
+    "https://designreviewed.com/wp-content/uploads/2025/10/FUSE-2-RUNES-Autumn-1991-1600x1600.webp"
+   ],
+   "mentions": [
+    {
+     "source": "Design Reviewed",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Designer Friday: Neville Brody",
+    "he": "Designer Friday: נוויל ברודי"
+   },
+   "why": {
+    "en": "The designer who treated type as image and remade 1980s magazines, in an archive of real covers.",
+    "he": "המעצב שהתייחס לטיפוגרפיה כדימוי ושינה את מגזיני שנות ה־80, בארכיון של שערים אמיתיים."
+   },
+   "tldr": {
+    "en": [
+     "Design Reviewed's profile of the British designer who art-directed The Face and used letterforms as structure and expression, not just text.",
+     "The archive collects The Face covers from No 37 (May 1983) to No 57 (January 1985), including the Electro issue, No 49, May 1984.",
+     "It also gathers his experimental FUSE type issues, from FUSE 1 (Summer 1991) through RUNES, (DIS)INFORMATION and VIRTUAL to FUSE 11 (1994).",
+     "Beyond magazines: Brody Associates, clients like Apple, BBC Online, The Times and Channel 4, co-founding FontShop International with Erik Spiekermann, and a V&A show."
+    ],
+    "he": [
+     "הפרופיל של Design Reviewed למעצב הבריטי שעשה את הארט דיירקשן של The Face והשתמש באותיות כמבנה וכביטוי, לא רק כטקסט.",
+     "בארכיון שערי The Face מגיליון 37 (מאי 1983) ועד גיליון 57 (ינואר 1985), כולל גיליון Electro, מס׳ 49, מאי 1984.",
+     "יש בו גם את גיליונות הטיפוגרפיה הניסיוניים של FUSE, מ־FUSE 1 (קיץ 1991) דרך RUNES, ‏(DIS)INFORMATION ו־VIRTUAL ועד FUSE 11 (1994).",
+     "מעבר למגזינים: Brody Associates, לקוחות כמו אפל, BBC Online, הטיימס וערוץ 4, הקמת FontShop International יחד עם אריק שפיקרמן ותערוכה ב־V&A."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Neville Brody",
+      "he": "נוויל ברודי"
+     },
+     "role": {
+      "en": "British graphic designer",
+      "he": "מעצב גרפי בריטי"
+     },
+     "img": "https://designreviewed.com/wp-content/uploads/2026/04/Neville_Studio_square.original.2e16d0ba.fill-1200x1200-1.webp"
+    },
+    {
+     "name": {
+      "en": "The Face, No 49 “Electro”",
+      "he": "The Face, גיליון 49 ״Electro״"
+     },
+     "role": {
+      "en": "May 1984",
+      "he": "מאי 1984"
+     },
+     "img": "https://designreviewed.com/wp-content/uploads/2026/10/The-Face-Electro-No-49-May-1984.-Designed-by-Neville-Brody--1600x1050.webp"
+    },
+    {
+     "name": {
+      "en": "FUSE",
+      "he": "FUSE"
+     },
+     "role": {
+      "en": "Experimental type magazine, 1991–",
+      "he": "מגזין טיפוגרפיה ניסיוני, מ־1991"
+     },
+     "img": "https://designreviewed.com/wp-content/uploads/2025/10/FUSE-1-Issue-1-Summer-1991-1600x1600.webp"
+    }
+   ]
+  },
+  {
+   "id": "design-spells-78",
+   "tab": "motion",
+   "kind": "micro-interactions",
+   "url": "https://designspells.com/newsletters/78",
+   "image": "https://designspells.com/og.png",
+   "video": "https://cdn.designspells.com/videos/chengyu_calendar.mp4",
+   "videos": [
+    {
+     "src": "https://cdn.designspells.com/videos/chatgpt-5.mp4",
+     "label": {
+      "en": "Snake while ChatGPT draws",
+      "he": "סנייק בזמן ש־ChatGPT מצייר"
+     },
+     "url": "https://designspells.com/spells/hidden-snake-minigame-when-waiting-for-images-to-generate-in-chatgpt"
+    },
+    {
+     "src": "https://cdn.designspells.com/videos/elevenlabs-2.mp4",
+     "label": {
+      "en": "ElevenLabs orb picker",
+      "he": "בוחר האורבים של ElevenLabs"
+     },
+     "url": "https://designspells.com/spells/orb-picker-in-elevenlabs"
+    },
+    {
+     "src": "https://cdn.designspells.com/videos/spotify-7.mp4",
+     "label": {
+      "en": "Spotify SongDNA carousel",
+      "he": "הקרוסלה של Spotify SongDNA"
+     },
+     "url": "https://designspells.com/spells/contributors-carousel-in-spotify-songdna"
+    }
+   ],
+   "mentions": [
+    {
+     "source": "Design Spells",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Design Spells #78: a paper calendar, a secret Snake and a voice orb",
+    "he": "Design Spells #78: לוח שנה מנייר, סנייק סודי ואורב קולי"
+   },
+   "why": {
+    "en": "Four clips, spells 339–342 – watch the interactions right here.",
+    "he": "ארבעה קליפים, ״לחשים״ 339–342 – אפשר לצפות באינטראקציות כאן."
+   },
+   "tldr": {
+    "en": [
+     "Chengyu Calendar: a skeuomorphic 3D tear-off page, like the paper day-calendars of traditional Chinese homes.",
+     "ChatGPT (desktop): a hidden Snake mini-game to play while an image is still generating.",
+     "ElevenLabs: voices picked through a field of animated orbs instead of a plain list.",
+     "Spotify SongDNA (mobile): a carousel that pages through the people who contributed to a track."
+    ],
+    "he": [
+     "Chengyu Calendar: דף נתלש בתלת־ממד סקאומורפי, כמו לוחות השנה מנייר שתולים בבתים סיניים מסורתיים.",
+     "ChatGPT (דסקטופ): משחקון סנייק נסתר שאפשר לשחק בזמן שהתמונה עדיין נוצרת.",
+     "ElevenLabs: בוחרים קול מתוך שדה של אורבים מונפשים, במקום רשימה יבשה.",
+     "Spotify SongDNA (מובייל): קרוסלה שמדפדפת בין האנשים שהשתתפו ביצירת השיר."
+    ]
+   },
+   "entities": []
+  },
+  {
+   "id": "amazing-glass",
+   "tab": "motion",
+   "kind": "tool",
+   "url": "https://tomacco.github.io/amazing-glass/",
+   "image": "https://tomacco.github.io/amazing-glass/assets/web-chart.jpg",
+   "gallery": [
+    "https://tomacco.github.io/amazing-glass/assets/web-chart.jpg",
+    "https://tomacco.github.io/amazing-glass/assets/apple-chart.jpg"
+   ],
+   "mentions": [
+    {
+     "source": "Sidebar (UX Collective)",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Amazing Glass: Apple's Liquid Glass, rebuilt for the web",
+    "he": "Amazing Glass: ה־Liquid Glass של אפל, בגרסת ווב"
+   },
+   "why": {
+    "en": "Real refraction, measured against Apple's own renderer – free, for HTML, React and Vue.",
+    "he": "שבירת אור אמיתית, שכוילה מול המנוע של אפל עצמה – חינם, ל־HTML, React ו־Vue."
+   },
+   "tldr": {
+    "en": [
+     "Ivan Tomac's MIT-licensed library: web components (an <ag-glass> slab plus switches, sliders, a tab bar, menu and bottom sheet) with typed React and Vue wrappers.",
+     "Each shape gets a Snell's-law refraction map; an SVG filter chain shifts each color channel slightly differently to get the rainbow rim.",
+     "He rendered Apple's Liquid Glass in a SwiftUI test app and tuned parameters until the gap stopped shrinking – mean error fell from 7.13 to 2.02 (Regular) and 19.48 to 1.64 (Clear) on a 0–255 scale.",
+     "Full refraction over page content only works in Chromium; Safari and Firefox fall back to frosted glass. Version 0.1.0 – watch text contrast over moving backgrounds."
+    ],
+    "he": [
+     "הספרייה של איוון טומץ׳, ברישיון MIT: רכיבי ווב (משטח <ag-glass>, מתגים, סליידרים, טאב־בר, תפריט ו־bottom sheet) עם עטיפות טיפוסיות ל־React ול־Vue.",
+     "לכל צורה מחושבת מפת שבירה לפי חוק סנל, ושרשרת פילטרים של SVG מזיזה כל ערוץ צבע בעוצמה מעט שונה – וכך נוצר שוליים בצבעי הקשת.",
+     "הוא רינדר את ה־Liquid Glass של אפל באפליקציית SwiftUI וכייל את הפרמטרים עד שהפער הפסיק לרדת: השגיאה הממוצעת ירדה מ־7.13 ל־2.02 (Regular) ומ־19.48 ל־1.64 (Clear), בסקאלה של 0–255.",
+     "שבירה מלאה מעל תוכן הדף עובדת רק בכרומיום; בספארי ובפיירפוקס מקבלים זכוכית חלבית. זו גרסה 0.1.0 – כדאי לבדוק ניגודיות של טקסט מעל רקעים זזים."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Ivan Tomac",
+      "he": "איוון טומץ׳"
+     },
+     "role": {
+      "en": "Developer",
+      "he": "מפתח"
+     }
+    },
+    {
+     "name": {
+      "en": "amazing-glass on GitHub",
+      "he": "amazing-glass בגיטהאב"
+     },
+     "role": {
+      "en": "Source code, MIT",
+      "he": "קוד מקור, MIT"
+     },
+     "watch": {
+      "url": "https://github.com/tomacco/amazing-glass",
+      "label": {
+       "en": "Open repo",
+       "he": "לריפו"
+      }
+     }
+    },
+    {
+     "name": {
+      "en": "Inside the glass",
+      "he": "מאחורי הזכוכית"
+     },
+     "role": {
+      "en": "Technical write-up",
+      "he": "הסבר טכני"
+     },
+     "watch": {
+      "url": "https://tomacco.github.io/amazing-glass/how/",
+      "label": {
+       "en": "Read",
+       "he": "לקריאה"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "loading-state-within-loading-state",
+   "tab": "motion",
+   "kind": "analysis",
+   "url": "https://unsung.aresluna.org/a-loading-state-within-a-loading-state/",
+   "image": "https://unsung.aresluna.org/_media/a-loading-state-within-a-loading-state/ogimage.jpg",
+   "video": "https://unsung.aresluna.org/_media/a-loading-state-within-a-loading-state/2.2096w.mp4",
+   "videos": [
+    {
+     "src": "https://unsung.aresluna.org/_media/a-loading-state-within-a-loading-state/3.2096w.mp4",
+     "label": {
+      "en": "Figma's loading bar",
+      "he": "פס הטעינה של Figma"
+     },
+     "url": "https://unsung.aresluna.org/a-loading-state-within-a-loading-state/"
+    },
+    {
+     "src": "https://unsung.aresluna.org/_media/a-loading-state-within-a-loading-state/8.2096w.mp4",
+     "label": {
+      "en": "Gmail, the 2018 loader",
+      "he": "Gmail, הטוען של 2018"
+     },
+     "url": "https://unsung.aresluna.org/a-loading-state-within-a-loading-state/"
+    },
+    {
+     "src": "https://unsung.aresluna.org/_media/a-loading-state-within-a-loading-state/9.2096w.mp4",
+     "label": {
+      "en": "Gmail, the newer loader",
+      "he": "Gmail, הטוען החדש"
+     },
+     "url": "https://unsung.aresluna.org/a-loading-state-within-a-loading-state/"
+    }
+   ],
+   "mentions": [
+    {
+     "source": "Sidebar (UX Collective)",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "A loading state within a loading state",
+    "he": "מצב טעינה בתוך מצב טעינה"
+   },
+   "why": {
+    "en": "Marcin Wichary on why a charming loader can be an excuse not to make things faster.",
+    "he": "מרצ׳ין ויכרי על איך אנימציית טעינה מקסימה עלולה להפוך לתירוץ לא להאיץ את המוצר."
+   },
+   "tldr": {
+    "en": [
+     "On the ZX Spectrum, a game's title card loaded from tape first – about 35 seconds inside a 5–20 minute load, with the colors arriving last.",
+     "At Figma, Wichary argued against putting tips on the editor's loading screen: give a wait a second job and the pressure to shorten it fades.",
+     "Gmail's big 2018 loading animation read to him as an admission of slowness; it's now simpler and shows up far less often.",
+     "Loaders that delight get remembered; waits that were removed never do – yet both speed and perceived speed matter."
+    ],
+    "he": [
+     "ב־ZX Spectrum מסך הפתיחה של המשחק נטען מהקלטת ראשון – כ־35 שניות בתוך טעינה של 5–20 דקות, והצבעים הגיעו אחרונים.",
+     "ב־Figma ויכרי התנגד להוספת טיפים למסך הטעינה של העורך: כשנותנים להמתנה תפקיד נוסף, הלחץ לקצר אותה נעלם.",
+     "אנימציית הטעינה הגדולה של Gmail מ־2018 נראתה לו כהודאה באיטיות; היום היא פשוטה יותר ומופיעה הרבה פחות.",
+     "טוענים מקסימים נזכרים; המתנות שבוטלו – אף פעם לא. ובכל זאת, גם המהירות וגם תחושת המהירות חשובות."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Marcin Wichary",
+      "he": "מרצ׳ין ויכרי"
+     },
+     "role": {
+      "en": "Author, Unsung",
+      "he": "הכותב, Unsung"
+     }
+    },
+    {
+     "name": {
+      "en": "ZX Spectrum",
+      "he": "ZX Spectrum"
+     },
+     "role": {
+      "en": "1982 home computer",
+      "he": "מחשב ביתי, 1982"
+     }
+    }
+   ]
+  },
+  {
+   "id": "micro-progress-button",
+   "tab": "motion",
+   "kind": "micro-interactions",
+   "url": "https://x.com/withAnimationUI/status/2107359197511692380",
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2107190162728124416/img/06CsX911PvXCUtR0.jpg",
+   "mentions": [
+    {
+     "source": "Collect UI",
+     "count": 4
+    }
+   ],
+   "title": {
+    "en": "A button that becomes its own progress bar",
+    "he": "כפתור שהופך לפס ההתקדמות של עצמו"
+   },
+   "why": {
+    "en": "Four days in Collect UI's most-loved list – in a week dominated by AI-interface parts and physics-driven play.",
+    "he": "ארבעה ימים ברשימת האהובים של Collect UI – בשבוע שכולו רכיבי ממשק ל־AI ומשחקיות פיזיקלית."
+   },
+   "tldr": {
+    "en": [
+     "withAnimation (@withAnimationUI) asks: what if progress happened inside the button that started it?",
+     "No separate spinner or bar – the button itself turns into the progress indicator.",
+     "The week's Collect UI theme: AI-interface building blocks (context windows, model routers, reasoning toggles, effort sliders) plus physics-based playfulness."
+    ],
+    "he": [
+     "withAnimation (@withAnimationUI) שואלים: מה אם ההתקדמות תקרה בתוך הכפתור שהתחיל אותה?",
+     "בלי ספינר או פס נפרד – הכפתור עצמו הופך למחוון ההתקדמות.",
+     "הנושא של Collect UI השבוע: אבני בניין לממשקי AI (חלונות הקשר, נתבי מודלים, מתגי חשיבה, סליידרים של מאמץ) לצד משחקיות פיזיקלית."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "withAnimation",
+      "he": "withAnimation"
+     },
+     "role": {
+      "en": "Designer, @withAnimationUI",
+      "he": "מעצב, @withAnimationUI"
+     }
+    }
+   ]
+  },
+  {
+   "id": "jelly-segmented-control",
+   "tab": "motion",
+   "kind": "micro-interactions",
+   "url": "https://x.com/lorenzodossi/status/2105219302504669671",
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2105218956327841794/img/44N9QAjoGsXv_e7q.jpg",
+   "mentions": [
+    {
+     "source": "Collect UI",
+     "count": 4
+    }
+   ],
+   "title": {
+    "en": "A jelly segmented control",
+    "he": "סגמנטד־קונטרול מג׳לי"
+   },
+   "why": {
+    "en": "Squishy physics on the most ordinary toggle in UI.",
+    "he": "פיזיקה רכה ומתנודדת על המתג הכי שגרתי בממשק."
+   },
+   "tldr": {
+    "en": [
+     "Lorenzo Dossi (@lorenzodossi) built a segmented control that wobbles and squishes like jelly.",
+     "It was made for @LodsDorian's launch visual for Eleven v4, the voice model ElevenLabs released at the end of September.",
+     "Spent four days in Collect UI's most-loved list."
+    ],
+    "he": [
+     "לורנצו דוסי (@lorenzodossi) בנה סגמנטד־קונטרול שמתנודד ונמעך כמו ג׳לי.",
+     "הוא נוצר עבור ויז׳ואל ההשקה של @LodsDorian ל־Eleven v4 – מודל הקול ש־ElevenLabs השיקה בסוף ספטמבר.",
+     "ארבעה ימים ברשימת האהובים של Collect UI."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Lorenzo Dossi",
+      "he": "לורנצו דוסי"
+     },
+     "role": {
+      "en": "Designer",
+      "he": "מעצב"
+     }
+    },
+    {
+     "name": {
+      "en": "Eleven v4",
+      "he": "Eleven v4"
+     },
+     "role": {
+      "en": "ElevenLabs voice model",
+      "he": "מודל הקול של ElevenLabs"
+     },
+     "watch": {
+      "url": "https://www.youtube.com/results?search_query=ElevenLabs+Eleven+v4",
+      "label": {
+       "en": "Find the launch video",
+       "he": "חיפוש סרטון ההשקה"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "paper-plane-toc",
+   "tab": "motion",
+   "kind": "concept",
+   "url": "https://x.com/SwamiMalode/status/2107442898413478309",
+   "image": "https://pbs.twimg.com/amplify_video_thumb/2107441918926082050/img/TRWGRDZNq6SxrD1M.jpg",
+   "mentions": [
+    {
+     "source": "Collect UI",
+     "count": 4
+    }
+   ],
+   "title": {
+    "en": "A paper plane that tracks where you are in the fine print",
+    "he": "מטוס נייר שמסמן איפה אתם באותיות הקטנות"
+   },
+   "why": {
+    "en": "Turns the most-skipped page on a site into something to watch.",
+    "he": "הופך את הדף שכולם מדלגים עליו למשהו שנעים להסתכל עליו."
+   },
+   "tldr": {
+    "en": [
+     "Swami (@SwamiMalode) designed a table of contents for a terms-of-service page.",
+     "A small paper plane flies along the TOC to mark your reading position.",
+     "Spent four days in Collect UI's most-loved list."
+    ],
+    "he": [
+     "Swami (@SwamiMalode) עיצב תוכן עניינים לעמוד תנאי שימוש.",
+     "מטוס נייר קטן טס לאורך תוכן העניינים ומסמן איפה אתם בקריאה.",
+     "ארבעה ימים ברשימת האהובים של Collect UI."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Swami",
+      "he": "Swami"
+     },
+     "role": {
+      "en": "Designer, @SwamiMalode",
+      "he": "מעצב, @SwamiMalode"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tik-avodot-295-amir-mark",
+   "tab": "ai",
+   "kind": "podcast",
+   "lang": "he",
+   "url": "https://www.prtfl.co.il/archives/podcast/%d7%aa%d7%99%d7%a7-%d7%a2%d7%91%d7%95%d7%93%d7%95%d7%aa-%d7%a4%d7%a8%d7%a7-295-%d7%a2%d7%9e%d7%99%d7%a8-%d7%9e%d7%a8%d7%a7",
+   "image": "https://www.prtfl.co.il/wp-content/uploads/2026/10/amir-marc-facetune.jpg",
+   "mentions": [
+    {
+     "source": "Portfolio",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Facetune's design chief: designers aren't going anywhere",
+    "he": "מנהל העיצוב של Facetune: אי אפשר לוותר על מעצבים"
+   },
+   "why": {
+    "en": "An Israeli design lead inside an AI company on what the job becomes: more versatile, not obsolete.",
+    "he": "מוביל עיצוב ישראלי בחברת AI על מה שהמקצוע הופך להיות: ורסטילי יותר, לא מיותר."
+   },
+   "tldr": {
+    "en": [
+     "Episode 295 of Portfolio's \"Tik Avodot\" podcast hosts Amir Mark, who heads design at Facetune, Lightricks' 12-year-old editing app with about 300 million users.",
+     "He trained in fashion design at Shenkar (his inflatable-garment graduation project went to Seoul Fashion Week), then worked at Wix and ran the studio at Anani Tikshoret before joining Facetune about five years ago.",
+     "He walks through Outfit, which puts a garment from a reference image onto your photo, and Makeup, a faithful digital version of real cosmetics meant to pave the way for try-before-you-buy.",
+     "His take on AI: designers will need to be more versatile, and those who don't adopt the new tools won't stay relevant. He also expects a counter-wave of craft and authenticity."
+    ],
+    "he": [
+     "פרק 295 של ״תיק עבודות״, הפודקאסט של פורטפוליו, מארח את עמיר מרק, מנהל העיצוב של Facetune – אפליקציית העריכה של Lightricks, בת 12, עם כ־300 מיליון משתמשים.",
+     "הוא למד עיצוב אופנה בשנקר (פרויקט הגמר שלו, עם בגדים מתנפחים, הוצג בשבוע האופנה בסיאול), עבר בוויקס וניהל את הסטודיו בענני תקשורת לפני שהצטרף ל־Facetune לפני כחמש שנים.",
+     "הוא מציג את Outfit, שמלביש על התמונה שלכם בגד מתמונת רפרנס, ואת Makeup – ייצוג דיגיטלי נאמן של מוצרי קוסמטיקה אמיתיים, כבסיס לחוויות ״למדוד לפני שקונים״.",
+     "על AI: מעצבים יצטרכו להיות ורסטיליים יותר, ומי שלא יאמץ את היכולות החדשות פשוט לא יישאר רלוונטי. במקביל הוא צופה גל נגדי של קראפט ואותנטיות."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Amir Mark",
+      "he": "עמיר מרק"
+     },
+     "role": {
+      "en": "Head of design, Facetune",
+      "he": "מנהל העיצוב, Facetune"
+     },
+     "img": "https://www.prtfl.co.il/wp-content/uploads/2026/10/amir-marc-facetune.jpg"
+    },
+    {
+     "name": {
+      "en": "Facetune",
+      "he": "Facetune"
+     },
+     "role": {
+      "en": "Lightricks' editing app",
+      "he": "אפליקציית העריכה של Lightricks"
+     },
+     "q": "Facetune Lightricks"
+    },
+    {
+     "name": {
+      "en": "Tik Avodot podcast",
+      "he": "הפודקאסט ״תיק עבודות״"
+     },
+     "role": {
+      "en": "Portfolio's design podcast",
+      "he": "הפודקאסט של פורטפוליו"
+     },
+     "watch": {
+      "url": "https://open.spotify.com/show/6MqAaJKcy4wCLKUmPUe3Iq",
+      "label": {
+       "en": "Listen on Spotify",
+       "he": "להאזנה בספוטיפיי"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "sag-aftra-animation-deal",
+   "tab": "ai",
+   "kind": "industry",
+   "url": "https://www.cartoonbrew.com/artist-rights/sag-aftra-tv-animation-deal-vote-267544.html",
+   "image": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+   "mentions": [
+    {
+     "source": "Cartoon Brew",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "SAG-AFTRA's new TV animation deal goes to a vote",
+    "he": "הסכם האנימציה החדש של SAG-AFTRA עולה להצבעה"
+   },
+   "why": {
+    "en": "Voice actors get stronger AI protections, raises and better streaming residuals – vote closes Oct 29.",
+    "he": "שחקני דיבוב מקבלים הגנות AI חזקות יותר, העלאות שכר ותמלוגי סטרימינג משופרים – ההצבעה נסגרת ב־29 באוקטובר."
+   },
+   "tldr": {
+    "en": [
+     "A four-year 2026 Television Animation Agreement with the AMPTP, unanimously approved by SAG-AFTRA's Executive Committee; members vote until Oct 29, 5pm PT.",
+     "AI protections expand by folding in gains from the 2026 live-action contracts, on top of animation-specific rules first won in 2024.",
+     "Pay rises 3% in each year, the first retroactive to July 5, 2026.",
+     "Streaming residuals rise about 5% on average, the foreign-streamer subscriber factor goes from 39% to 41%, plus +1% health, +1% pension from 2028 and 0.25% for new paid parental leave."
+    ],
+    "he": [
+     "הסכם אנימציה טלוויזיונית לארבע שנים מול ה־AMPTP, שאושר פה אחד בוועד המנהל של SAG-AFTRA. החברים מצביעים עד 29 באוקטובר, 17:00 שעון החוף המערבי.",
+     "הגנות ה־AI מתרחבות וכוללות את ההישגים מהסכמי הלייב־אקשן של 2026, בנוסף לכללים הייעודיים לאנימציה שהושגו לראשונה ב־2024.",
+     "השכר עולה ב־3% בכל שנה, וההעלאה הראשונה רטרואקטיבית מ־5 ביולי 2026.",
+     "תמלוגי הסטרימינג עולים בכ־5% בממוצע, מקדם המנויים בפלטפורמות זרות גדלות עולה מ־39% ל־41%, ובנוסף +1% לבריאות, +1% לפנסיה מ־2028 ו־0.25% לחופשת לידה בתשלום חדשה."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "SAG-AFTRA",
+      "he": "SAG-AFTRA"
+     },
+     "role": {
+      "en": "Performers' union",
+      "he": "איגוד השחקנים"
+     }
+    },
+    {
+     "name": {
+      "en": "Ray Rodriguez",
+      "he": "ריי רודריגז"
+     },
+     "role": {
+      "en": "Chief contracts officer",
+      "he": "ראש מחלקת החוזים"
+     }
+    },
+    {
+     "name": {
+      "en": "AMPTP",
+      "he": "AMPTP"
+     },
+     "role": {
+      "en": "Studios' bargaining group",
+      "he": "ארגון המשא ומתן של האולפנים"
+     }
+    }
+   ]
+  },
+  {
+   "id": "in-defense-of-the-detour",
+   "tab": "ai",
+   "kind": "essay",
+   "url": "https://www.nytimes.com/interactive/2026/09/27/opinion/ai-art-creativity.html",
+   "mentions": [
+    {
+     "source": "Sidebar (UX Collective)",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Giorgia Lupi: In defense of the detour",
+    "he": "ג׳ורג׳יה לופי: להגנת הדרך העוקפת"
+   },
+   "why": {
+    "en": "A hand-drawn NYT visual essay arguing that the slow, lost part is where the ideas come from.",
+    "he": "מסה חזותית מצוירת ביד בניו יורק טיימס: דווקא החלק האיטי והמבולבל הוא המקום שבו נולדים רעיונות."
+   },
+   "tldr": {
+    "en": [
+     "Pentagram partner Giorgia Lupi wrote and designed this NYT Opinion visual essay (Sept 27), ending in a colorful hand-drawn animation of her team's looping process.",
+     "It opens with Miles Davis's largely improvised 'Kind of Blue' (1959): false starts and mistakes are where breakthroughs live.",
+     "She cites a 2025 study in which hundreds of image prompts collapsed into twelve visual motifs – 'visual elevator music'.",
+     "Her place for AI: implementation and scale, after the creative work is done – because 'the process leaves a trace'."
+    ],
+    "he": [
+     "ג׳ורג׳יה לופי, שותפה בפנטגרם, כתבה ועיצבה את המסה החזותית הזו למדור הדעות של ניו יורק טיימס (27 בספטמבר), שמסתיימת באנימציה צבעונית מצוירת ביד של התהליך המתפתל של הצוות שלה.",
+     "היא פותחת ב־״Kind of Blue״ של מיילס דייוויס (1959), שאולתר ברובו: ההתחלות השגויות והטעויות הן המקום שבו קורות פריצות הדרך.",
+     "היא מצטטת מחקר מ־2025 שבו מאות פרומפטים לתמונות התכנסו לשנים־עשר מוטיבים חזותיים בלבד – ״מוזיקת מעליות חזותית״.",
+     "המקום שהיא נותנת ל־AI: ביצוע והגדלת היקף, אחרי שהעבודה היצירתית נגמרה – כי ״התהליך משאיר עקבות״."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Giorgia Lupi",
+      "he": "ג׳ורג׳יה לופי"
+     },
+     "role": {
+      "en": "Author and designer, Pentagram",
+      "he": "כותבת ומעצבת, פנטגרם"
+     }
+    },
+    {
+     "name": {
+      "en": "Pentagram project page",
+      "he": "עמוד הפרויקט בפנטגרם"
+     },
+     "role": {
+      "en": "Process, sketches and credits",
+      "he": "תהליך, סקיצות וקרדיטים"
+     },
+     "watch": {
+      "url": "https://www.pentagram.com/work/in-defense-of-the-detour",
+      "label": {
+       "en": "See the process",
+       "he": "לצפייה בתהליך"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "prompting-as-self-portrait",
+   "tab": "ai",
+   "kind": "essay",
+   "url": "https://www.doc.cc/humankind/self-portrait",
+   "image": "https://images.prismic.io/doc-ux-collective/t-pnA9Hdpq8cqEpV_SEO.jpg?auto=format,compress&rect=0,0,2400,1240&w=1200&h=620",
+   "mentions": [
+    {
+     "source": "Sidebar (UX Collective)",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Prompting as self-portrait",
+    "he": "פרומפט כדיוקן עצמי"
+   },
+   "why": {
+    "en": "“AI installed a distorted mirror where the blank page used to be.”",
+    "he": "״ה־AI התקין מראה מעוותת במקום שבו פעם היה הדף הלבן.״"
+   },
+   "tldr": {
+    "en": [
+     "Caio Abreu Braga (DOC's Humankind series) argues every prompt is a confession: it shows how clearly you think, what you reference, and what your team never wrote down.",
+     "The model answers with confidence and flattery, painting a generous portrait of whoever asked – so we become consumers of output more than makers.",
+     "The blank page offered silence, uncertainty and time; he wants back the friction and discomfort before an idea 'clicks'.",
+     "Draws on Peng lin Yang's writing on sycophancy and Tristan Fee's on designing for omniscience."
+    ],
+    "he": [
+     "קאיו אבראו בראגה (בסדרת Humankind של DOC) טוען שכל פרומפט הוא וידוי: הוא חושף כמה בהירה המחשבה שלכם, על מה אתם נשענים, ומה הצוות שלכם אף פעם לא תיעד.",
+     "המודל עונה בביטחון ובחנופה ומצייר דיוקן מחמיא של מי ששאל – וכך אנחנו הופכים לצרכנים של תוצרים יותר מאשר ליוצרים.",
+     "הדף הלבן נתן שקט, אי־ודאות וזמן; הוא רוצה להחזיר את החיכוך ואת אי־הנוחות שלפני שהרעיון ״מתיישב״.",
+     "נשען על הכתיבה של פנג לין יאנג על חנפנות מודלים ושל טריסטן פי על עיצוב לכל־יודע."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Caio Abreu Braga",
+      "he": "קאיו אבראו בראגה"
+     },
+     "role": {
+      "en": "Author",
+      "he": "הכותב"
+     }
+    }
+   ]
+  },
+  {
+   "id": "de-slopify-your-designs",
+   "tab": "ai",
+   "kind": "advice",
+   "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9",
+   "image": "https://miro.medium.com/v2/resize:fit:1200/1*8HZbm_CuQ7CumOwEIQYm4w.png",
+   "mentions": [
+    {
+     "source": "Sidebar (UX Collective)",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "How to de-slopify your vibecoded designs",
+    "he": "איך לנקות את ה״סלופ״ מעיצובים שנבנו בוייבקודינג"
+   },
+   "why": {
+    "en": "A four-level ladder from one-line prompt to Figma-first, for anyone shipping AI-built UI.",
+    "he": "סולם של ארבע רמות, מפרומפט של שורה אחת ועד עבודה שמתחילה בפיגמה – לכל מי שמשיק ממשק שנבנה עם AI."
+   },
+   "tldr": {
+    "en": [
+     "Maya Brennan (UX Collective, Sept 29): name the exact components that make a UI look generated, instead of 'it looks janky'. Asking the AI to 'make it less vibecoded' barely works.",
+     "Level 1: strip elements to cut density, be specific about palette, fonts and graphics, and add photos for an analog feel (Coolors, Google Fonts, Lucide, Unsplash).",
+     "Level 2: give a visual reference or a written style; AI handles 'digital' looks better than 'organic' ones – and don't feed it other designers' work without permission.",
+     "Level 3: for full products, hand-sketch wireframes, design in Figma, then make that file the AI's reference."
+    ],
+    "he": [
+     "מאיה ברנן (UX Collective, 29 בספטמבר): לזהות בשם את הרכיבים שגורמים לממשק להיראות ״מג׳ונרט״, במקום ״זה נראה עקום״. לבקש מה־AI ״פחות וייבקודד״ כמעט לא עובד.",
+     "רמה 1: להוריד אלמנטים כדי להפחית צפיפות, לדייק פלטה, פונטים וגרפיקה, ולהוסיף צילומים לתחושה אנלוגית (Coolors, Google Fonts, Lucide, Unsplash).",
+     "רמה 2: לתת רפרנס חזותי או תיאור סגנון; ה־AI מסתדר טוב יותר עם סגנון ״דיגיטלי״ מאשר ״אורגני״ – ולא להאכיל אותו בעבודות של מעצבים אחרים בלי רשות.",
+     "רמה 3: למוצר שלם – לשרבט וויירפריימים ביד, לעצב בפיגמה, ואז להפוך את הקובץ לרפרנס של ה־AI."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Maya Brennan",
+      "he": "מאיה ברנן"
+     },
+     "role": {
+      "en": "Author",
+      "he": "הכותבת"
+     }
+    }
+   ]
+  },
+  {
+   "id": "meta-muse-cute-trust",
+   "tab": "ai",
+   "kind": "character design",
+   "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f",
+   "image": "https://miro.medium.com/v2/resize:fit:852/1*784GNB8X9O9PcH2kPQC5wg.png",
+   "mentions": [
+    {
+     "source": "Sidebar (UX Collective)",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Is Meta's AI agent easier to trust because it's cute?",
+    "he": "האם קל יותר לסמוך על הסוכן של מטא כי הוא חמוד?"
+   },
+   "why": {
+    "en": "Character design as a trust strategy – for an agent that asks for deep access.",
+    "he": "עיצוב דמות כאסטרטגיית אמון – עבור סוכן שמבקש גישה עמוקה."
+   },
+   "tldr": {
+    "en": [
+     "Meta's Muse agent went live in the US on Sept 8: you name it, design its avatar and get a physical keyring gadget – and it topped the US App Store.",
+     "Avatars get personal: one reviewer turned hers into a cat called 'boo'; Zuckerberg's wears a toga and answers to 'Agrippa'.",
+     "Dora Czerna (UX Collective) sets that charm against the access involved, citing internal posts reported by Reuters where Muse routed around its guardrails and exposed someone's private iCloud photos.",
+     "Her question: does cute character design lower our guard exactly where it should be highest?"
+    ],
+    "he": [
+     "הסוכן Muse של מטא עלה בארה״ב ב־8 בספטמבר: נותנים לו שם, מעצבים לו אווטאר ומקבלים גאדג׳ט מחזיק־מפתחות פיזי – והוא הגיע למקום הראשון ב־App Store האמריקאי.",
+     "האווטארים אישיים מאוד: סוקרת אחת הפכה את שלה לחתולה בשם ״boo״, ושל צוקרברג לובש טוגה ונקרא ״אגריפס״.",
+     "דורה צ׳רנה (UX Collective) מעמידה את הקסם הזה מול רמת הגישה, ומצטטת פוסטים פנימיים שדווחו ברויטרס, שבהם Muse עקף את מנגנוני ההגנה שלו וחשף תמונות iCloud פרטיות של מישהו.",
+     "השאלה שלה: האם עיצוב דמות חמוד מוריד לנו את המגננה בדיוק איפה שהיא צריכה להיות הכי גבוהה?"
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Muse",
+      "he": "Muse"
+     },
+     "role": {
+      "en": "Meta's personal AI agent",
+      "he": "הסוכן האישי של מטא"
+     }
+    },
+    {
+     "name": {
+      "en": "Dora Czerna",
+      "he": "דורה צ׳רנה"
+     },
+     "role": {
+      "en": "Author",
+      "he": "הכותבת"
+     }
+    }
+   ]
+  },
+  {
+   "id": "agentic-brand-systems",
+   "tab": "ai",
+   "kind": "concept",
+   "url": "https://agentic.littleplains.com/",
+   "image": "https://agentic.littleplains.com/assets/og.png",
+   "gallery": [
+    "https://agentic.littleplains.com/assets/motion/sonata-hero-full.jpg",
+    "https://agentic.littleplains.com/assets/product/ground.jpg"
+   ],
+   "mentions": [
+    {
+     "source": "Sidebar (UX Collective)",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Little Plains: agentic systems are the future of brands",
+    "he": "Little Plains: מערכות אייג׳נטיות הן העתיד של מותגים"
+   },
+   "why": {
+    "en": "Brand guidelines rewritten so an AI agent can read them – and know why each rule exists.",
+    "he": "ספר מותג שנכתב מחדש כך שגם סוכן AI יוכל לקרוא אותו – ולהבין למה כל כלל קיים."
+   },
+   "tldr": {
+    "en": [
+     "The problem is brand drift: an old design system, a Canva folder from several eras, a Figma file behind the live site – and agents guess wherever guidance is missing.",
+     "An Agentic Brand System is a kit people browse and agents read: voice, visual rules, components, plus the reasoning behind each rule. For client Sonata, visual-system.json generates tokens.css and a readme tells agents what to read for each job.",
+     "Art direction becomes rules (one flower per surface, never recolor a flower to an accent); before handoff, a fresh agent with no context must make something new from the kit.",
+     "Hardest open problem: change one approved decision and have sites, ads, decks and product screens follow. Little Plains is working on it with Flora."
+    ],
+    "he": [
+     "הבעיה היא ״סחף מותגי״: מערכת עיצוב ישנה, תיקיית Canva מכמה תקופות, קובץ פיגמה שמפגר אחרי האתר – וסוכנים ממציאים בכל מקום שבו חסרה הנחיה.",
+     "Agentic Brand System הוא ערכה שאנשים מדפדפים בה וסוכנים קוראים: טון, כללים חזותיים, רכיבים – וגם ההיגיון מאחורי כל כלל. אצל הלקוחה Sonata, הקובץ visual-system.json מייצר את tokens.css, ו־readme מסביר לסוכן מה לקרוא לכל משימה.",
+     "הארט־דיירקשן הופך לכללים (פרח אחד לכל משטח, אף פעם לא לצבוע פרח בצבע הדגשה); לפני המסירה, סוכן ״טרי״ בלי הקשר צריך ליצור משהו חדש מהערכה.",
+     "הבעיה הפתוחה הקשה ביותר: לשנות החלטה מאושרת אחת ולגרום לאתרים, מודעות, מצגות ומסכי מוצר להתעדכן בעקבותיה. Little Plains עובדים על זה עם Flora."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Little Plains",
+      "he": "Little Plains"
+     },
+     "role": {
+      "en": "Brand studio, authors",
+      "he": "סטודיו למיתוג, הכותבים"
+     }
+    },
+    {
+     "name": {
+      "en": "Emmett Shine",
+      "he": "אמט שיין"
+     },
+     "role": {
+      "en": "Co-author",
+      "he": "שותף לכתיבה"
+     }
+    },
+    {
+     "name": {
+      "en": "Sonata",
+      "he": "Sonata"
+     },
+     "role": {
+      "en": "Example client kit",
+      "he": "ערכת הלקוח לדוגמה"
+     },
+     "img": "https://agentic.littleplains.com/assets/motion/sonata-hero-full.jpg"
+    }
+   ]
+  },
+  {
+   "id": "claude-motion-dashboards",
+   "tab": "ai",
+   "kind": "news",
+   "url": "https://claude.com/resources/articles/dashboards-and-motion",
+   "image": "https://claude.com/resources/articles/dashboards-and-motion/opengraph-image/og",
+   "gallery": [
+    "https://assets.claude.com/46f88e8de631c732fa245ad453262e6ef35c0e73.png",
+    "https://assets.claude.com/7688d4d3b888c17cf4b3553f537f291882a92656.png"
+   ],
+   "embed": {
+    "provider": "youtube",
+    "id": "en0GuyhieQk",
+    "label": {
+     "en": "Watch the launch video",
+     "he": "לצפייה בסרטון ההשקה"
+    }
+   },
+   "mentions": [
+    {
+     "source": "Google Alerts",
+     "count": 2
+    }
+   ],
+   "title": {
+    "en": "Anthropic launches Claude Motion and Dashboards",
+    "he": "Anthropic משיקה את Claude Motion ו־Dashboards"
+   },
+   "why": {
+    "en": "Motion builds animations as editable code, not generated footage – exportable to Adobe, Runway and more.",
+    "he": "Motion בונה אנימציות כקוד שאפשר לערוך, לא כווידאו מג׳ונרט – ומייצא לאדובי, Runway ועוד."
+   },
+   "tldr": {
+    "en": [
+     "Announced Oct 8: Motion (beta, Team and Enterprise) turns a prompt into a short animation – type /motion – by writing code that animates your own text, charts, shapes and images.",
+     "No video-generation model, so no generated footage or people; because it's code, you can change one word, number or timing in the editor or by asking Claude, and the rest stays put. Exports as MP4.",
+     "Hands off to Adobe, Descript, HeyGen, Higgsfield, invideo, Luma AI and Runway, with Canva and Captions coming. Dashboards (beta, paid plans) build live charts from Snowflake, BigQuery, Databricks and others.",
+     "Docs, Slides and Design left beta for every plan, including Free. The same week, Google Alerts flagged a wave of code-based motion videos people made with Claude."
+    ],
+    "he": [
+     "הוכרז ב־8 באוקטובר: Motion (בטא, למנויי Team ו־Enterprise) הופך פרומפט לאנימציה קצרה – מקלידים ‎/motion – באמצעות קוד שמנפיש את הטקסט, הגרפים, הצורות והתמונות שלכם.",
+     "אין כאן מודל ליצירת וידאו, ולכן אין פוטג׳ או אנשים מג׳ונרטים; ומכיוון שזה קוד, אפשר לשנות מילה, מספר או תזמון אחד – בעורך או בבקשה מ־Claude – וכל השאר נשאר. הייצוא ב־MP4.",
+     "אפשר להעביר לאדובי, Descript, HeyGen, Higgsfield, invideo, Luma AI ו־Runway, ו־Canva ו־Captions בדרך. Dashboards (בטא, מנויים בתשלום) בונה גרפים חיים מ־Snowflake, BigQuery, Databricks ועוד.",
+     "Docs, Slides ו־Design יצאו מבטא לכל המנויים, כולל החינמי. באותו שבוע, התראות גוגל הצביעו על גל סרטוני מושן מבוססי קוד שנוצרו עם Claude."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Claude Motion",
+      "he": "Claude Motion"
+     },
+     "role": {
+      "en": "Code-based animation, beta",
+      "he": "אנימציה מבוססת קוד, בטא"
+     },
+     "watch": {
+      "url": "https://support.claude.com/en/articles/17454997-get-started-with-claude-motion",
+      "label": {
+       "en": "Get started guide",
+       "he": "מדריך הפתיחה"
+      }
+     }
+    },
+    {
+     "name": {
+      "en": "Unite.AI report",
+      "he": "הדיווח ב־Unite.AI"
+     },
+     "role": {
+      "en": "Coverage, Oct 9",
+      "he": "סיקור, 9 באוקטובר"
+     },
+     "watch": {
+      "url": "https://www.unite.ai/anthropic-launches-claude-dashboards-and-motion-takes-docs-out-of-beta/",
+      "label": {
+       "en": "Read",
+       "he": "לקריאה"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "motion-awards-x",
+   "tab": "career",
+   "kind": "contest",
+   "url": "https://motionographer.com/2026/08/18/the-motion-awards-x-this-one-belongs-to-all-of-us/",
+   "image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/08/tma-x-20th-anniversary-hero-wide-v4-4k-sound-ezgif.com-video-to-gif-converter.gif?fit=800%2C450&ssl=1",
+   "mentions": [
+    {
+     "source": "Motionographer",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "The Motion Awards X: two years of work, one edition",
+    "he": "The Motion Awards X: שנתיים של עבודות, מהדורה אחת"
+   },
+   "why": {
+    "en": "A one-time chance to enter 2025 and 2026 work together – deadline Jan 15, 2027.",
+    "he": "הזדמנות חד־פעמית להגיש עבודות מ־2025 ומ־2026 יחד – ההגשה נסגרת ב־15 בינואר 2027."
+   },
+   "tldr": {
+    "en": [
+     "Motionographer turns 20 (it has run since 2006) and the awards hit their tenth edition; as a birthday exception, anything released Jan 1, 2025 – Dec 31, 2026 is eligible.",
+     "Submissions close Jan 15, 2027 at 11:59pm Pacific; work entered now can't be reused in later editions.",
+     "Entry costs $398, or $198 for students; disciplines range from Commercial, Gaming and Infographics to AI and TV/Streaming.",
+     "The jury is curated partly from community nominations; there's also ‘The Pulse’ community vote and a Grand Award that can't be entered."
+    ],
+    "he": [
+     "Motionographer חוגג 20 (האתר פועל מאז 2006) והפרסים מגיעים למהדורה העשירית. כחריג לכבוד יום ההולדת, כל עבודה שיצאה בין 1 בינואר 2025 ל־31 בדצמבר 2026 כשירה.",
+     "ההגשה נסגרת ב־15 בינואר 2027 ב־23:59 שעון החוף המערבי; עבודה שתוגש עכשיו לא תוכל להשתתף במהדורות הבאות.",
+     "דמי ההגשה 398 דולר, או 198 דולר לסטודנטים. הקטגוריות נעות בין פרסומות, גיימינג ואינפוגרפיקה ועד AI וטלוויזיה/סטרימינג.",
+     "חבר השופטים נבחר בין השאר מתוך המלצות הקהילה; יש גם הצבעת קהל, ״The Pulse״, ו־Grand Award שאי אפשר להגיש אליו."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "The Motion Awards",
+      "he": "The Motion Awards"
+     },
+     "role": {
+      "en": "Submit at enter.motionawards.com",
+      "he": "הגשה באתר enter.motionawards.com"
+     },
+     "watch": {
+      "url": "https://enter.motionawards.com",
+      "label": {
+       "en": "Submit work",
+       "he": "להגשת עבודות"
+      }
+     }
+    },
+    {
+     "name": {
+      "en": "Motionographer",
+      "he": "Motionographer"
+     },
+     "role": {
+      "en": "20 years, ad-free",
+      "he": "20 שנה, בלי פרסומות"
+     }
+    }
+   ]
+  },
+  {
+   "id": "design-is-a-nice-to-have",
+   "tab": "career",
+   "kind": "essay",
+   "url": "https://draganbabic.com/blog/design-is-a-nice-to-have/",
+   "image": "https://draganbabic.com/wp-content/uploads/2026/10/design-is-a-nice-to-have.png",
+   "mentions": [
+    {
+     "source": "Sidebar (UX Collective)",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Dragan Babić: design is a nice-to-have (again)",
+    "he": "דרגן באביץ׳: עיצוב הוא שוב ״נחמד שיהיה״"
+   },
+   "why": {
+    "en": "A designer who can now build software admits design matters less to him – and explains why.",
+    "he": "מעצב שיכול עכשיו לבנות תוכנה בעצמו מודה שהעיצוב פחות חשוב לו – ומסביר למה."
+   },
+   "tldr": {
+    "en": [
+     "Babić (Oct 2) still values craft, yet design news and tool launches leave him cold – 'a very weird place' to be.",
+     "What he always wanted was good software; unable to code, he poured himself into design. Now he can build, and often settles for 'good enough' UX.",
+     "His three eras: when programming was the bottleneck design was a nice-to-have; when distribution was, SaaS made design a differentiator; now that programming is trivial, it's a nice-to-have again.",
+     "Closing thought: in a world where you can make anything, you still have to make something useful."
+    ],
+    "he": [
+     "באביץ׳ (2 באוקטובר) עדיין מעריך קראפט, אבל חדשות עיצוב והשקות כלים כבר לא מרגשות אותו – ״מקום מוזר מאוד״ להיות בו.",
+     "מה שתמיד רצה זו תוכנה טובה; כשלא ידע לתכנת, השקיע הכול בעיצוב. עכשיו הוא בונה בעצמו, ולעיתים קרובות מסתפק ב־UX ״טוב מספיק״.",
+     "שלושה עידנים: כשהתכנות היה צוואר הבקבוק, עיצוב היה ״נחמד שיהיה״; כשההפצה הייתה, ה־SaaS הפך אותו לבידול; עכשיו, כשתכנות הוא טריוויאלי – הוא שוב ״נחמד שיהיה״.",
+     "המסקנה: גם בעולם שבו אפשר לבנות כל דבר, עדיין צריך לבנות משהו שימושי."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Dragan Babić",
+      "he": "דרגן באביץ׳"
+     },
+     "role": {
+      "en": "Author, product designer",
+      "he": "הכותב, מעצב מוצר"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sergio-membrillas",
+   "tab": "career",
+   "kind": "interview",
+   "url": "https://www.itsnicethat.com/articles/sergio-membrillas-art-direction-illustration-project-071026",
+   "image": "https://m.itsnicethat.com/original_images/ezgif.com-video-to-gif-converter_4_HRY165P.gif?class=w1440",
+   "gallery": [
+    "https://m.itsnicethat.com/original_images/Rull_s__2026.jpg?class=w1080",
+    "https://m.itsnicethat.com/original_images/Poalgi__2025_copy.jpg?class=w1080",
+    "https://m.itsnicethat.com/original_images/Heat_2025.jpg?class=w1080"
+   ],
+   "mentions": [
+    {
+     "source": "It's Nice That",
+     "count": 2
+    }
+   ],
+   "title": {
+    "en": "Sergio Membrillas takes art direction seriously",
+    "he": "סרחיו ממבריאס מתחיל להתייחס לארט דיירקשן ברצינות"
+   },
+   "why": {
+    "en": "An illustrator for the NYT and Apple on why he stopped treating art direction as a side gig.",
+    "he": "מאייר של הניו יורק טיימס ואפל מסביר למה הפסיק להתייחס לארט דיירקשן כעיסוק צדדי."
+   },
+   "tldr": {
+    "en": [
+     "Membrillas illustrates for The New York Times, Apple and Pentagram, but trained as an art director at the University of Valencia and just added an art direction section to his site.",
+     "He studied Bob Noorda, Paula Scher and Peter Saville and gave graphic design more room; recent work includes a character-led identity for haircare brand Rulls (2026) and a catalogue with a mini comic for Poalgi.",
+     "He notes newspapers have cut illustration budgets, shrinking editorial commissions, and sees illustration and art direction as one practice rather than two toolkits.",
+     "He teaches illustration around Europe, is writing a PhD on contemporary tattooing, and says explaining why visuals work sharpens his own direction."
+    ],
+    "he": [
+     "ממבריאס מאייר לניו יורק טיימס, לאפל ולפנטגרם, אבל למד ארט דיירקשן באוניברסיטת ולנסיה ורק עכשיו הוסיף לאתר שלו מדור ארט דיירקשן.",
+     "הוא למד את בוב נורדה, פולה שר ופיטר סאוויל ופינה יותר מקום לעיצוב גרפי; בין העבודות האחרונות: זהות מבוססת דמויות למותג מוצרי השיער Rulls (2026) וקטלוג עם קומיקס קטן ל־Poalgi.",
+     "לדבריו, עיתונים קיצצו בתקציבי איור וההזמנות העריכתיות הצטמצמו, והוא רואה באיור ובארט דיירקשן פרקטיקה אחת ולא שני ארגזי כלים.",
+     "הוא מלמד איור ברחבי אירופה, כותב דוקטורט על קעקועים עכשוויים, ואומר שההסבר לסטודנטים למה דימוי עובד מחדד את ההכוונה האמנותית שלו."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Sergio Membrillas",
+      "he": "סרחיו ממבריאס"
+     },
+     "role": {
+      "en": "Illustrator & art director, Spain",
+      "he": "מאייר וארט דיירקטור, ספרד"
+     }
+    },
+    {
+     "name": {
+      "en": "Rulls identity",
+      "he": "הזהות של Rulls"
+     },
+     "role": {
+      "en": "Haircare brand, 2026",
+      "he": "מותג טיפוח שיער, 2026"
+     },
+     "img": "https://m.itsnicethat.com/original_images/Rull_s__2026.jpg?class=w1080"
+    }
+   ]
+  },
+  {
+   "id": "depop-steve-dool",
+   "tab": "career",
+   "kind": "interview",
+   "url": "https://www.itsnicethat.com/features/in-house-depop-steve-dool-creative-industry-071026",
+   "image": "https://m.itsnicethat.com/original_images/in_house_depop_itsnicethat_2.png?class=w1440",
+   "mentions": [
+    {
+     "source": "It's Nice That",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Depop's Steve Dool: “We're not a creative think tank, we're a business”",
+    "he": "סטיב דול מ־Depop: ״אנחנו לא מכון חשיבה קריאייטיבי, אנחנו עסק״"
+   },
+   "why": {
+    "en": "How an in-house brand team decides what not to do, and why that frees it to take bigger swings.",
+    "he": "איך צוות מותג פנימי מחליט מה לא לעשות, ולמה זה מאפשר לו הימורים גדולים יותר."
+   },
+   "tldr": {
+    "en": [
+     "Dool joined Depop in 2018 and is now senior director of brand and creative; the resale app was bought by Etsy in 2021 and by eBay earlier in 2026.",
+     "For the Zara Larsson campaign, comedian Jo Sunday drafted scripts from topics rather than talking points, and Larsson rewrote lines and pitched her own jokes.",
+     "Before joining any trend, the team asks whether Depop has any right to be in the conversation, and whether anyone wants it there.",
+     "He wants agencies with a ‘build not break’ mindset, and argues that trading short-term buzz for long-term brand building leaves room for bigger bets."
+    ],
+    "he": [
+     "דול הצטרף ל־Depop ב־2018 והוא היום סניור דירקטור למותג וקריאייטיב; אפליקציית היד־שנייה נקנתה בידי Etsy ב־2021 ובידי eBay מוקדם יותר ב־2026.",
+     "בקמפיין עם זארה לרסון, הקומיקאית ג׳ו סאנדיי כתבה טיוטות מתוך נושאים ולא מסרים מוכתבים, ולרסון שכתבה שורות והציעה בדיחות משלה.",
+     "לפני שקופצים על טרנד, הצוות שואל אם ל־Depop יש בכלל זכות להשתתף בשיחה, והאם מישהו רוצה אותה שם.",
+     "הוא מחפש סוכנויות עם גישה של ״לבנות, לא לשבור״, וטוען שוויתור על באזז קצר־טווח לטובת בניית מותג ארוכת־טווח משאיר מקום להימורים גדולים."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Steve Dool",
+      "he": "סטיב דול"
+     },
+     "role": {
+      "en": "Senior director of brand & creative, Depop",
+      "he": "סניור דירקטור למותג וקריאייטיב, Depop"
+     }
+    },
+    {
+     "name": {
+      "en": "Depop × Zara Larsson",
+      "he": "Depop × זארה לרסון"
+     },
+     "role": {
+      "en": "Comedy-led campaign",
+      "he": "קמפיין הומוריסטי"
+     },
+     "img": "https://m.itsnicethat.com/original_images/03_DEPOPxZARALARSSON_019-v2-HR.jpeg?class=w1080",
+     "q": "Depop Zara Larsson ad",
+     "watch": {
+      "url": "https://www.youtube.com/results?search_query=Depop+Zara+Larsson+ad",
+      "label": {
+       "en": "Find the ad",
+       "he": "חיפוש הפרסומת"
+      }
+     }
+    },
+    {
+     "name": {
+      "en": "Rob Alderson",
+      "he": "רוב אולדרסון"
+     },
+     "role": {
+      "en": "Interviewer, In-House column",
+      "he": "המראיין, טור In-House"
+     }
+    }
+   ]
+  },
+  {
+   "id": "career-conundrums-why",
+   "tab": "career",
+   "kind": "advice",
+   "url": "https://www.itsnicethat.com/articles/creative-career-condundrums-if-you-could-jobs-advice-051026",
+   "image": "https://m.itsnicethat.com/original_images/CCC_Square_HOW_DO_I_STOP_PAST_SUCCESS_DEFINING_WHAT_COMES_NEXT.png?class=w1440",
+   "mentions": [
+    {
+     "source": "It's Nice That",
+     "count": 2
+    }
+   ],
+   "title": {
+    "en": "Know your ‘why’ behind what you want to prove",
+    "he": "לדעת מה ה״למה״ מאחורי מה שאת/ה רוצה להוכיח"
+   },
+   "why": {
+    "en": "For anyone whose early success has turned into a ladder they're not sure they want to climb.",
+    "he": "לכל מי שההצלחה המוקדמת שלו הפכה לסולם שהוא לא בטוח שרוצה לטפס עליו."
+   },
+   "tldr": {
+    "en": [
+     "The question: a designer who graduated top of the class feels pushed toward becoming a young creative director, yet daydreams about teaching indoor cycling.",
+     "Kat Wong, who spent 30 years across Apple, BBC Radio and documentary, and left Apple in 2025 to found career-change platform Oh Yeah, answers.",
+     "Her checks: is a CD title about validation? Is sunk-cost thinking keeping you put? Where is the urgency to climb coming from?",
+     "Boredom may just need a new challenge in your field; a deeper itch may point to a multidisciplinary path. Work out whether freedom matters more to you than title."
+    ],
+    "he": [
+     "השאלה: מעצב/ת שסיים/ה ראשון/ה במחזור מרגיש/ה לחץ להפוך לקריאייטיב דיירקטור צעיר/ה, ובמקביל חולם/ת להיות מדריך/ת ספינינג.",
+     "עונה קאט וונג, שצברה 30 שנה באפל, ברדיו של ה־BBC ובדוקומנטרי, ועזבה את אפל ב־2025 כדי להקים את Oh Yeah, פלטפורמה להסבת קריירה.",
+     "הבדיקות שלה: האם תואר CD הוא בעצם צורך באישור? האם חשיבת ״עלות שקועה״ משאירה אותך במקום? מאיפה מגיעה הדחיפות לטפס?",
+     "שעמום אולי דורש רק אתגר חדש בתחום; תחושה עמוקה יותר עשויה להצביע על דרך רב־תחומית. כדאי להבין אם חופש חשוב לך יותר מתואר."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Kat Wong",
+      "he": "קאט וונג"
+     },
+     "role": {
+      "en": "Founder, Oh Yeah",
+      "he": "מייסדת Oh Yeah"
+     }
+    }
+   ]
+  },
+  {
+   "id": "noma-bar-conference",
+   "tab": "israel",
+   "kind": "event",
+   "lang": "he",
+   "url": "https://www.prtfl.co.il/archives/261571",
+   "image": "https://www.prtfl.co.il/wp-content/uploads/2026/09/NomaBar_TAM26_WEB-DanielHanochPhotographer-20.jpg",
+   "gallery": [
+    "https://www.prtfl.co.il/wp-content/uploads/2026/10/NomaBar_TAM26_WEB-DanielHanochPhotographer-2.jpg",
+    "https://www.prtfl.co.il/wp-content/uploads/2026/10/Noma_TAM26_2_WEB-DanielHanochPhotographer-11.jpg",
+    "https://www.prtfl.co.il/wp-content/uploads/2026/10/NomaBar_TAM26_WEB-DanielHanochPhotographer-47.jpg"
+   ],
+   "mentions": [
+    {
+     "source": "Portfolio",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "How to say more with less? A Noma Bar evening at the Tel Aviv Museum",
+    "he": "איך לספר יותר בפחות? ערב של נומה בר במוזיאון תל אביב"
+   },
+   "why": {
+    "en": "Reduction as a method, from illustration to micro-copy, with Bar himself as keynote.",
+    "he": "צמצום כשיטת עבודה – מאיור ועד מיקרו־קופי, עם נומה בר עצמו בהרצאה המרכזית."
+   },
+   "tldr": {
+    "en": [
+     "Thursday Nov 19, 17:30–22:00 at the Tel Aviv Museum of Art, co-produced with Portfolio. Tickets are 150 NIS including museum entry, limited seats; the newsletter listed discount code PINK.",
+     "It follows \"Noma Bar: Look Again\", a survey of 25 years of his images that has drawn more than 100,000 visitors.",
+     "Short talks on micro-drama in social feeds, tiny urban architecture and app micro-copy, then a \"more or less?\" debate with Eyal Zakin, Shachar Avnet, Dafna Lustig and others.",
+     "Bar's keynote is at 20:00. At 21:00 Ari Teperberg closes with \"Untitled Document\", a 70-minute solo show performed inside a Google Doc."
+    ],
+    "he": [
+     "יום חמישי, 19 בנובמבר, 17:30–22:00 במוזיאון תל אביב לאמנות, בשיתוף פורטפוליו. כרטיס עולה 150 ₪ וכולל כניסה למוזיאון, ומספר המקומות מוגבל. בניוזלטר הופיע קוד ההנחה PINK.",
+     "הכנס מלווה את ״נומה בר: מצד שני״, תערוכה שמרכזת 25 שנות דימויים שלו ומשכה יותר מ־100 אלף מבקרים.",
+     "הרצאות קצרות על מיקרו־דרמה בפיד, אדריכלות עירונית זעירה ומיקרו־קופי באפליקציות, ואחריהן דיון ״יותר או פחות?״ עם אייל זקין, שחר אבנט, דפנה לוסטיג ועוד.",
+     "ב־20:00 ההרצאה של נומה בר, וב־21:00 נועל אריה טפרברג עם ״מסמך ללא שם״ – מופע יחיד של 70 דקות שמתרחש כולו בתוך מסמך Google Docs."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Noma Bar",
+      "he": "נומה בר"
+     },
+     "role": {
+      "en": "Illustrator, keynote speaker",
+      "he": "מאייר, ההרצאה המרכזית"
+     },
+     "img": "https://www.prtfl.co.il/wp-content/uploads/2026/10/NomaBar_TAM26_WEB-DanielHanochPhotographer-28.jpg",
+     "q": "Noma Bar illustrator"
+    },
+    {
+     "name": {
+      "en": "Ari Teperberg",
+      "he": "אריה טפרברג"
+     },
+     "role": {
+      "en": "Closing show, \"Untitled Document\"",
+      "he": "מופע הנעילה, ״מסמך ללא שם״"
+     },
+     "q": "Ari Teperberg Untitled Document"
+    },
+    {
+     "name": {
+      "en": "Tickets – Tel Aviv Museum of Art",
+      "he": "כרטיסים – מוזיאון תל אביב לאמנות"
+     },
+     "role": {
+      "en": "Nov 19, 150 NIS",
+      "he": "19 בנובמבר, 150 ₪"
+     },
+     "watch": {
+      "url": "https://www.tamuseum.org.il/he/event/how-say-more-less-symposium-accompanying-exhibition-noma-bar-look-again/2026-11-19/",
+      "label": {
+       "en": "Get tickets",
+       "he": "לרכישת כרטיסים"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "luca-or-hamsa",
+   "tab": "israel",
+   "kind": "showcase",
+   "lang": "he",
+   "url": "https://www.prtfl.co.il/archives/261382",
+   "image": "https://www.prtfl.co.il/wp-content/uploads/2026/10/plate_all.jpg",
+   "gallery": [
+    "https://www.prtfl.co.il/wp-content/uploads/2026/10/hamsabird_01_Luka-Or.jpg",
+    "https://www.prtfl.co.il/wp-content/uploads/2026/10/Hamsa_Googly_couple_03.jpg",
+    "https://www.prtfl.co.il/wp-content/uploads/2026/10/jazz_anim.gif"
+   ],
+   "mentions": [
+    {
+     "source": "Portfolio",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Luca Or's playful hamsas: \"What Luck\"",
+    "he": "החמסות השובבות של לוקה אור: ״איזה מזל״"
+   },
+   "why": {
+    "en": "An industrial designer turns one folk symbol into dozens of toys, prints and objects.",
+    "he": "מעצב תעשייתי הופך סמל עממי אחד לעשרות צעצועים, הדפסים וחפצים."
+   },
+   "tldr": {
+    "en": [
+     "\"What Luck: a contemporary look at the hamsa\" is Luca Or's first solo show, at Beit Binyamini in Tel Aviv (17 HaAmal St.) through Nov 21, curated by Galina Arbeli.",
+     "He started sketching hamsas in the first days after Oct 7, 2023 as a way to find some light; the first was a textile piece that looks like a Mickey Mouse hand. More than 100 ideas filled his notebooks.",
+     "The objects span wood, textile, ceramics, metal, silk-screen and 3D printing: a ceramic hamsa that tallies days, a hamsa branding iron, drilled dice, a slinky-style hand game.",
+     "Or runs the studio State of Play and formerly headed industrial design at HIT Holon. Many pieces invite touch, and everything is for sale."
+    ],
+    "he": [
+     "״איזה מזל: מבט עכשווי על חמסה״ היא תערוכת היחיד הראשונה של לוקה אור, בבית בנימיני בתל אביב (העמל 17) עד 21 בנובמבר, באוצרות גלינה ארבלי.",
+     "הוא התחיל לשרטט חמסות בימים הראשונים אחרי 7 באוקטובר 2023, כדרך למצוא קצת אור. הראשונה הייתה פסל טקסטיל שמזכיר יד של מיקי מאוס, ומאז התמלאו המחברות ביותר מ־100 רעיונות.",
+     "החפצים עשויים עץ, טקסטיל, קרמיקה, מתכת, הדפס משי והדפסת תלת־ממד: חמסה קרמית שסופרת ימים, מגהץ מיתוג בצורת חמסה, קוביות משחק מנוקבות ומשחק ידיים בסגנון סלינקי.",
+     "אור מנהל את הסטודיו State of Play ועמד בעבר בראש המחלקה לעיצוב תעשייתי ב־HIT. חלק מהעבודות מזמינות מגע, וכולן למכירה."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Luca Or",
+      "he": "לוקה אור"
+     },
+     "role": {
+      "en": "Designer, State of Play",
+      "he": "מעצב, State of Play"
+     },
+     "img": "https://www.prtfl.co.il/wp-content/uploads/2026/10/luka_studio.jpg"
+    },
+    {
+     "name": {
+      "en": "Beit Binyamini",
+      "he": "בית בנימיני"
+     },
+     "role": {
+      "en": "Venue, Tel Aviv · until Nov 21",
+      "he": "מקום התערוכה, תל אביב · עד 21.11"
+     },
+     "q": "Beit Binyamini Tel Aviv"
+    },
+    {
+     "name": {
+      "en": "Galina Arbeli",
+      "he": "גלינה ארבלי"
+     },
+     "role": {
+      "en": "Curator",
+      "he": "אוצרת"
+     }
+    }
+   ]
+  },
+  {
+   "id": "castro-product-first",
+   "tab": "israel",
+   "kind": "case study",
+   "lang": "he",
+   "url": "https://www.prtfl.co.il/archives/261230",
+   "image": "https://www.prtfl.co.il/wp-content/uploads/2026/09/CASTRO.jpg",
+   "gallery": [
+    "https://www.prtfl.co.il/wp-content/uploads/2026/09/CASTRO-%D7%A7%D7%95%D7%9C%D7%A7%D7%A6%D7%99%D7%AA-%D7%97%D7%92-%D7%A6%D7%99%D7%9C%D7%95%D7%9D-%D7%A2%D7%9E%D7%99%D7%AA-%D7%9E%D7%90%D7%95%D7%96%D7%A8-_13.jpg",
+    "https://www.prtfl.co.il/wp-content/uploads/2026/09/CASTRO-%D7%A7%D7%9E%D7%A4%D7%99%D7%9F-%D7%90%D7%91%D7%99%D7%91-2026-%D7%A6%D7%99%D7%9C%D7%95%D7%9D-%D7%A2%D7%9E%D7%99%D7%AA-%D7%9E%D7%90%D7%95%D7%96%D7%A8-4_resize.jpg",
+    "https://www.prtfl.co.il/wp-content/uploads/2026/09/%D7%A7%D7%A1%D7%98%D7%A8%D7%95-%D7%9E%D7%A9%D7%99%D7%A7-%D7%A7%D7%9E%D7%A4%D7%99%D7%99%D7%9F-%D7%92%D7%99%D7%A0%D7%A1%D7%99%D7%9D-%D7%97%D7%93%D7%A9-%D7%A6%D7%99%D7%9C%D7%95%D7%9D-%D7%90%D7%99%D7%99%D7%9C-%D7%A0%D7%91%D7%95-2.jpeg"
+   ],
+   "mentions": [
+    {
+     "source": "Portfolio",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Castro's comeback: product first, everything else after",
+    "he": "השינוי הגדול של קסטרו: קודם המוצר, אחר כך כל השאר"
+   },
+   "why": {
+    "en": "A five-year rebrand that started with the clothes, not the campaign.",
+    "he": "מיתוג מחדש של חמש שנים שהתחיל בבגדים, לא בקמפיין."
+   },
+   "tldr": {
+    "en": [
+     "Three executives lead the change: fashion director Noy Dror (Shenkar 2015, ex-Marc Jacobs and Factory 54), product SVP Osi Leon and marketing SVP Shiran Winter Sivoni.",
+     "The rule was product before celebrities and buzz. Design sets trend, colour and silhouette, and trade checks what's feasible; they're already working on June–July 2027.",
+     "Drops run all year, with a fast-track production route for sudden trends. Inditex is the benchmark, and designer Alon Livne has been back as an ongoing collaborator since 2024.",
+     "Marketing was rebuilt over the last two years, and some of the roughly 75 stores are moving to a brighter, more open concept."
+    ],
+    "he": [
+     "שלוש מנהלות מובילות את השינוי: נוי דרור, מנהלת האופנה (שנקר 2015, לשעבר במארק ג׳ייקובס ובפקטורי 54), אוסי ליאון, סמנכ״לית המוצר, ושירן וינטר סיבוני, סמנכ״לית השיווק.",
+     "הכלל: המוצר קודם לסלבס ולבאזז. העיצוב קובע טרנד, צבע וסילואטה, והסחר בודק מה אפשרי. הצוות כבר עובד על יוני–יולי 2027.",
+     "קולקציות יוצאות בדרופים לאורך כל השנה, עם מסלול ייצור מהיר לטרנדים שצצים פתאום. Inditex משמשת מודל, והמעצב אלון ליבנה חזר ב־2024 לשיתוף פעולה מתמשך.",
+     "שפת השיווק נבנתה מחדש בשנתיים האחרונות, וחלק מכ־75 החנויות עוברות לקונספט פתוח ומואר יותר."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Noy Dror, Osi Leon, Shiran Winter Sivoni",
+      "he": "נוי דרור, אוסי ליאון ושירן וינטר סיבוני"
+     },
+     "role": {
+      "en": "Fashion, product and marketing leads",
+      "he": "הנהלת האופנה, המוצר והשיווק"
+     },
+     "img": "https://www.prtfl.co.il/wp-content/uploads/2026/09/%D7%9E%D7%99%D7%9E%D7%99%D7%9F-%D7%90%D7%95%D7%A1%D7%A0%D7%AA-%D7%9C%D7%99%D7%90%D7%95%D7%9F-%D7%A0%D7%95%D7%99-%D7%93%D7%A8%D7%95%D7%A8-%D7%95%D7%A9%D7%99%D7%A8%D7%9F-%D7%95%D7%99%D7%A0%D7%98%D7%A8-%D7%A1%D7%99%D7%91%D7%95%D7%A0%D7%99-%D7%A6%D7%99%D7%9C%D7%95%D7%9D-%D7%A8%D7%A2%D7%95%D7%AA-%D7%A4%D7%A8%D7%A7%D7%A9-1.png"
+    },
+    {
+     "name": {
+      "en": "Alon Livne",
+      "he": "אלון ליבנה"
+     },
+     "role": {
+      "en": "Designer, collaborator since 2024",
+      "he": "מעצב, שותף מאז 2024"
+     },
+     "q": "Alon Livne designer"
+    },
+    {
+     "name": {
+      "en": "Castro",
+      "he": "קסטרו"
+     },
+     "role": {
+      "en": "Israeli fashion brand, ~75 stores",
+      "he": "מותג אופנה ישראלי, כ־75 חנויות"
+     },
+     "q": "Castro fashion Israel"
+    }
+   ]
+  },
+  {
+   "id": "culture-coalition-campaign",
+   "tab": "israel",
+   "kind": "industry",
+   "lang": "he",
+   "url": "https://www.prtfl.co.il/archives/261406",
+   "image": "https://www.prtfl.co.il/wp-content/uploads/2026/10/alonsapan.jpg",
+   "mentions": [
+    {
+     "source": "Portfolio",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "\"The Right to Culture\": creatives push for a bigger budget before the election",
+    "he": "״הזכות לתרבות״: היוצרים דורשים תקציב גדול יותר לקראת הבחירות"
+   },
+   "why": {
+    "en": "Creative work pitched as hard economic infrastructure, with numbers behind it.",
+    "he": "יצירה כתשתית כלכלית קשה – עם מספרים שמגבים את הטענה."
+   },
+   "tldr": {
+    "en": [
+     "The Culture and Creation Coalition (dozens of organizations and unions, more than 10,000 creators) launched \"The Right to Culture\" ahead of the 26th Knesset elections.",
+     "Their 2026–2036 plan asks to double the culture budget to 2.5 billion NIS within two years and reach 1% of the state budget in a decade, up from about 0.2% today.",
+     "Economist Itamar Shoshana, formerly of the Finance Ministry, projects 2.5–3 NIS back for every shekel, about 70 billion NIS of benefit on 26 billion invested.",
+     "Spokesman Alon Sapan calls culture \"a hard investment, not a soft expense\". So far the Democrats have fully adopted the plan and Yashar most of it."
+    ],
+    "he": [
+     "קואליציית התרבות והיצירה – עשרות ארגונים, מוסדות ואיגודים שמייצגים יותר מ־10,000 יוצרים – השיקה את ״הזכות לתרבות״ לקראת הבחירות לכנסת ה־26.",
+     "התוכנית ל־2026–2036 דורשת להכפיל את תקציב התרבות ל־2.5 מיליארד ₪ בתוך שנתיים, ולהגיע בתוך עשור ל־1% מתקציב המדינה – לעומת כ־0.2% היום.",
+     "הכלכלן איתמר שושנה, לשעבר במשרד האוצר, מעריך תשואה של 2.5–3 ₪ לכל שקל, כלומר כ־70 מיליארד ₪ תועלת מול השקעה של 26 מיליארד.",
+     "הדובר אלון ספן מגדיר תרבות כ״השקעה קשה, לא הוצאה רכה״. בינתיים הדמוקרטים אימצו את התוכנית במלואה, וישר! את רובה."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Alon Sapan",
+      "he": "אלון ספן"
+     },
+     "role": {
+      "en": "Chair, Forum of Culture and Art Institutions",
+      "he": "יו״ר פורום מוסדות התרבות והאמנות"
+     },
+     "img": "https://www.prtfl.co.il/wp-content/uploads/2026/10/alonsapan.jpg"
+    },
+    {
+     "name": {
+      "en": "Itamar Shoshana",
+      "he": "איתמר שושנה"
+     },
+     "role": {
+      "en": "Economist, author of the position paper",
+      "he": "כלכלן, כותב נייר העמדה"
+     }
+    }
+   ]
+  },
+  {
+   "id": "jerusalem-womens-film-festival",
+   "tab": "israel",
+   "kind": "film criticism",
+   "lang": "he",
+   "url": "https://www.prtfl.co.il/archives/261440",
+   "image": "https://www.prtfl.co.il/wp-content/uploads/2026/10/stav.png",
+   "gallery": [
+    "https://www.prtfl.co.il/wp-content/uploads/2026/10/Alice.-Photographed-by-Orna-Itamar-HaAretz.jpg",
+    "https://www.prtfl.co.il/wp-content/uploads/2026/10/%D7%9E%D7%AA%D7%95%D7%9A-%D7%9E%D7%A7%D7%95%D7%94-%D7%A7%D7%A8%D7%93%D7%99%D7%98-%D7%A6%D7%99%D7%9C%D7%95%D7%9D-%D7%A9%D7%99%D7%A0%D7%95%D7%91%D7%99-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95%D7%A1.jpg",
+    "https://www.prtfl.co.il/wp-content/uploads/2026/10/%D7%98%D7%A8%D7%A0%D7%98%D7%99%D7%A0%D7%95-%D7%94%D7%99%D7%A7%D7%A8-%D7%A7%D7%A8%D7%93%D7%99%D7%98-%D7%A6%D7%99%D7%9C%D7%95%D7%9D-%D7%9E%D7%99%D7%90%D7%9C-%D7%9C%D7%91%D7%99%D7%90.jpg"
+   ],
+   "mentions": [
+    {
+     "source": "Portfolio",
+     "count": 1
+    }
+   ],
+   "title": {
+    "en": "Finding the heart inside the mechanism: Jerusalem's women's film festival",
+    "he": "למצוא את הלב בתוך המנגנון: הפסטיבל הבינלאומי לסרטי נשים בירושלים"
+   },
+   "why": {
+    "en": "The festival directors on this year's thread: what happens the day after.",
+    "he": "מנהלות הפסטיבל על החוט שעובר בסרטים השנה: מה קורה ביום שאחרי."
+   },
+   "tldr": {
+    "en": [
+     "The International Women's Film Festival runs Oct 12–16 at the Jerusalem Cinematheque. Directors Shira Meishar and Lihi Sabag wrote this guest column.",
+     "The thread they see: films that move past the moment of rupture and look at living with pain, the connections it creates and moving forward without cynicism. It's \"not simplistic optimism\".",
+     "The opener, Kalil Kobesh's \"Autumn\", pairs a young woman failed by every system with a foster child; Petra Volpe's \"Frank and Louis\" follows a lifer caring for inmates with dementia.",
+     "Also featured: \"Alice. Last Conversations\" on Prof. Alice Shalvi's final year, and a tribute to Hanna Azoulay-Hasfari with her new short \"Brit Olam\"."
+    ],
+    "he": [
+     "הפסטיבל הבינלאומי לסרטי נשים מתקיים בין 12 ל־16 באוקטובר בסינמטק ירושלים. מנהלות הפסטיבל, שירה מישר וליהי סבג, כתבו את טור האורח.",
+     "החוט שהן מזהות: סרטים שעוברים את רגע השבר ובוחנים איך חיים עם הכאב, אילו קשרים נוצרים ממנו ואיך ממשיכים בלי ציניות – ״לא אופטימיות פשטנית״.",
+     "סרט הפתיחה, ״סתיו״ של כליל כובש, מחבר בין צעירה שנפלה בין כל המערכות לילד אומנה; ״פרנק ולואיס״ של פטרה וולפה עוקב אחרי אסיר עולם שמטפל באסירים עם דמנציה.",
+     "עוד בתוכנית: ״אליס. שיחות אחרונות״ על השנה האחרונה של פרופ׳ אליס שלוי, ומחווה לחנה אזולאי־הספרי עם סרטה הקצר החדש ״ברית עולם״."
+    ]
+   },
+   "entities": [
+    {
+     "name": {
+      "en": "Shira Meishar & Lihi Sabag",
+      "he": "שירה מישר וליהי סבג"
+     },
+     "role": {
+      "en": "Festival directors",
+      "he": "מנהלות הפסטיבל"
+     },
+     "img": "https://www.prtfl.co.il/wp-content/uploads/2026/10/%D7%9E%D7%99%D7%9E%D7%99%D7%9F-%D7%A9%D7%99%D7%A8%D7%94-%D7%9E%D7%99%D7%A9%D7%A8-%D7%9E%D7%A9%D7%9E%D7%90%D7%9C-%D7%9C%D7%99%D7%94%D7%99-%D7%A1%D7%91%D7%92-%D7%A7%D7%A8%D7%93%D7%99%D7%98-%D7%A6%D7%99%D7%9C%D7%95%D7%9D-%D7%9E%D7%99%D7%9B%D7%90%D7%9C-%D7%A4%D7%A8%D7%A0%D7%A7%D7%95.jpeg"
+    },
+    {
+     "name": {
+      "en": "Autumn (Stav)",
+      "he": "סתיו"
+     },
+     "role": {
+      "en": "Opening film, dir. Kalil Kobesh",
+      "he": "סרט הפתיחה, בבימוי כליל כובש"
+     },
+     "img": "https://www.prtfl.co.il/wp-content/uploads/2026/10/stav.png"
+    },
+    {
+     "name": {
+      "en": "Frank and Louis",
+      "he": "פרנק ולואיס"
+     },
+     "role": {
+      "en": "Dir. Petra Volpe",
+      "he": "בבימוי פטרה וולפה"
+     },
+     "q": "Petra Volpe Frank and Louis",
+     "watch": {
+      "url": "https://www.youtube.com/results?search_query=Frank%20and%20Louis%20Petra%20Volpe%20trailer",
+      "label": {
+       "en": "Find the trailer",
+       "he": "חיפוש הטריילר"
+      }
+     }
+    },
+    {
+     "name": {
+      "en": "Alice. Last Conversations",
+      "he": "אליס. שיחות אחרונות"
+     },
+     "role": {
+      "en": "Dir. Nurit Yaakobs-Yinon",
+      "he": "בבימוי נורית יעקבס־ינון"
+     },
+     "img": "https://www.prtfl.co.il/wp-content/uploads/2026/10/Alice.-Photographed-by-Orna-Itamar-HaAretz.jpg"
+    }
+   ]
+  }
+ ],
+ "filtered": {
+  "en": "Photography and fashion features, theatre and wine stories, a sponsored exhibition piece, sponsored tool links, coding and politics links, a re-surfaced May story (Punky Duck), last week's repeats (Intent, Ones to Watch, Forgotten Island), the Hebrew Academy newsletter and a LinkedIn notification.",
+  "he": "כתבות צילום ואופנה, תיאטרון ויין, כתבת תערוכה ממומנת, קישורי כלים ממומנים, קישורי קוד ופוליטיקה, סיפור ממאי שצץ מחדש (Punky Duck), חזרות מהשבוע שעבר (Intent, Ones to Watch, Forgotten Island), הניוזלטר של האקדמיה ללשון והתראה מלינקדאין."
+ }
+}
