@@ -2933,5 +2933,874 @@
  "filtered": {
   "en": "Photography and fashion features, theatre and wine stories, a sponsored exhibition piece, sponsored tool links, coding and politics links, a re-surfaced May story (Punky Duck), last week's repeats (Intent, Ones to Watch, Forgotten Island), the Hebrew Academy newsletter and a LinkedIn notification.",
   "he": "כתבות צילום ואופנה, תיאטרון ויין, כתבת תערוכה ממומנת, קישורי כלים ממומנים, קישורי קוד ופוליטיקה, סיפור ממאי שצץ מחדש (Punky Duck), חזרות מהשבוע שעבר (Intent, Ones to Watch, Forgotten Island), הניוזלטר של האקדמיה ללשון והתראה מלינקדאין."
+ },
+ "trends": {
+  "top": [
+   {
+    "e": "🌲",
+    "d": "2026-10-08",
+    "q": "Wildwood Laika",
+    "t": {
+     "en": "Laika's ‘Wildwood’ debuts at 100% on Rotten Tomatoes",
+     "he": "״Wildwood״ של לייקה נפתח עם 100% ב־Rotten Tomatoes"
+    },
+    "sig": {
+     "en": "Perfect score from the first critics · Oscar front-runner talk",
+     "he": "ציון מושלם מהמבקרים הראשונים · מדברים על אוסקר"
+    },
+    "b": {
+     "en": "The first reviews of Laika's stop-motion fantasy epic landed with a perfect score, and trade sites started calling it the animated-feature Oscar front-runner. It opens AFI Fest ahead of its October release.",
+     "he": "הביקורות הראשונות על אפוס הפנטזיה בסטופ־מושן של לייקה נחתו עם ציון מושלם, ואתרי התעשייה כבר מסמנים אותו כמוביל באוסקר לסרט אנימציה. הוא פותח את פסטיבל AFI לפני ההפצה באוקטובר."
+    },
+    "src": {
+     "url": "https://www.goldderby.com/film/2026/wildwood-reviews-laika-oscar-front-runner/",
+     "name": "Gold Derby"
+    }
+   },
+   {
+    "e": "🏰",
+    "d": "2026-10-11",
+    "q": "D23 Frozen III Pixar",
+    "t": {
+     "en": "D23: Frozen III gets a date, Pixar reveals two originals",
+     "he": "D23: לפרוזן 3 יש תאריך, ופיקסאר חושפים שני סרטים מקוריים"
+    },
+    "sig": {
+     "en": "Frozen III on Nov 24, 2027 · only 4 originals in the whole slate",
+     "he": "פרוזן 3 ב־24 בנובמבר 2027 · רק 4 סרטים מקוריים בכל הלוח"
+    },
+    "b": {
+     "en": "Disney's fan expo in Anaheim set Frozen III for Nov 24, 2027 and teased Incredibles 3, Coco 2 and Zootopia 3. Pixar's originals Gatto (2027) and Ghost Market (2028) got the attention of animation fans; critics called the rest of the slate a sequel machine.",
+     "he": "כנס המעריצים של דיסני באנהיים קבע את פרוזן 3 ל־24 בנובמבר 2027, ורמז על משפחת סופר־על 3, קוקו 2 וזוטרופוליס 3. הסרטים המקוריים של פיקסאר, Gatto (‏2027) ו־Ghost Market (‏2028), תפסו את תשומת הלב של קהל האנימציה; המבקרים קראו לשאר הלוח מכונת סרטי המשך."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/news/disneys-announcements-at-d23-tell-you-everything-thats-wrong-with-disney-right-now",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "🎃",
+    "d": "2026-10-08",
+    "q": "Fanta AI Halloween ad",
+    "t": {
+     "en": "Fanta's AI Halloween ad gets called ‘slop’",
+     "he": "פרסומת ה־AI של פאנטה להאלווין נקראת ״סלופ״"
+    },
+    "sig": {
+     "en": "Overwhelmingly negative reaction · boycott calls",
+     "he": "תגובות שליליות גורפות · קריאות לחרם"
+    },
+    "b": {
+     "en": "Made by AI studio GRAiL, the spot launches a ‘Haunted Universe’ for the brand. Viewers pointed at clumsy edits and an unappetising drink, and compared it to Coca-Cola's AI Christmas ads.",
+     "he": "הסרטון, שהפיק אולפן ה־AI ‏GRAiL, משיק ״יקום רדוף״ למותג. הצופים הצביעו על עריכה מגושמת ועל משקה שנראה לא מעורר תיאבון, והשוו לפרסומות חג המולד של קוקה־קולה שנעשו ב־AI."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/ai/fantas-ai-slop-halloween-advert-is-a-real-horror-show",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "🐆",
+    "d": "2026-10-07",
+    "q": "Jaguar Type 01",
+    "t": {
+     "en": "Jaguar's Type 01 finally explains the rebrand",
+     "he": "ה־Type 01 של יגואר סוף־סוף מסביר את המיתוג מחדש"
+    },
+    "sig": {
+     "en": "1,015 hp, ~$130,500 · the most-mocked rebrand gets its product",
+     "he": "1,015 כ״ס, כ־130,500 דולר · המיתוג הכי לעוג מקבל מוצר"
+    },
+    "b": {
+     "en": "Two years after the ‘Copy Nothing’ rebrand was ridiculed, the production electric GT was revealed in New York. Many designers said the identity reads very differently now that there's a real car behind it.",
+     "he": "שנתיים אחרי שמיתוג ״Copy Nothing״ הפך לבדיחה, נחשף בניו יורק ה־GT החשמלי הסדרתי. מעצבים רבים אמרו שהזהות נקראת אחרת לגמרי כשיש מאחוריה מכונית אמיתית."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/design/product-design/jaguars-dramatic-type-01-finally-makes-sense-of-the-controversial-rebrand",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "✂️",
+    "d": "2026-10-09",
+    "q": "Netflix layoffs",
+    "t": {
+     "en": "Netflix plans to cut about 5% of staff",
+     "he": "נטפליקס מתכננת לקצץ כ־5% מהעובדים"
+    },
+    "sig": {
+     "en": "Reported by Puck, via Reuters · same week as Skydance's layoff warning",
+     "he": "דווח ב־Puck דרך רויטרס · באותו שבוע של אזהרת הפיטורים בסקיידאנס"
+    },
+    "b": {
+     "en": "An internal announcement could come within days. It landed the same week Skydance closed its Warner deal and warned of ‘difficult decisions’.",
+     "he": "הודעה פנימית עשויה להגיע בתוך ימים. זה הגיע באותו שבוע שבו סקיידאנס סגרה את עסקת וורנר והזהירה מ״החלטות קשות״."
+    },
+    "src": {
+     "url": "https://qz.com/netflix-layoffs-workforce-cut-100926",
+     "name": "Quartz"
+    }
+   }
+  ],
+  "watch": [
+   {
+    "e": "🤘",
+    "d": "2026-10-08",
+    "q": "Belzebubs animated series trailer",
+    "t": {
+     "en": "‘Belzebubs’ trailer: black metal meets parenting",
+     "he": "הטריילר של ״Belzebubs״: בלאק מטאל פוגש הורות"
+    },
+    "sig": {
+     "en": "13 × 22-min episodes · from the cult webcomic",
+     "he": "13 פרקים של 22 דקות · על פי קומיקס הרשת הקאלטי"
+    },
+    "b": {
+     "en": "JP Ahonen's black-and-white Finnish mockumentary follows Sløth, a stay-at-home dad who fronts a heavy metal band. Ahonen says he built the drama first and added the jokes after.",
+     "he": "המוקומנטרי הפיני בשחור־לבן של JP אהונן עוקב אחרי סלות׳, אבא במשרה מלאה שהוא גם סולן להקת מטאל. אהונן מספר שבנה קודם את הדרמה ורק אחר כך הוסיף את הבדיחות."
+    },
+    "src": {
+     "url": "https://www.cartoonbrew.com/series/belzebubs-trailer-jp-ahonen-267668.html",
+     "name": "Cartoon Brew"
+    },
+    "watch": "https://www.youtube.com/watch?v=rpmpUcaqZDE"
+   },
+   {
+    "e": "👊",
+    "d": "2026-10-10",
+    "q": "One-Punch Man season 3 part 2",
+    "t": {
+     "en": "One-Punch Man S3 part 2 sets January 2027",
+     "he": "וואן־פאנץ׳ מן עונה 3 חלק 2 נקבע לינואר 2027"
+    },
+    "sig": {
+     "en": "New promo video · Anime News Network",
+     "he": "סרטון קידום חדש · Anime News Network"
+    },
+    "b": {
+     "en": "The second half of the third season got a January 2027 debut and a new promo video.",
+     "he": "החצי השני של העונה השלישית קיבל תאריך עלייה בינואר 2027 וסרטון קידום חדש."
+    },
+    "src": {
+     "url": "https://animenewsnetwork.com/news/2026-10-10/one-punch-man-season-3-anime-2nd-part-reveals-january-2027-debut-in-video/.242696",
+     "name": "Anime News Network"
+    }
+   },
+   {
+    "e": "🦗",
+    "d": "2026-10-07",
+    "q": "Praying Mantis Joe Hsieh",
+    "t": {
+     "en": "‘Praying Mantis’ starts its Oscar run",
+     "he": "״Praying Mantis״ יוצא למרוץ האוסקר"
+    },
+    "sig": {
+     "en": "Ottawa Grand Prize winner · Oscar-qualified",
+     "he": "זוכה הפרס הגדול באוטווה · כשיר לאוסקר"
+    },
+    "b": {
+     "en": "Fresh from Ottawa, Joe Hsieh's Taiwanese short is now in the 2027 Oscar conversation, with a new interview on how it was made.",
+     "he": "מיד אחרי אוטווה, הסרט הקצר הטייוואני של ג׳ו שיה נכנס לשיחה על אוסקר 2027, עם ראיון חדש על איך נעשה."
+    },
+    "src": {
+     "url": "https://www.cartoonbrew.com/animators/praying-mantis-joe-hsieh-267612.html",
+     "name": "Cartoon Brew"
+    },
+    "watch": "https://www.youtube.com/watch?v=DuOmZv1w8Tk"
+   },
+   {
+    "e": "🛸",
+    "d": "2026-10-08",
+    "q": "Doctor Who TARDIS Crew daleks",
+    "t": {
+     "en": "‘Doctor Who: TARDIS Crew’ first look splits fans",
+     "he": "המבט הראשון על ״Doctor Who: TARDIS Crew״ מפלג את המעריצים"
+    },
+    "sig": {
+     "en": "52 preschool episodes by Blue Zoo · ‘one-eyed minion’ daleks",
+     "he": "52 פרקים לגיל הרך מבית Blue Zoo · דאלקים שנראים כמו ״מיניונים חד־עיניים״"
+    },
+    "b": {
+     "en": "The BBC's CBeebies series redesigned the daleks with eyes and a mouth-like grille. Fans pounced; Creative Bloq argued it's too early to judge from a few frames.",
+     "he": "הסדרה של CBeebies מה־BBC עיצבה מחדש את הדאלקים עם עיניים וגריל שנראה כמו פה. המעריצים התנפלו; Creative Bloq טענו שמוקדם לשפוט מכמה פריימים."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/entertainment/movies-tv-shows/the-daleks-in-the-new-animated-doctor-who-do-kind-of-look-of-familiar",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "⚔️",
+    "d": "2026-10-08",
+    "q": "RuneScape animated series",
+    "t": {
+     "en": "An animated ‘RuneScape’ series is coming",
+     "he": "סדרת אנימציה של ״RuneScape״ בדרך"
+    },
+    "sig": {
+     "en": "Revealed at RuneFest · with MoistCr1TiKaL",
+     "he": "נחשף ב־RuneFest · עם MoistCr1TiKaL"
+    },
+    "b": {
+     "en": "Lyrical Animation and Charlie ‘MoistCr1TiKaL’ White's company are developing it with Jagex. No studio or date yet; more news in 2027.",
+     "he": "Lyrical Animation והחברה של צ׳רלי ״MoistCr1TiKaL״ וייט מפתחים אותה עם Jagex. עוד אין אולפן או תאריך; פרטים נוספים ב־2027."
+    },
+    "src": {
+     "url": "https://www.cartoonbrew.com/series/runescape-animated-series-moistcr1tikal-lyrical-jagex-267655.html",
+     "name": "Cartoon Brew"
+    }
+   }
+  ],
+  "animation": [
+   {
+    "e": "🌲",
+    "d": "2026-10-08",
+    "q": "Wildwood Laika",
+    "t": {
+     "en": "‘Wildwood’ sets a Rotten Tomatoes record for Laika",
+     "he": "״Wildwood״ קובע שיא ב־Rotten Tomatoes ללייקה"
+    },
+    "sig": {
+     "en": "100% from the first 16 reviews · Laika's first ever",
+     "he": "100% מ־16 הביקורות הראשונות · לראשונה בתולדות לייקה"
+    },
+    "b": {
+     "en": "Critics called the stop-motion epic one of the most astonishing animated films in years. Laika also runs a ‘Wildwood’ exhibition at London's Design Museum.",
+     "he": "המבקרים כינו את אפוס הסטופ־מושן מסרטי האנימציה המדהימים של השנים האחרונות. ללייקה יש גם תערוכת ״Wildwood״ במוזיאון העיצוב בלונדון."
+    },
+    "src": {
+     "url": "https://screenrant.com/wildwood-rotten-tomatoes-score-debut/",
+     "name": "Screen Rant"
+    }
+   },
+   {
+    "e": "🏰",
+    "d": "2026-10-11",
+    "q": "D23 2026 Pixar Gatto Ghost Market",
+    "t": {
+     "en": "D23's animation slate: mostly sequels, two Pixar originals",
+     "he": "לוח האנימציה של D23: בעיקר המשכים, שני סרטים מקוריים של פיקסאר"
+    },
+    "sig": {
+     "en": "Frozen III, Incredibles 3, Coco 2, Zootopia 3 · Gatto & Ghost Market",
+     "he": "פרוזן 3, משפחת סופר־על 3, קוקו 2, זוטרופוליס 3 · Gatto ו־Ghost Market"
+    },
+    "b": {
+     "en": "Pixar's Gatto (March 2027) and Ghost Market (March 2028) and Disney Animation's ‘Clay’ (2028) were the originals; everything else was a sequel or remake, which drove most of the conversation.",
+     "he": "Gatto של פיקסאר (מרץ 2027), Ghost Market (מרץ 2028) ו־״Clay״ של דיסני אנימציה (2028) היו הסרטים המקוריים; כל השאר היו המשכים או רימייקים, וזה מה שהניע את רוב השיחה."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/news/disneys-announcements-at-d23-tell-you-everything-thats-wrong-with-disney-right-now",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "🧚",
+    "d": "2026-10-09",
+    "q": "Artemis Fowl animated series",
+    "t": {
+     "en": "‘Artemis Fowl’ returns as an animated series",
+     "he": "״ארטמיס פאול״ חוזר כסדרת אנימציה"
+    },
+    "sig": {
+     "en": "Greenlit at NYCC · Eoin Colfer as executive producer",
+     "he": "אושרה ב־NYCC · אוין קולפר כמפיק בפועל"
+    },
+    "b": {
+     "en": "After the poorly received 2020 live-action film, Disney Channel and Disney+ are trying again in animation, with the author on board.",
+     "he": "אחרי סרט הלייב־אקשן של 2020 שהתקבל רע, ערוץ דיסני ו־Disney+ מנסים שוב באנימציה, הפעם עם הסופר על הסיפון."
+    },
+    "src": {
+     "url": "https://deadline.com/2026/10/artemis-fowl-animated-series-greenlit-disney-eoin-colfer-nycc-1237154400/",
+     "name": "Deadline"
+    }
+   },
+   {
+    "e": "🍥",
+    "d": "2026-10-08",
+    "q": "Crunchyroll Storyworks",
+    "t": {
+     "en": "Sony launches Crunchyroll Storyworks",
+     "he": "סוני משיקה את Crunchyroll Storyworks"
+    },
+    "sig": {
+     "en": "New adaptations division · announced at Anime Future Forum, NYC",
+     "he": "חטיבת עיבודים חדשה · הוכרזה בפורום Anime Future בניו יורק"
+    },
+    "b": {
+     "en": "The division will develop anime and live-action adaptations with Japanese creators involved, led by 25-year Sony veteran Tohru Iokibe.",
+     "he": "החטיבה תפתח עיבודים לאנימה וללייב־אקשן בשיתוף יוצרים יפנים, בהובלת טורו איוקיבה, ותיק סוני של 25 שנה."
+    },
+    "src": {
+     "url": "https://www.cartoonbrew.com/anime/sony-crunchyroll-storyworks-adaptations-267637.html",
+     "name": "Cartoon Brew"
+    }
+   },
+   {
+    "e": "💰",
+    "d": "2026-10-08",
+    "q": "California tax credit animated feature Baobab Shine",
+    "t": {
+     "en": "California's tax credit backs its first indie animated features",
+     "he": "הטבת המס של קליפורניה תומכת לראשונה בפיצ׳רים עצמאיים באנימציה"
+    },
+    "sig": {
+     "en": "$5.83M for Baobab's ‘Shine’ · $40.12M for Pixar",
+     "he": "5.83 מיליון דולר ל־״Shine״ של Baobab · 40.12 מיליון לפיקסאר"
+    },
+    "b": {
+     "en": "Baobab Studios' ‘Shine’ and Namethemachine's ‘The Long Walk’ look like the first independent animated features to qualify under the expanded program.",
+     "he": "״Shine״ של Baobab Studios ו־״The Long Walk״ של Namethemachine נראים כמו הפיצ׳רים העצמאיים הראשונים באנימציה שזכאים לתוכנית המורחבת."
+    },
+    "src": {
+     "url": "https://www.cartoonbrew.com/law/baobab-namethemachine-pixar-tax-credits-267651.html",
+     "name": "Cartoon Brew"
+    }
+   }
+  ],
+  "design": [
+   {
+    "e": "🐆",
+    "d": "2026-10-07",
+    "q": "Jaguar Type 01 rebrand",
+    "t": {
+     "en": "Jaguar's Type 01 makes sense of the rebrand",
+     "he": "ה־Type 01 של יגואר נותן היגיון למיתוג"
+    },
+    "sig": {
+     "en": "Revealed in New York · deliveries from mid-2027",
+     "he": "נחשף בניו יורק · מסירות מאמצע 2027"
+    },
+    "b": {
+     "en": "The production car reframed two years of jokes about the pink-and-blue identity. Top Gear reported the design was locked five years ago and the Type 00 concept was deliberately exaggerated.",
+     "he": "המכונית הסדרתית שינתה את הפרשנות לשנתיים של בדיחות על הזהות הוורודה־כחולה. לפי Top Gear, העיצוב ננעל לפני חמש שנים וקונספט ה־Type 00 הוגזם בכוונה."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/design/product-design/jaguars-dramatic-type-01-finally-makes-sense-of-the-controversial-rebrand",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "🪧",
+    "d": "2026-10-06",
+    "q": "Disney Hulu billboard Hu Dis",
+    "t": {
+     "en": "Disney splits its own logo: ‘Hu Dis?’",
+     "he": "דיסני מפרקת את הלוגו של עצמה: ״Hu Dis?״"
+    },
+    "sig": {
+     "en": "Out-of-home in Canada by agency Courage · praised on LinkedIn",
+     "he": "שלטי חוצות בקנדה מבית Courage · זכו לשבחים בלינקדאין"
+    },
+    "b": {
+     "en": "The campaign fuses the start of the Hulu and Disney logos into one cheeky question, to say Hulu shows now live on Disney+.",
+     "he": "הקמפיין מחבר את תחילת הלוגו של Hulu ושל דיסני לשאלה שובבה אחת, כדי לומר שסדרות Hulu נמצאות עכשיו ב־Disney+."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/design/print-design-publishing/weve-never-seen-a-disney-billboard-like-this-before",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "👟",
+    "d": "2026-10-09",
+    "q": "Adidas White Fox stripes lawsuit",
+    "t": {
+     "en": "Adidas sues White Fox over four stripes",
+     "he": "אדידס תובעת את White Fox בגלל ארבעה פסים"
+    },
+    "sig": {
+     "en": "Three-stripe trademark held in Australia since 1957",
+     "he": "סימן שלושת הפסים רשום באוסטרליה מאז 1957"
+    },
+    "b": {
+     "en": "Adidas says the boutique's four-stripe designs are ‘deceptively similar’. White Fox points out other local brands sell striped clothing too.",
+     "he": "אדידס טוענת שעיצובי ארבעת הפסים של הבוטיק ״דומים באופן מטעה״. White Fox מזכירה שגם מותגים מקומיים אחרים מוכרים בגדים עם פסים."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/news/adidas-sues-white-fox-in-battle-of-the-stripes",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "🌸",
+    "d": "2026-10-07",
+    "q": "Sunrise on the Reaping poster",
+    "t": {
+     "en": "The new Hunger Games poster hides weapons in flowers",
+     "he": "הפוסטר החדש של משחקי הרעב מחביא נשק בפרחים"
+    },
+    "sig": {
+     "en": "Floating heads, purple florals, hidden blades",
+     "he": "ראשים מרחפים, פרחים סגולים, להבים מוסתרים"
+    },
+    "b": {
+     "en": "The ‘Sunrise on the Reaping’ key art looks calm at first, until you notice the axes and military imagery in the bouquet. Many called it beautiful propaganda.",
+     "he": "הפוסטר של ״Sunrise on the Reaping״ נראה רגוע במבט ראשון, עד שמבחינים בגרזנים ובדימויים צבאיים בתוך הזר. רבים כינו אותו תעמולה יפה."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/design/poster-design/the-new-hunger-games-sunrise-on-the-reaping-poster-feels-like-beautiful-propaganda",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "🍏",
+    "d": "2026-10-10",
+    "q": "New Balance Steve Jobs 992",
+    "t": {
+     "en": "New Balance quietly recreates Steve Jobs' iPad pose",
+     "he": "ניו באלאנס משחזרים בשקט את תנוחת האייפד של סטיב ג׳ובס"
+    },
+    "sig": {
+     "en": "Grey 992 promo shots · ‘brilliant little detail’",
+     "he": "צילומי קידום ל־992 האפורות · ״פרט קטן וגאוני״"
+    },
+    "b": {
+     "en": "Promo shots for the grey 992 restage Jobs' famous pose from the 2010 iPad keynote. Fans spotted the nod within hours.",
+     "he": "צילומי הקידום ל־992 האפורות משחזרים את התנוחה המפורסמת של ג׳ובס מהשקת האייפד ב־2010. המעריצים זיהו את המחווה תוך שעות."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/news/new-balances-steve-jobs-homage-is-so-subtle-you-might-have-missed-it",
+     "name": "Creative Bloq"
+    }
+   }
+  ],
+  "motion": [
+   {
+    "e": "🤖",
+    "d": "2026-10-01",
+    "q": "Claude Opus 5.5 motion graphics",
+    "item": "claude-motion-dashboards",
+    "t": {
+     "en": "‘AI just solved motion graphics’ videos everywhere",
+     "he": "סרטוני ״ה־AI פתר את המושן גרפיקס״ בכל מקום"
+    },
+    "sig": {
+     "en": "Code-driven animation demos · related story in this issue",
+     "he": "דמואים של אנימציה מבוססת קוד · כתבה קשורה בגיליון"
+    },
+    "b": {
+     "en": "Creators posted b-roll and explainers animated from HTML, CSS and JS written by language models, no generative video involved. The debate: who does the timing and taste work now?",
+     "he": "יוצרים העלו בי־רול וסרטוני הסבר שהונפשו מ־HTML, ‏CSS ו־JS שכתבו מודלי שפה, בלי וידאו גנרטיבי. הוויכוח: מי עושה עכשיו את עבודת התזמון והטעם?"
+    },
+    "src": {
+     "url": "https://blog.mean.ceo/motion-design-news-october-2026/",
+     "name": "Mean CEO"
+    },
+    "watch": "https://www.youtube.com/watch?v=YKFpSe28mlg"
+   },
+   {
+    "e": "🥧",
+    "d": "2026-10-07",
+    "q": "ProtoPie MCP",
+    "t": {
+     "en": "ProtoPie's MCP goes official",
+     "he": "ה־MCP של ProtoPie יוצא רשמית"
+    },
+    "sig": {
+     "en": "Your own AI builds prototypes · code for 7 frameworks",
+     "he": "ה־AI שלכם בונה אבות־טיפוס · קוד ל־7 פריימוורקים"
+    },
+    "b": {
+     "en": "Studio MCP drops real component instances into prototypes; Code MCP turns them into code, including React Native. Interaction designers took note.",
+     "he": "Studio MCP מכניס מופעים אמיתיים של קומפוננטות לאבות־הטיפוס; Code MCP הופך אותם לקוד, כולל React Native. מעצבי אינטראקציה שמו לב."
+    },
+    "src": {
+     "url": "https://www.protopie.io/blog/protopie-mcp-official",
+     "name": "ProtoPie"
+    }
+   },
+   {
+    "e": "🔥",
+    "d": "2026-10-05",
+    "q": "Street Fighter movie billboard hadouken",
+    "t": {
+     "en": "A hadouken ‘tears through’ a Street Fighter billboard",
+     "he": "הדוקן ״קורע״ שלט חוצות של סטריט פייטר"
+    },
+    "sig": {
+     "en": "LA · fake rip with workers ‘hanging on’",
+     "he": "לוס אנג׳לס · קרע מזויף עם פועלים ״שנאחזים״ בו"
+    },
+    "b": {
+     "en": "Ryu's fireball appears to have ripped the ad open, with paper flaps and construction workers clinging on. A classic reality-vs-fiction stunt.",
+     "he": "כדור האש של ריו נראה כאילו קרע את השלט, עם פיסות נייר ופועלי בניין שנתלים עליו. פעלול קלאסי של מציאות מול בדיון."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/design/advertising/woah-street-fighters-new-billboard-is-almost-too-convincing",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "😢",
+    "d": "2026-10-09",
+    "q": "Other Mommy crying billboard",
+    "t": {
+     "en": "‘Other Mommy’ billboard cries in slow motion",
+     "he": "השלט של ״Other Mommy״ בוכה בהילוך איטי"
+    },
+    "sig": {
+     "en": "A tear drips over time · best seen as a time-lapse",
+     "he": "דמעה זולגת לאורך זמן · הכי טוב בטיים־לאפס"
+    },
+    "b": {
+     "en": "For Rob Savage's horror film, Jessica Chastain's waxen smile slowly gains a tear as people pass, turning a static poster into a very slow animation.",
+     "he": "בשביל סרט האימה של רוב סאבאג׳, לחיוך השעווה של ג׳סיקה צ׳סטיין מתווספת לאט דמעה בזמן שאנשים עוברים, וכך פוסטר סטטי הופך לאנימציה איטית מאוד."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/design/advertising/the-other-mommys-crying-billboard-gets-creepier-over-time",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "🛒",
+    "d": "2026-10-09",
+    "q": "Amazon About You section",
+    "t": {
+     "en": "Amazon's ‘About You’ page roasts its users",
+     "he": "עמוד ״About You״ של אמזון צולה את המשתמשים"
+    },
+    "sig": {
+     "en": "AI-written guesses about you · screenshots everywhere",
+     "he": "ניחושים עליך שכתב AI · צילומי מסך בכל מקום"
+    },
+    "b": {
+     "en": "A new settings page shows what Amazon's AI assumes about you, from ‘serious coffee brewing’ to owning a Jeep after one part order. A UX moment people loved sharing.",
+     "he": "עמוד הגדרות חדש מראה מה ה־AI של אמזון מניח עליך, מ״חליטת קפה רצינית״ ועד בעלות על ג׳יפ אחרי הזמנת חלק אחד. רגע UX שאנשים אהבו לשתף."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/news/amazons-about-you-section-is-quietly-roasting-users-and-people-love-it",
+     "name": "Creative Bloq"
+    }
+   }
+  ],
+  "ai": [
+   {
+    "e": "🎃",
+    "d": "2026-10-08",
+    "q": "Fanta AI Halloween ad GRAiL",
+    "t": {
+     "en": "Fanta's AI Halloween ad backfires",
+     "he": "פרסומת ה־AI של פאנטה להאלווין מתפוצצת לה בפנים"
+    },
+    "sig": {
+     "en": "By AI studio GRAiL · boycott comments",
+     "he": "מבית אולפן ה־AI ‏GRAiL · תגובות של חרם"
+    },
+    "b": {
+     "en": "The ‘Haunted Universe’ spot became this year's go-to example of AI slop in advertising, alongside Coca-Cola's AI Christmas ads.",
+     "he": "סרטון ״היקום הרדוף״ הפך לדוגמה המרכזית השנה לסלופ AI בפרסום, לצד פרסומות חג המולד של קוקה־קולה."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/ai/fantas-ai-slop-halloween-advert-is-a-real-horror-show",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "🧩",
+    "d": "2026-10-08",
+    "q": "Artcraft open source Adobe alternative",
+    "t": {
+     "en": "A solo dev ‘rebuilt’ Creative Cloud with AI, for free",
+     "he": "מפתח יחיד ״בנה מחדש״ את Creative Cloud עם AI, בחינם"
+    },
+    "sig": {
+     "en": "7 open-source app clones · ‘Software is over’",
+     "he": "7 שכפולי אפליקציות בקוד פתוח · ״התוכנה נגמרה״"
+    },
+    "b": {
+     "en": "Brandon Thomas says he built clean-room replacements for Photoshop, Illustrator, Premiere, After Effects and more with Claude and Rust. Skeptics asked whether clones can match decades of reliability.",
+     "he": "ברנדון תומאס אומר שבנה תחליפים לפוטושופ, אילוסטרייטור, פרימייר, אפטר אפקטס ועוד בעזרת Claude ו־Rust. הספקנים שאלו אם שכפולים יכולים להשתוות לעשורים של אמינות."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "🧸",
+    "d": "2026-10-06",
+    "q": "Bezzy data center toy Basura Big Data",
+    "t": {
+     "en": "A cuddly toy that screams like an AI data centre",
+     "he": "בובה רכה שצורחת כמו חוות שרתים של AI"
+    },
+    "sig": {
+     "en": "Only 20 made · ‘Adopt a Data Center’",
+     "he": "רק 20 יחידות · ״אמצו חוות שרתים״"
+    },
+    "b": {
+     "en": "Agency Basura and musician Big Data made ‘Bezzy’, which plays a noise recorded outside a Virginia data centre when squeezed. Satire about what AI expansion does to neighbours.",
+     "he": "הסוכנות Basura והמוזיקאי Big Data יצרו את ״בזי״, שמשמיעה בלחיצה רעש שהוקלט ליד חוות שרתים בווירג׳יניה. סאטירה על מה שהתרחבות ה־AI עושה לשכנים."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/design/product-design/this-handmade-cuddly-toy-emits-the-piercing-wail-of-an-ai-data-centre",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "🧵",
+    "d": "2026-10-11",
+    "q": "Apple embroidered logo invite",
+    "t": {
+     "en": "Apple's hand-embroidered invite bets on ‘human-made’",
+     "he": "ההזמנה הרקומה ביד של אפל מהמרת על ״עשוי בידי אדם״"
+    },
+    "sig": {
+     "en": "1977 rainbow logo stitched by Maricor/Maricar",
+     "he": "לוגו הקשת מ־1977 נרקם על ידי Maricor/Maricar"
+    },
+    "b": {
+     "en": "The invite for Apple's Oct 13 event was stitched by hand. Commentators read it as a deliberate contrast with brands criticised for AI-generated campaigns.",
+     "he": "ההזמנה לאירוע של אפל ב־13 באוקטובר נרקמה ביד. פרשנים קראו בזה ניגוד מכוון למותגים שספגו ביקורת על קמפיינים שנוצרו ב־AI."
+    },
+    "src": {
+     "url": "https://www.creativebloq.com/news/an-embroidered-logo-shows-apples-understands-something-that-other-tech-brands-dont",
+     "name": "Creative Bloq"
+    }
+   },
+   {
+    "e": "🫧",
+    "d": "2026-10-08",
+    "q": "Meta Muse AI agent",
+    "item": "meta-muse-cute-trust",
+    "t": {
+     "en": "Meta gives its AI agent a cuddly face",
+     "he": "מטא נותנת לסוכן ה־AI שלה פנים חמודות"
+    },
+    "sig": {
+     "en": "Wide news coverage · story in this issue",
+     "he": "סיקור רחב בחדשות · כתבה בגיליון"
+    },
+    "b": {
+     "en": "Meta's Muse agent launched with a soft mascot. Designers debated whether cuteness builds real trust or just lowers our guard.",
+     "he": "סוכן Muse של מטא הושק עם קמע רך. מעצבים התווכחו אם חמידות בונה אמון אמיתי או רק מורידה לנו את המשמר."
+    },
+    "src": {
+     "url": "https://www.nbcsandiego.com/news/national-international/meta-muse-ai-agent/4078358/",
+     "name": "NBC"
+    }
+   }
+  ],
+  "career": [
+   {
+    "e": "✂️",
+    "d": "2026-10-09",
+    "q": "Netflix layoffs 5%",
+    "t": {
+     "en": "Netflix plans ~5% layoffs",
+     "he": "נטפליקס מתכננת פיטורים של כ־5%"
+    },
+    "sig": {
+     "en": "Via Reuters, citing Puck · Netflix declined to comment",
+     "he": "דרך רויטרס, בציטוט Puck · נטפליקס סירבה להגיב"
+    },
+    "b": {
+     "en": "No teams named yet. It landed the same week as Skydance's warning about its own workforce.",
+     "he": "עוד לא פורסם אילו צוותים. זה הגיע באותו שבוע של האזהרה של סקיידאנס לגבי העובדים שלה."
+    },
+    "src": {
+     "url": "https://qz.com/netflix-layoffs-workforce-cut-100926",
+     "name": "Quartz"
+    }
+   },
+   {
+    "e": "🏢",
+    "d": "2026-10-08",
+    "q": "Skydance layoffs Kotick board",
+    "t": {
+     "en": "Skydance warns of ‘difficult decisions’ on day one",
+     "he": "סקיידאנס מזהירה מ״החלטות קשות״ ביום הראשון"
+    },
+    "sig": {
+     "en": "Bobby Kotick joins the board · Tony Blair as adviser",
+     "he": "בובי קוטיק מצטרף לדירקטוריון · טוני בלייר כיועץ"
+    },
+    "b": {
+     "en": "A day after closing the Warner deal, the new company flagged workforce cuts. Cartoon Brew called the board appointments highly controversial.",
+     "he": "יום אחרי סגירת עסקת וורנר, החברה החדשה סימנה קיצוצים בכוח האדם. Cartoon Brew כינו את מינויי הדירקטוריון שנויים מאוד במחלוקת."
+    },
+    "src": {
+     "url": "https://www.cartoonbrew.com/artist-rights/skydance-warner-bros-paramount-layoffs-267639.html",
+     "name": "Cartoon Brew"
+    }
+   },
+   {
+    "e": "🧪",
+    "d": "2026-10-08",
+    "q": "Manchester Animation Festival feature development lab",
+    "t": {
+     "en": "Manchester picks 7 projects for a new feature lab",
+     "he": "מנצ׳סטר בוחרים 7 פרויקטים למעבדת פיצ׳רים חדשה"
+    },
+    "sig": {
+     "en": "UK animated-feature development program",
+     "he": "תוכנית פיתוח לפיצ׳רים באנימציה בבריטניה"
+    },
+    "b": {
+     "en": "Manchester Animation Festival launched a development lab for UK features and named its first seven projects. A path for indie teams to get features off the ground.",
+     "he": "פסטיבל האנימציה של מנצ׳סטר השיק מעבדת פיתוח לפיצ׳רים בריטיים ובחר את שבעת הפרויקטים הראשונים. מסלול לצוותים עצמאיים להזניק פיצ׳רים."
+    },
+    "src": {
+     "url": "https://www.cartoonbrew.com/festivals/manchester-animation-festival-feature-development-lab-267605.html",
+     "name": "Cartoon Brew"
+    }
+   },
+   {
+    "e": "🤝",
+    "d": "2026-10-07",
+    "q": "Psyop Free Agents partnership",
+    "t": {
+     "en": "Psyop expands its U.S. reach with Free Agents",
+     "he": "Psyop מרחיבים את הנוכחות בארה״ב עם Free Agents"
+    },
+    "sig": {
+     "en": "Studio business news",
+     "he": "חדשות עסקיות מעולם האולפנים"
+    },
+    "b": {
+     "en": "The motion and animation studio group partnered with Free Agents to grow its presence in the U.S. market.",
+     "he": "קבוצת אולפני המושן והאנימציה נכנסה לשותפות עם Free Agents כדי להרחיב את הנוכחות שלה בשוק האמריקאי."
+    },
+    "src": {
+     "url": "https://www.cartoonbrew.com/business/psyop-group-free-agents-partnership-267571.html",
+     "name": "Cartoon Brew"
+    }
+   },
+   {
+    "e": "🏅",
+    "d": "2026-10-06",
+    "q": "Cartoon Saloon Seville honorary award",
+    "t": {
+     "en": "Cartoon Saloon gets an honorary award in Seville",
+     "he": "Cartoon Saloon מקבלים פרס כבוד בסביליה"
+    },
+    "sig": {
+     "en": "23rd Seville European Film Festival",
+     "he": "פסטיבל הקולנוע האירופי ה־23 בסביליה"
+    },
+    "b": {
+     "en": "The Irish studio behind Wolfwalkers and Song of the Sea will be honoured, another sign of how much clout independent hand-drawn studios carry.",
+     "he": "האולפן האירי שמאחורי ״Wolfwalkers״ ו״שיר הים״ יקבל פרס כבוד, עוד סימן לכוח שיש לאולפנים עצמאיים של אנימציה מצוירת ביד."
+    },
+    "src": {
+     "url": "https://www.cartoonbrew.com/festivals/cartoon-saloon-seville-european-film-festival-267500.html",
+     "name": "Cartoon Brew"
+    }
+   }
+  ],
+  "israel": [
+   {
+    "e": "🕯️",
+    "d": "2026-10-05",
+    "q": "ANU October 7 exhibit new artworks",
+    "t": {
+     "en": "Oct 7, three years on: design graduates join ANU's exhibit",
+     "he": "שלוש שנים ל־7 באוקטובר: בוגרי עיצוב מצטרפים לתערוכה באנו"
+    },
+    "sig": {
+     "en": "3 new works from University of Haifa design grads",
+     "he": "3 עבודות חדשות של בוגרי עיצוב מאוניברסיטת חיפה"
+    },
+    "b": {
+     "en": "Tamara Kloss's ‘Compassion Fatigue’ looks at memorial stickers in public space; Yael Lerner's ‘I Saw a Dove’ and Yehuda Feldmer's ‘Shalom’ were added too.",
+     "he": "״עייפות החמלה״ של תמרה קלוס בוחנת מדבקות זיכרון במרחב הציבורי; נוספו גם ״ראיתי יונה״ של יעל לרנר ו״שלום״ של יהודה פלדמר."
+    },
+    "src": {
+     "url": "https://www.jpost.com/israel-news/culture/article-910614",
+     "name": "The Jerusalem Post"
+    }
+   },
+   {
+    "e": "⚖️",
+    "d": "2026-10-05",
+    "q": "Masyanya Kuvaev sentence",
+    "item": "masyanya-kuvaev-sentence",
+    "t": {
+     "en": "Russia sentences the Israeli creator of ‘Masyanya’",
+     "he": "רוסיה גוזרת דין על יוצר ״מסיאניה״ הישראלי"
+    },
+    "sig": {
+     "en": "4 years in absentia · covered worldwide · story in this issue",
+     "he": "4 שנים בהיעדרו · סיקור עולמי · כתבה בגיליון"
+    },
+    "b": {
+     "en": "Oleg Kuvaev, in Israel since 2006, was sentenced over an episode urging Russian soldiers to surrender.",
+     "he": "אולג קובאייב, שחי בישראל מאז 2006, נשפט בגלל פרק שקורא לחיילים רוסים להיכנע."
+    },
+    "src": {
+     "url": "https://meduza.io/en/news/2026/10/05/russian-court-sentences-masyanya-creator-oleg-kuvayev-in-absentia-to-four-years-over-antiwar-cartoon-and-foreign-agent-violations",
+     "name": "Meduza"
+    }
+   },
+   {
+    "e": "🎬",
+    "d": "2026-10-05",
+    "q": "Hager Land Haifa film festival",
+    "t": {
+     "en": "‘Hager (Land)’ wins Best Israeli Film in Haifa",
+     "he": "״הגר (ארץ)״ זוכה בפרס הסרט הישראלי בחיפה"
+    },
+    "sig": {
+     "en": "Also won cinematography · 42nd festival",
+     "he": "זכה גם בפרס הצילום · הפסטיבל ה־42"
+    },
+    "b": {
+     "en": "Shmuel Beru's film took the top prize; ‘Blue Marks’ and ‘Double Panther’ shared the jury prize, and ‘Nechama’ won best independent short.",
+     "he": "הסרט של שמואל בירו לקח את הפרס הראשי; ״סימנים כחולים״ ו״פנתר כפול״ חלקו את פרס השופטים, ו״נחמה״ זכה בפרס הסרט הקצר העצמאי."
+    },
+    "src": {
+     "url": "https://www.jpost.com/israel-news/article-910648",
+     "name": "The Jerusalem Post"
+    }
+   },
+   {
+    "e": "📢",
+    "d": "2026-10-08",
+    "q": "הזכות לתרבות",
+    "item": "culture-coalition-campaign",
+    "t": {
+     "en": "‘The Right to Culture’ campaign before the election",
+     "he": "קמפיין ״הזכות לתרבות״ לפני הבחירות"
+    },
+    "sig": {
+     "en": "Creatives push for a bigger budget · story in this issue",
+     "he": "יוצרים דורשים תקציב גדול יותר · כתבה בגיליון"
+    },
+    "b": {
+     "en": "With the Oct 27 election close, the culture sector organised to put arts funding on party agendas.",
+     "he": "עם הבחירות ב־27 באוקטובר באופק, עולם התרבות התארגן כדי להכניס את תקציב האמנות לסדר היום של המפלגות."
+    },
+    "src": {
+     "url": "https://www.prtfl.co.il/archives/261406",
+     "name": "Portfolio"
+    }
+   },
+   {
+    "e": "🗳️",
+    "d": "2026-09-27",
+    "q": "קמפיין בחירות 2026",
+    "t": {
+     "en": "Election design: one letter, short slogans, lots of AI",
+     "he": "עיצוב בחירות: אות אחת, סלוגנים קצרים, הרבה AI"
+    },
+    "sig": {
+     "en": "Weeks to Oct 27 · AI ‘salofganda’ debate",
+     "he": "שבועות ל־27 באוקטובר · הוויכוח על ״סלופגנדה״ של AI"
+    },
+    "b": {
+     "en": "Party campaigns lean on bold identities (Degel HaTorah's lone letter gimel) and AI-generated clips, which critics call the first ‘AI-slop election’.",
+     "he": "הקמפיינים נשענים על זהויות חזקות (האות ג׳ הבודדה של דגל התורה) ועל קליפים שנוצרו ב־AI, שמבקרים קוראים להם ״בחירות הסלופ הראשונות״."
+    },
+    "src": {
+     "url": "https://www.ynet.co.il/news/elections2026/article/s1tmolrqge",
+     "name": "ynet"
+    }
+   }
+  ]
+ },
+ "trendsRange": {
+  "from": "2026-10-03",
+  "to": "2026-10-10"
  }
 }
