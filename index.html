@@ -114,6 +114,27 @@ main.in-l{animation:inL .26s ease-out} main.in-r{animation:inR .26s ease-out}
 .tr .dt i{font-style:normal;font-size:15px;opacity:.6;display:inline-block}
 [dir="rtl"] .tr .dt i{transform:scaleX(-1)}
 .tr .in{width:7px;height:7px;border-radius:50%;background:var(--brand)}
+.evs{background:var(--sheet);border:1px solid var(--line);border-radius:var(--r);padding:14px 6px 6px;display:grid;gap:2px}
+.evs .trend-h{padding-bottom:2px}
+.evs .sub{padding:0 10px 8px;font-size:13.5px;color:var(--muted)}
+.evday{font:700 12px var(--mono);text-transform:uppercase;letter-spacing:.05em;color:var(--brand-ink);padding:12px 10px 4px;border-top:1px solid var(--line);margin-top:4px}
+.evday:first-of-type{border-top:0;margin-top:0}
+.ev{display:grid;grid-template-columns:44px 24px 1fr 12px;align-items:center;gap:8px;width:100%;border:0;background:none;cursor:pointer;
+  padding:9px 10px;border-radius:12px;text-align:start;color:var(--ink);min-width:0}
+.ev:hover,.ev:focus-visible{background:var(--paper)}
+.ev .tm{font:600 12.5px var(--mono);color:var(--muted);font-variant-numeric:tabular-nums}
+.ev .em{font-size:19px;line-height:1;text-align:center}
+.ev .tx{min-width:0;display:grid;gap:1px}
+.ev .tt{font:500 15.5px/1.3 var(--body);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ev .vn{font-size:13px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ev .ct{font:500 12px var(--mono);color:var(--muted);white-space:nowrap;display:flex;align-items:center;gap:6px}
+.ev .ct i{font-style:normal;font-size:15px;opacity:.6;display:inline-block}
+[dir="rtl"] .ev .ct i{transform:scaleX(-1)}
+.lb-info{margin:0;padding:0;list-style:none;display:grid;gap:6px;font-size:15px;color:var(--ink)}
+.lb-info li{display:flex;gap:8px;align-items:flex-start}
+.lb-info li span{width:20px;flex:none;text-align:center}
+.lb-go{display:grid;gap:8px}
+.lb-go small{font:600 12px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
 .lb-art.emo{font-size:96px;aspect-ratio:16/9}
 .lb-kicker{font:600 12.5px var(--mono);color:var(--brand-ink);text-transform:uppercase;letter-spacing:.05em}
 .lb-sig{display:flex;gap:8px;align-items:flex-start;font-size:15px;color:var(--ink);background:var(--hot-soft);border-radius:12px;padding:8px 12px}
@@ -264,14 +285,18 @@ const UI = {
       swipe:"Swipe left or right to switch tabs",next:"Next up",legend:"= picked up by several newsletters",
       wiki:"Wikipedia",images:"Images",google:"Search",from:"From",
       doneTitle:"You read it all!",doneText:n=>`All ${n} picks this week. See you next Sunday.`,doneBtn:"Yay! 🎉",
-      lastTab:"That's the whole issue",back:"Back to Top 5",top5:"Top 5",trending:"Trending this week",tSource:"Source",tWatch:"Watch",tInIssue:"Read it in this issue",tTrends:"Google Trends",tNews:"More news",tRank:(n,tb)=>`#${n} trending · ${tb}`},
+      lastTab:"That's the whole issue",back:"Back to Top 5",top5:"Top 5",trending:"Trending this week",tSource:"Source",tWatch:"Watch",tInIssue:"Read it in this issue",tTrends:"Google Trends",tNews:"More news",tRank:(n,tb)=>`#${n} trending · ${tb}`,
+      events:"Events in Israel this week",evSub:"Motion, animation, illustration, design and a bit of art. Tap for details.",allWeek:"Running all week",until:"until",
+      evTickets:"Tickets",evInfo:"Event page",evArticle:"Read about it",evCal:"Add to Google Calendar",evGo:"Get there",evWalk:"Walk",evTransit:"Transit",evWaze:"Waze",evAlso:"Also"},
   he:{brand:"התלקיט",week:"שבוע",nl:"ניוזלטרים",src:"מקורות",kept:"פריטים",tldr:"בקצרה",who:"מופיעים בכתבה",open:"לכתבה המקורית",
       yt:"לצפייה ביוטיוב",mentions:n=>`${n} אזכורים`,hebrew:"מקור בעברית",read:"✓ נקרא",
       filtered:"מה סיננו השבוע:",loadErr:"לא הצלחנו לטעון את הגיליון. בדקו את החיבור ורעננו.",issue:"גיליון",
       swipe:"החליקו ימינה או שמאלה כדי לעבור בין לשוניות",next:"הבא בתור",legend:"= הופיע בכמה ניוזלטרים",
       wiki:"ויקיפדיה",images:"תמונות",google:"חיפוש",from:"מתוך",
       doneTitle:"קראת הכול!",doneText:n=>`כל ${n} הפריטים של השבוע. נתראה ביום ראשון הבא.`,doneBtn:"יש! 🎉",
-      lastTab:"זה כל הגיליון",back:"חזרה לטופ 5",top5:"הטופ 5",trending:"טרנדינג השבוע",tSource:"למקור",tWatch:"לצפייה",tInIssue:"לכתבה בגיליון",tTrends:"Google Trends",tNews:"עוד חדשות",tRank:(n,tb)=>`#${n} בטרנד · ${tb}`}
+      lastTab:"זה כל הגיליון",back:"חזרה לטופ 5",top5:"הטופ 5",trending:"טרנדינג השבוע",tSource:"למקור",tWatch:"לצפייה",tInIssue:"לכתבה בגיליון",tTrends:"Google Trends",tNews:"עוד חדשות",tRank:(n,tb)=>`#${n} בטרנד · ${tb}`,
+      events:"אירועים בישראל השבוע",evSub:"מושן, אנימציה, איור, עיצוב וקצת אמנות. הקישו לפרטים.",allWeek:"פתוח כל השבוע",until:"עד",
+      evTickets:"כרטיסים",evInfo:"לדף האירוע",evArticle:"לקריאה",evCal:"הוספה ליומן Google",evGo:"איך מגיעים",evWalk:"ברגל",evTransit:"תחב״צ",evWaze:"Waze",evAlso:"גם"}
 };
 const TAB_EMOJI = {top:"⭐",watch:"🍿",animation:"🎞️",design:"🎨",motion:"✨",ai:"🤖",career:"💼",israel:"🇮🇱"};
 const KIND = {
@@ -413,7 +438,7 @@ function renderTabs(){
 }
 function trendsHTML(){
   const L=data.trends&&data.trends[tab]; if(!L||!L.length) return "";
-  const r=data.trendsRange?`${shortDate(data.trendsRange.from)}–${shortDate(data.trendsRange.to)}`:"";
+  const r=data.trendsRange?`\u2066${shortDate(data.trendsRange.from)}–${shortDate(data.trendsRange.to)}\u2069`:"";
   return `<section class="trend" aria-label="${UI[lang].trending}"><div class="trend-h"><span>🔥 ${UI[lang].trending}</span><small>${r}</small></div>
     ${L.map((x,i)=>`<button type="button" class="tr" data-trend="${i}"><span class="rk">${i+1}</span><span class="em" aria-hidden="true">${x.e||"•"}</span><span class="tt">${esc(t(x.t))}</span><span class="dt">${x.item?'<span class="in" title="in this issue"></span>':""}${x.d?esc(shortDate(x.d)):""}<i>›</i></span></button>`).join("")}</section>`;
 }
@@ -432,6 +457,58 @@ function openTrend(i){
         <a href="https://trends.google.com/trends/explore?date=${rng}&q=${q}" target="_blank" rel="noopener">📈 ${UI[lang].tTrends}</a>
         <a href="https://news.google.com/search?q=${q}" target="_blank" rel="noopener">📰 ${UI[lang].tNews}</a>
       </div></div>`;
+  $("#lb").hidden=false;
+}
+
+/* ── Events in Israel ── */
+const dayLabel=id=>{const [y,m,d]=id.split("-").map(Number), dt=new Date(y,m-1,d);
+  return lang==="he"?`יום ${dt.toLocaleDateString("he",{weekday:"long"}).replace("יום ","")} · ${d}.${m}`:dt.toLocaleDateString("en",{weekday:"short",month:"short",day:"numeric"})};
+function eventsHTML(){
+  const L=data.events; if(!L||!L.length) return "";
+  const r=data.eventsRange?`\u2066${shortDate(data.eventsRange.from)}–${shortDate(data.eventsRange.to)}\u2069`:"";
+  const dated=L.map((x,i)=>({x,i})).filter(o=>!o.x.ongoing).sort((a,b)=>(a.x.d+(a.x.time||"00:00")).localeCompare(b.x.d+(b.x.time||"00:00")));
+  const ongoing=L.map((x,i)=>({x,i})).filter(o=>o.x.ongoing);
+  const row=({x,i})=>`<button type="button" class="ev" data-ev="${i}"><span class="tm">${x.ongoing?"⟷":esc(x.time||"—")}</span><span class="em" aria-hidden="true">${x.e||"•"}</span>
+    <span class="tx"><span class="tt">${esc(t(x.title))}</span><span class="vn">${x.ongoing?`${UI[lang].until} ${esc(x.untilLabel?t(x.untilLabel).replace(/^(until|through|עד) /,""):shortDate(x.until))} · `:""}${esc(t(x.venue))} · ${esc(t(x.city))}</span></span>
+    <span class="ct"><i>›</i></span></button>`;
+  let h="", last="";
+  for(const o of dated){ if(o.x.d!==last){ last=o.x.d; h+=`<div class="evday">${esc(dayLabel(o.x.d))}</div>` } h+=row(o) }
+  if(ongoing.length) h+=`<div class="evday">${UI[lang].allWeek}</div>`+ongoing.map(row).join("");
+  return `<section class="evs" aria-label="${UI[lang].events}"><div class="trend-h"><span>🎟️ ${UI[lang].events}</span><small>${r}</small></div><div class="sub">${UI[lang].evSub}</div>${h}</section>`;
+}
+const gcalDate=(d,tm)=>d.replace(/-/g,"")+(tm?"T"+tm.replace(":","")+"00":"");
+function addDays(d,n){const [y,m,dd]=d.split("-").map(Number), x=new Date(Date.UTC(y,m-1,dd+n)); return x.toISOString().slice(0,10)}
+const nextDay=d=>addDays(d,1);
+function addH(tm,h){const [a,b]=tm.split(":").map(Number), m=a*60+b+h*60; return String(Math.floor(m/60)%24).padStart(2,"0")+":"+String(m%60).padStart(2,"0")}
+function openEvent(i){
+  const x=data.events[i], U=UI[lang];
+  // calendar: timed → exact slot; dated, no time → all-day; running → all-day on the issue week's Friday
+  const day=x.ongoing?(data.eventsRange?addDays(data.eventsRange.from,5):x.until):x.d;
+  const dates=x.time?`${gcalDate(day,x.time)}/${gcalDate(day,x.end||addH(x.time,2))}`:`${gcalDate(day)}/${gcalDate(nextDay(day))}`;
+  const loc=[t(x.venue),lang==="he"?"":x.addr,t(x.city)].filter(Boolean).join(", ");
+  const det=`${t(x.b)}\n\n${(x.tickets||x.url)||""}`;
+  const cal=`https://calendar.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent((x.e?x.e+" ":"")+t(x.title))}&dates=${dates}&ctz=Asia/Jerusalem&location=${encodeURIComponent(loc)}&details=${encodeURIComponent(det)}`;
+  const q=encodeURIComponent(x.q||loc);
+  const when=x.ongoing?`${U.allWeek} · ${U.until} ${x.untilLabel?t(x.untilLabel):shortDate(x.until)}`:`${dayLabel(x.d)}${x.time?` · \u2066${x.time}${x.end?"–"+x.end:""}\u2069`:""}`;
+  $("#lb-card").innerHTML=`<div class="lb-img"><div class="lb-art emo">${x.e||"🎟️"}</div></div>
+    <div class="lb-body"><div class="lb-kicker">${esc(t(x.cat))}</div>
+      <h4>${esc(t(x.title))}</h4>
+      <ul class="lb-info">
+        <li><span>🗓</span>${esc(when)}</li>
+        <li><span>📍</span>${esc(loc)}</li>
+        ${(x.info||[]).map(n=>`<li><span>•</span>${esc(t(n))}</li>`).join("")}
+      </ul>
+      <p>${esc(t(x.b))}</p>
+      <div class="lb-actions">
+        ${x.tickets?`<a class="primary" href="${esc(x.tickets)}" target="_blank" rel="noopener">🎟️ ${U.evTickets}</a>`:""}
+        ${x.url?`<a class="${x.tickets?"":"primary"}" href="${esc(x.url)}" target="_blank" rel="noopener">🔗 ${x.tickets?U.evArticle:U.evInfo}${x.urlName?" · "+esc(x.urlName):""}</a>`:""}
+        <a href="${cal}" target="_blank" rel="noopener">📅 ${U.evCal}</a>
+      </div>
+      <div class="lb-go"><small>${U.evGo}</small><div class="lb-actions">
+        <a href="https://www.google.com/maps/dir/?api=1&destination=${q}&travelmode=walking" target="_blank" rel="noopener">🚶 ${U.evWalk}</a>
+        <a href="https://www.google.com/maps/dir/?api=1&destination=${q}&travelmode=transit" target="_blank" rel="noopener">🚌 ${U.evTransit}</a>
+        <a href="https://waze.com/ul?q=${q}&navigate=yes" target="_blank" rel="noopener">🚗 ${U.evWaze}</a>
+      </div></div></div>`;
   $("#lb").hidden=false;
 }
 function jumpTo(id){
@@ -461,6 +538,7 @@ function render(){
   }
   const list=itemsFor(tab);
   html+=list.map(it=>cardHTML(it,tab==="top"?it.top:null)).join("")||`<p class="empty">—</p>`;
+  if(tab==="top") html+=eventsHTML();
   html+= nxt
     ? `<button class="next" type="button" data-goto="${nxt.id}"><span><small>${UI[lang].next}</small>${TAB_EMOJI[nxt.id]||""} ${esc(t(nxt))} · ${itemsFor(nxt.id).length}</span><span class="arr">→</span></button>`
     : `<button class="next" type="button" data-goto="top"><span><small>${UI[lang].lastTab}</small>⭐ ${UI[lang].back}</span><span class="arr">↺</span></button>`;
@@ -511,6 +589,7 @@ document.addEventListener("click",e=>{
   const tb=e.target.closest(".tab"); if(tb){ const ord=tabOrder(); const d=Math.sign(ord.indexOf(tb.dataset.tab)-ord.indexOf(tab)); return setTab(tb.dataset.tab, isRTL()?-d:d) }
   const nx=e.target.closest("[data-goto]"); if(nx){ return setTab(nx.dataset.goto, nx.dataset.goto==="top"?0:(isRTL()?-1:1)) }
   const tr=e.target.closest("[data-trend]"); if(tr) return openTrend(+tr.dataset.trend);
+  const ev=e.target.closest("[data-ev]"); if(ev) return openEvent(+ev.dataset.ev);
   const jp=e.target.closest("[data-jump]"); if(jp){ e.preventDefault(); return jumpTo(jp.dataset.jump) }
   const en=e.target.closest("[data-ent]"); if(en){ const [a,b]=en.dataset.ent.split(":").map(Number); return openEntity(a,b) }
   const pl=e.target.closest("[data-play]");

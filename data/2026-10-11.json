@@ -3802,5 +3802,475 @@
  "trendsRange": {
   "from": "2026-10-03",
   "to": "2026-10-10"
- }
+ },
+ "eventsRange": {
+  "from": "2026-10-11",
+  "to": "2026-10-17"
+ },
+ "events": [
+  {
+   "id": "ev-vanleer",
+   "e": "🩹",
+   "d": "2026-10-11",
+   "cat": {
+    "en": "Art · Biennale",
+    "he": "אמנות · ביאנלה"
+   },
+   "title": {
+    "en": "Jerusalem Biennale: triple opening at Van Leer",
+    "he": "ביאנלה ירושלים: שלוש פתיחות בוון ליר"
+   },
+   "venue": {
+    "en": "Van Leer Jerusalem Institute",
+    "he": "מכון ון ליר בירושלים"
+   },
+   "city": {
+    "en": "Jerusalem",
+    "he": "ירושלים"
+   },
+   "q": "Van Leer Jerusalem Institute, Jerusalem",
+   "b": {
+    "en": "Three Biennale shows open together: “Open Wound”, “On the Face of It” and “Time Collapsing, Routine Leaking”. The 2026 Biennale runs 42 exhibitions in 21 venues, many of them working through the past three years.",
+    "he": "שלוש תערוכות של הביאנלה נפתחות יחד: ״פצע פתוח״, ״On the Face of It״ ו״הזמן קורס, השגרה דולפת״. הביאנלה של 2026 מציגה 42 תערוכות ב־21 חללים, ורבות מהן מתמודדות עם שלוש השנים האחרונות."
+   },
+   "info": [
+    {
+     "en": "Opening time isn't published. Check the event page before you go.",
+     "he": "שעת הפתיחה לא פורסמה. כדאי לבדוק בדף האירוע לפני שיוצאים."
+    }
+   ],
+   "url": "https://www.jb26.org/event-details/exhibition-opening-open-wound",
+   "urlName": "jb26.org"
+  },
+  {
+   "id": "ev-tod",
+   "e": "🌊",
+   "d": "2026-10-12",
+   "time": "17:00",
+   "end": "19:00",
+   "cat": {
+    "en": "Video art · Biennale",
+    "he": "וידאו־ארט · ביאנלה"
+   },
+   "title": {
+    "en": "“Lake of Void” opens at the Tower of David",
+    "he": "פתיחת ״Lake of Void״ במגדל דוד"
+   },
+   "venue": {
+    "en": "Tower of David Museum",
+    "he": "מוזיאון מגדל דוד"
+   },
+   "city": {
+    "en": "Jerusalem",
+    "he": "ירושלים"
+   },
+   "q": "Tower of David Museum, Jerusalem",
+   "b": {
+    "en": "A Jerusalem Biennale opening at the Tower of David. The Biennale lists a new video work by Yehudit Sasportas opening there the same day.",
+    "he": "פתיחה של ביאנלה ירושלים במגדל דוד. לפי הביאנלה, באותו יום נפתחת שם עבודת וידאו חדשה של יהודית סספורטס."
+   },
+   "info": [
+    {
+     "en": "Online registration is closed.",
+     "he": "ההרשמה המקוונת נסגרה."
+    }
+   ],
+   "url": "https://www.jb26.org/event-details/exhibition-opening-lake-of-void",
+   "urlName": "jb26.org"
+  },
+  {
+   "id": "ev-cherniak-talk",
+   "e": "🧬",
+   "d": "2026-10-12",
+   "time": "19:00",
+   "end": "20:30",
+   "cat": {
+    "en": "Talk · Generative art",
+    "he": "שיחה · אמנות גנרטיבית"
+   },
+   "title": {
+    "en": "Art, code and the future of collecting, with Dmitri Cherniak",
+    "he": "אמנות, קוד ועתיד האספנות, עם דמיטרי צ׳רניאק"
+   },
+   "venue": {
+    "en": "Tel Aviv Museum of Art",
+    "he": "מוזיאון תל אביב לאמנות"
+   },
+   "city": {
+    "en": "Tel Aviv",
+    "he": "תל אביב"
+   },
+   "addr": "Shaul HaMelech Blvd 27",
+   "q": "Tel Aviv Museum of Art, Shaul HaMelech Blvd 27, Tel Aviv",
+   "b": {
+    "en": "Generative artist Dmitri Cherniak and collector Benjamin Gross, moderated by curator Tal Lanir, on code, chance and motion in “Ringers in Motion”, and on how digital works are bought, shown and preserved.",
+    "he": "האמן הגנרטיבי דמיטרי צ׳רניאק והאספן בנג׳מין גרוס, בהנחיית האוצרת טל לניר, על קוד, מקריות ותנועה ב״Ringers in Motion״, ועל איך עבודות דיגיטליות נקנות, מוצגות ונשמרות."
+   },
+   "info": [
+    {
+     "en": "₪70, includes museum entry",
+     "he": "70 ₪, כולל כניסה למוזיאון"
+    },
+    {
+     "en": "Bruce and Ruth Rappaport Foyer, Amir Building",
+     "he": "פואייה ברוס ורות רפפורט, בניין אמיר"
+    },
+    {
+     "en": "Limited seats, book ahead. The museum closes at 18:00 on Mondays, so come early to see the galleries.",
+     "he": "מספר המקומות מוגבל, יש להזמין מראש. המוזיאון נסגר ב־18:00 בימי שני, אז כדאי להגיע מוקדם לגלריות."
+    }
+   ],
+   "tickets": "https://tickets.tamuseum.org.il/event/95284",
+   "url": "https://www.tamuseum.org.il/en/event/art-code-and-future-collecting-unique-encounters-following-special-project-dmitri-cherniak-ringers-motion/2026-10-12/",
+   "urlName": "tamuseum.org.il"
+  },
+  {
+   "id": "ev-circle-tour",
+   "e": "♻️",
+   "d": "2026-10-13",
+   "also": [
+    "2026-10-16",
+    "2026-10-17"
+   ],
+   "cat": {
+    "en": "Design · Guided tour",
+    "he": "עיצוב · סיור מודרך"
+   },
+   "title": {
+    "en": "Guided tour of “The Circle”",
+    "he": "סיור מודרך ב״המעגל״"
+   },
+   "venue": {
+    "en": "Design Museum Holon",
+    "he": "מוזיאון העיצוב חולון"
+   },
+   "city": {
+    "en": "Holon",
+    "he": "חולון"
+   },
+   "addr": "Golda Meir 6",
+   "q": "Design Museum Holon, Golda Meir 6, Holon",
+   "b": {
+    "en": "A 45-minute tour of the museum's biggest show in years: circular design for the climate crisis, from 3D-printed earth bricks around a living olive tree to blocks of discarded garments.",
+    "he": "סיור של 45 דקות בתערוכה הגדולה של המוזיאון מזה שנים: עיצוב מעגלי מול משבר האקלים, מביתן לבני אדמה בהדפסת תלת־ממד סביב עץ זית חי ועד קוביות של בגדים זרוקים."
+   },
+   "info": [
+    {
+     "en": "Also Fri 16 and Sat 17 Oct",
+     "he": "גם בשישי 16.10 ובשבת 17.10"
+    },
+    {
+     "en": "Free with the exhibition-plus-tour ticket, register ahead (max 30)",
+     "he": "ללא תשלום נוסף עם כרטיס תערוכה הכולל סיור, בהרשמה מראש (עד 30 משתתפים)"
+    },
+    {
+     "en": "Times are shown when booking. Open Tue 10–20, Fri 10–14, Sat 10–18",
+     "he": "השעות מופיעות בהזמנה. פתוח בשלישי 10–20, שישי 10–14, שבת 10–18"
+    }
+   ],
+   "tickets": "https://mediatheque-dmh.smarticket.co.il/iframe/event/44961",
+   "url": "https://www.ynetnews.com/culture/article/rjf5ffrugx",
+   "urlName": "Ynetnews"
+  },
+  {
+   "id": "ev-nahon",
+   "e": "🪡",
+   "d": "2026-10-14",
+   "cat": {
+    "en": "Art · Biennale",
+    "he": "אמנות · ביאנלה"
+   },
+   "title": {
+    "en": "Four Biennale openings at the Nahon Museum",
+    "he": "ארבע פתיחות של הביאנלה במוזיאון נחום"
+   },
+   "venue": {
+    "en": "U. Nahon Museum of Italian Jewish Art",
+    "he": "מוזיאון א.ד. נחום לאמנות יהודית איטלקית"
+   },
+   "city": {
+    "en": "Jerusalem",
+    "he": "ירושלים"
+   },
+   "q": "U. Nahon Museum of Italian Jewish Art, Jerusalem",
+   "b": {
+    "en": "“Morphologies of Transience”, “Light Through the Fracture”, “Through the Eye of the Needle” and “Between Despair and Hope” open the same evening, a dense night for one stop.",
+    "he": "״Morphologies of Transience״, ״אור דרך השבר״, ״דרך קוף המחט״ ו״בין ייאוש לתקווה״ נפתחות באותו ערב. הרבה תערוכות בעצירה אחת."
+   },
+   "info": [
+    {
+     "en": "Opening time isn't published. Check the event page.",
+     "he": "שעת הפתיחה לא פורסמה. כדאי לבדוק בדף האירוע."
+    }
+   ],
+   "url": "https://www.jb26.org/event-list",
+   "urlName": "jb26.org"
+  },
+  {
+   "id": "ev-well",
+   "e": "🕳️",
+   "d": "2026-10-15",
+   "time": "20:00",
+   "end": "22:00",
+   "cat": {
+    "en": "Art · Biennale",
+    "he": "אמנות · ביאנלה"
+   },
+   "title": {
+    "en": "“Well”: Hanita Ilan solo show opens at Hamiffal",
+    "he": "״באר״: פתיחת תערוכת היחיד של חניתה אילן בהמפעל"
+   },
+   "venue": {
+    "en": "Hamiffal",
+    "he": "המפעל"
+   },
+   "city": {
+    "en": "Jerusalem",
+    "he": "ירושלים"
+   },
+   "addr": "Ha-Ma'aravim St 3",
+   "q": "Hamiffal, HaMa'aravim St 3, Jerusalem",
+   "b": {
+    "en": "A solo show by Hanita Ilan, winner of the 2025 Rapaport Prize, at Jerusalem's artist-run building, as part of the Biennale.",
+    "he": "תערוכת יחיד של חניתה אילן, זוכת פרס רפפורט 2025, בבניין המפעל בירושלים, במסגרת הביאנלה."
+   },
+   "info": [
+    {
+     "en": "RSVP on the event page",
+     "he": "אישור הגעה בדף האירוע"
+    }
+   ],
+   "url": "https://www.jb26.org/event-details/exhibition-opening-well",
+   "urlName": "jb26.org"
+  },
+  {
+   "id": "ev-noma-tour",
+   "e": "👁️",
+   "d": "2026-10-16",
+   "time": "12:00",
+   "end": "13:30",
+   "cat": {
+    "en": "Illustration · Guided tour",
+    "he": "איור · סיור מודרך"
+   },
+   "title": {
+    "en": "“Changing Patterns of Consumption” tour, incl. Noma Bar",
+    "he": "סיור ״דפוסי צריכה משתנים״, כולל נעמה בר"
+   },
+   "venue": {
+    "en": "Tel Aviv Museum of Art",
+    "he": "מוזיאון תל אביב לאמנות"
+   },
+   "city": {
+    "en": "Tel Aviv",
+    "he": "תל אביב"
+   },
+   "addr": "Shaul HaMelech Blvd 27",
+   "q": "Tel Aviv Museum of Art, Shaul HaMelech Blvd 27, Tel Aviv",
+   "b": {
+    "en": "A guided route through three shows: Noma Bar's “Look Again” (negative-space illustration, animation and sculpture), Tom Wesselmann's pop art and Ilana Dotan's “Shelf Life”.",
+    "he": "סיור מודרך בשלוש תערוכות: ״להסתכל שוב״ של נעמה בר (איור בחלל שלילי, אנימציה ופיסול), הפופ־ארט של טום וסלמן ו״חיי מדף״ של אילנה דותן."
+   },
+   "info": [
+    {
+     "en": "₪55, includes museum entry",
+     "he": "55 ₪, כולל כניסה למוזיאון"
+    },
+    {
+     "en": "In Hebrew. Meet at the Safra Hall, Amir Building",
+     "he": "בעברית. מפגש באולם ספרא, בניין אמיר"
+    },
+    {
+     "en": "Limited spots, book ahead",
+     "he": "מספר המקומות מוגבל, יש להזמין מראש"
+    }
+   ],
+   "tickets": "https://tickets.tamuseum.org.il/show/9153",
+   "url": "https://tamuseum.org.il/en/exhibition/noma-bar-look-again/",
+   "urlName": "tamuseum.org.il"
+  },
+  {
+   "id": "ev-noma",
+   "e": "✂️",
+   "ongoing": true,
+   "until": "2027-01-16",
+   "cat": {
+    "en": "Illustration · Animation",
+    "he": "איור · אנימציה"
+   },
+   "title": {
+    "en": "Noma Bar: Look Again",
+    "he": "נעמה בר: להסתכל שוב"
+   },
+   "venue": {
+    "en": "Tel Aviv Museum of Art",
+    "he": "מוזיאון תל אביב לאמנות"
+   },
+   "city": {
+    "en": "Tel Aviv",
+    "he": "תל אביב"
+   },
+   "addr": "Shaul HaMelech Blvd 27",
+   "q": "Tel Aviv Museum of Art, Shaul HaMelech Blvd 27, Tel Aviv",
+   "b": {
+    "en": "The first big museum survey of the Afula-born illustrator famous for figure-ground tricks. Four chapters cover print, animation, sculpture and installation, plus sketchbooks and childhood drawings. Curated by Yuval Saar.",
+    "he": "תערוכת סקירה מוזיאלית גדולה של המאייר יליד עפולה, המפורסם בתעתועי דמות ורקע. ארבעה פרקים: הדפס, אנימציה, פיסול ומיצב, וגם מחברות סקיצות וציורי ילדות. אוצר: יובל סער."
+   },
+   "info": [
+    {
+     "en": "Mizne Gallery, Paulson Building",
+     "he": "גלריה מיזנה, בניין פולסון"
+    }
+   ],
+   "url": "https://tamuseum.org.il/en/exhibition/noma-bar-look-again/",
+   "urlName": "tamuseum.org.il"
+  },
+  {
+   "id": "ev-cherniak",
+   "e": "🌀",
+   "ongoing": true,
+   "until": "2026-11-14",
+   "cat": {
+    "en": "Generative motion",
+    "he": "תנועה גנרטיבית"
+   },
+   "title": {
+    "en": "Dmitri Cherniak: Ringers in Motion",
+    "he": "דמיטרי צ׳רניאק: Ringers in Motion"
+   },
+   "venue": {
+    "en": "Tel Aviv Museum of Art",
+    "he": "מוזיאון תל אביב לאמנות"
+   },
+   "city": {
+    "en": "Tel Aviv",
+    "he": "תל אביב"
+   },
+   "addr": "Shaul HaMelech Blvd 27",
+   "q": "Tel Aviv Museum of Art, Shaul HaMelech Blvd 27, Tel Aviv",
+   "b": {
+    "en": "Code-based animation on a big screen: circles, wrapping lines and eight colors recombining across dozens of scenes that almost never repeat. A system, not a single finished work.",
+    "he": "אנימציה מבוססת קוד על מסך גדול: עיגולים, קווים שנכרכים סביבם ושמונה צבעים שמתחלפים בעשרות סצנות שכמעט לא חוזרות על עצמן. מערכת, ולא יצירה סגורה אחת."
+   },
+   "info": [
+    {
+     "en": "Rappaport Foyer, Amir Building. Curator: Tal Lanir",
+     "he": "פואייה רפפורט, בניין אמיר. אוצרת: טל לניר"
+    }
+   ],
+   "url": "https://www.tamuseum.org.il/en/exhibition/dmitri-cherniak-ringers-motion/",
+   "urlName": "tamuseum.org.il"
+  },
+  {
+   "id": "ev-circle",
+   "e": "🌱",
+   "ongoing": true,
+   "until": "2027-05-31",
+   "untilLabel": {
+    "en": "through May 2027",
+    "he": "עד מאי 2027"
+   },
+   "cat": {
+    "en": "Design",
+    "he": "עיצוב"
+   },
+   "title": {
+    "en": "The Circle: Designing New Realities",
+    "he": "המעגל: עיצוב ככלי לשינוי מציאות"
+   },
+   "venue": {
+    "en": "Design Museum Holon",
+    "he": "מוזיאון העיצוב חולון"
+   },
+   "city": {
+    "en": "Holon",
+    "he": "חולון"
+   },
+   "addr": "Golda Meir 6",
+   "q": "Design Museum Holon, Golda Meir 6, Holon",
+   "b": {
+    "en": "Dozens of Israeli and international circular-design projects across every gallery: water from air, plant gel cubes, AI-generated clothing systems and a solarpunk video city.",
+    "he": "עשרות פרויקטים ישראליים ובינלאומיים של עיצוב מעגלי בכל הגלריות: מים מלחות האוויר, קוביות ג׳ל לצמחים, מערכות לבוש שנוצרו ב־AI ועיר סולארפאנק בווידאו."
+   },
+   "info": [
+    {
+     "en": "Closed Sundays. Tue 10–20, Fri 10–14, other days 10–18",
+     "he": "סגור בימי ראשון. שלישי 10–20, שישי 10–14, שאר הימים 10–18"
+    }
+   ],
+   "url": "https://www.dmh.org.il/exhibitions/%d7%94%d7%9e%d7%a2%d7%92%d7%9c-%d7%a2%d7%99%d7%a6%d7%95%d7%91-%d7%9b%d7%9b%d7%9c%d7%99-%d7%9c%d7%a9%d7%99%d7%a0%d7%95%d7%99-%d7%9e%d7%a6%d7%99%d7%90%d7%95%d7%aa/",
+   "urlName": "dmh.org.il"
+  },
+  {
+   "id": "ev-biennale-tlv",
+   "e": "🏺",
+   "ongoing": true,
+   "until": "2026-11-07",
+   "cat": {
+    "en": "Craft · Design",
+    "he": "אומנות · עיצוב"
+   },
+   "title": {
+    "en": "Tel Aviv Biennale of Crafts and Design: Works and Days",
+    "he": "הביאנלה לאומנויות ולעיצוב תל אביב: מעשים וימים"
+   },
+   "venue": {
+    "en": "MUZA – Eretz Israel Museum",
+    "he": "מוזה – מוזיאון ארץ ישראל"
+   },
+   "city": {
+    "en": "Tel Aviv",
+    "he": "תל אביב"
+   },
+   "q": "MUZA Eretz Israel Museum, Tel Aviv",
+   "b": {
+    "en": "The third edition, chosen from over 1,500 proposals: ceramics, glass, textile, paper, metal, jewelry, industrial design and video across the whole museum. Last weeks.",
+    "he": "המהדורה השלישית, שנבחרה מתוך יותר מ־1,500 הצעות: קרמיקה, זכוכית, טקסטיל, נייר, מתכת, תכשיטים, עיצוב תעשייתי ווידאו בכל רחבי המוזיאון. שבועות אחרונים."
+   },
+   "info": [
+    {
+     "en": "Curators: Henrietta Eliezer Brunner and Galit Gaon",
+     "he": "אוצרות: הנרייטה אליעזר־ברונר וגלית גאון"
+    }
+   ],
+   "url": "https://www.eretzmuseum.org.il/en/exhibitions/the-tel-aviv-biennale-of-crafts-and-design-2026/",
+   "urlName": "eretzmuseum.org.il"
+  },
+  {
+   "id": "ev-small",
+   "e": "🔬",
+   "ongoing": true,
+   "until": "2026-12-12",
+   "cat": {
+    "en": "Art",
+    "he": "אמנות"
+   },
+   "title": {
+    "en": "Beyond Small: Miniature Worlds in Contemporary Art",
+    "he": "מעבר לקטן: עולמות מיניאטוריים באמנות עכשווית"
+   },
+   "venue": {
+    "en": "Tel Aviv Museum of Art",
+    "he": "מוזיאון תל אביב לאמנות"
+   },
+   "city": {
+    "en": "Tel Aviv",
+    "he": "תל אביב"
+   },
+   "addr": "Shaul HaMelech Blvd 27",
+   "q": "Tel Aviv Museum of Art, Shaul HaMelech Blvd 27, Tel Aviv",
+   "b": {
+    "en": "Starting from the Helena Rubinstein miniature rooms, contemporary artists build tiny, obsessive worlds, often with dark themes. A treat for anyone into set design and stop-motion.",
+    "he": "בהשראת חדרי המיניאטורה של הלנה רובינשטיין, אמנים עכשוויים בונים עולמות זעירים ואובססיביים, לא פעם עם נושאים אפלים. חגיגה למי שאוהב עיצוב תפאורה וסטופ־מושן."
+   },
+   "info": [
+    {
+     "en": "Curator: Galit Landau Epstein",
+     "he": "אוצרת: גלית לנדאו אפשטיין"
+    }
+   ],
+   "url": "https://tamuseum.org.il/en/exhibition/beyond-small-miniature-worlds-contemporary-art/",
+   "urlName": "tamuseum.org.il"
+  }
+ ]
 }
